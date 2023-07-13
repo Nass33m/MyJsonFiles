@@ -2,8 +2,8 @@
   "MainAdNetwork": "Applovin",
   "bannerAdsStatus": "1",
   "InterInterval": "1",
-  "NativeAds": "1",
-  "interAdsInGuide4": "1",
+  "NativeAds": "0",
+  "interAdsInGuide4": "0",
   "InterAds2": "0",
   "interInVoiceChoices": "0",
   "interInVidChoices": "0"
