@@ -3,5 +3,5 @@
   "InterInterval": "2",
   "BackupAdNetwork": "none",
   "LiveVersion": 2,
-  "isDismissible": false
+  "isDismissible": true
 }
