@@ -1,0 +1,7 @@
+{
+  "MainAdNetwork": "AdMob",
+  "InterInterval": "30 seconds",
+  "BackupAdNetwork": "Facebook Audience Network",
+  "LiveVersion": 2,
+  "isDismissible": true
+}
