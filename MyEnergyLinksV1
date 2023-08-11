@@ -1,8 +1,8 @@
 {
-  "MainAdNetwork": "applovin",
+  "MainAdNetwork": "ironsource",
   "InterInterval": "3",
   "BackupAdNetwork": "none",
-  "LeBannerStatus": "0",
+  "LeBannerStatus": "1",
   "LiveVersion": 1,
   "BackUpLink": "",
   "isDismissible": true
