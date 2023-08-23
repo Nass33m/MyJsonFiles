@@ -1,0 +1,12 @@
+{
+    "MainAdNetwork": "applovin",
+    "InterInterval": "2",
+    "LiveVersion": 1,
+    "isDismissible": true,
+    "LeBannerStatus": "1",
+    "BackUpLink": "your_backup_link_here",
+    "AdmobAppID": "your_admob_app_id_here",
+    "AdmobBanner": "your_admob_banner_ad_unit_id_here",
+    "AdmobInter": "your_admob_interstitial_ad_unit_id_here",
+    "AdmobNative": "your_admob_native_ad_unit_id_here"
+}
