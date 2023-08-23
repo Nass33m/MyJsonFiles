@@ -2,6 +2,7 @@
     "MainAdNetwork": "applovin",
     "InterInterval": "2",
     "LiveVersion": 1,
+    "BannerAds": "1",
     "isDismissible": true,
     "LeBannerStatus": "1",
     "BackUpLink": "your_backup_link_here",
