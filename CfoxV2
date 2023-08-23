@@ -6,8 +6,8 @@
     "isDismissible": true,
     "LeBannerStatus": "1",
     "BackUpLink": "your_backup_link_here",
-    "AdmobAppID": "your_admob_app_id_here",
-    "AdmobBanner": "your_admob_banner_ad_unit_id_here",
-    "AdmobInter": "your_admob_interstitial_ad_unit_id_here",
-    "AdmobNative": "your_admob_native_ad_unit_id_here"
+    "AdmobAppID": "ca-app-pub-2784725757935960~6445739913",
+    "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "AdmobInter": "ca-app-pub-3940256099942544/1033173712",
+    "AdmobNative": "ca-app-pub-3940256099942544/2247696110"
 }
