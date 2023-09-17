@@ -1,8 +1,8 @@
 {
-    "MainAdNetwork": "max",
+    "MainAdNetwork": "admob",
     "InterInterval": "2",
-    "LiveVersion": 1,
-    "BannerAds": "1",
+    "LiveVersion": 2,
+    "BannerAds": "0",
     "isDismissible": true,
     "LeBannerStatus": "1",
     "BackUpLink": "",
