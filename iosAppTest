@@ -4,6 +4,7 @@
     "liveVersion": 1,
     "bannerAds": false,
     "isDismissible": true,
+    "isCommunityAvailable": false,
     "admobAppID": "",
     "admobBanner": "",
     "admobInter": "",
