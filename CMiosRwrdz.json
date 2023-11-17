@@ -1,8 +1,8 @@
 {
-    "mainAdNetwork": "admob",
-    "interInterval": 1,
+    "mainAdNetwork": "max",
+    "interInterval": 10,
     "liveVersion": 1,
-    "bannerAds": true,
+    "bannerAds": false,
     "isDismissible": true,
     "isCommunityAvailable": true,
     "admobAppID": "",
