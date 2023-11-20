@@ -2,7 +2,7 @@
     "mainAdNetwork": "admob",
     "interInterval": 4,
     "liveVersion": 1,
-    "bannerAds": false,
+    "bannerAds": true,
     "isDismissible": true,
     "isCommunityAvailable": true,
     "admobAppID": "ca-app-pub-3676542281302128~1819203923",
