@@ -1,6 +1,6 @@
 {
     "mainAdNetwork": "admob",
-    "interInterval": 13,
+    "interInterval": 3,
     "liveVersion": 1,
     "bannerAds": true,
     "isDismissible": true,
