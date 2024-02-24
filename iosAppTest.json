@@ -5,6 +5,7 @@
     "bannerAds": true,
     "isDismissible": true,
     "isCommunityAvailable": true,
+    "isFoxRewardsAvailable": true,
     "admobAppID": "",
     "showChatInter": true,
     "chatInterInterval": 1,
