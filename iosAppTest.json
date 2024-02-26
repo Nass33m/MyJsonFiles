@@ -2,7 +2,7 @@
     "mainAdNetwork": "admob",
     "interInterval": 1,
     "liveVersion": 1,
-    "bannerAds": true,
+    "bannerAds": false,
     "isDismissible": true,
     "isCommunityAvailable": true,
     "isFoxRewardsAvailable": true,
