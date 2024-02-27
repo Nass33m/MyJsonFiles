@@ -1,0 +1,12 @@
+{
+    "mainAdNetwork": "admob",
+    "interInterval": 3,
+    "bannerAds": false,
+    "isCommunityAvailable": true,
+    "admobAppID": "",
+    "showChatInter": false,
+    "chatInterInterval": 3,
+    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "admobInter": "ca-app-pub-3940256099942544/1033173712",
+    "admobChatInter":"ca-app-pub-3940256099942544/1033173712",
+}
