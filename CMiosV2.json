@@ -1,7 +1,7 @@
 {
     "mainAdNetwork": "admob",
-    "interInterval": 3,
-    "bannerAds": false,
+    "interInterval": 2,
+    "bannerAds": true,
     "isCommunityAvailable": true,
     "showChatInter": false,
     "chatInterInterval": 3,
