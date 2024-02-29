@@ -3,8 +3,8 @@
     "interInterval": 2,
     "bannerAds": true,
     "isCommunityAvailable": true,
-    "showChatInter": true,
-    "chatInterInterval": 7,
+    "showChatInter": false,
+    "chatInterInterval": 5,
     "admobBanner": "ca-app-pub-3676542281302128/9735268683",
     "admobInter": "ca-app-pub-3676542281302128/3020604953",
     "admobChatInter": "ca-app-pub-3676542281302128/5416330204"
