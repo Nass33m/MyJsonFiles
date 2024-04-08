@@ -1,0 +1,13 @@
+{
+    "mainAdNetwork": "admob",
+    "interInterval": 2,
+    "liveVersion": 1,
+    "bannerAds": true,
+    "customBanners": false,
+    "isDismissible": true,
+    "isCommunityAvailable": true,
+    "admobAppID": "ca-app-pub-3940256099942544~1458002511",
+    "admobBanner": "ca-app-pub-3940256099942544/2435281174",
+    "admobInter": "ca-app-pub-3940256099942544/4411468910",
+    "admobNative": ""
+}
