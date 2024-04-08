@@ -3,7 +3,7 @@
     "interInterval": 2,
     "liveVersion": 1,
     "bannerAds": true,
-    "customBanners": false,
+    "customBanners": true,
     "isDismissible": true,
     "isCommunityAvailable": true,
     "admobAppID": "ca-app-pub-3940256099942544~1458002511",
