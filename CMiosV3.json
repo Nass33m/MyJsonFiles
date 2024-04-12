@@ -1,7 +1,7 @@
 {
-    "mainAdNetwork": "admob",
+    "mainAdNetwork": "max",
     "interInterval": 2,
-    "bannerAds": true,
+    "bannerAds": false,
     "customBanners": true,
     "isCommunityAvailable": true,
     "admobBanner": "ca-app-pub-3940256099942544/2435281174",
