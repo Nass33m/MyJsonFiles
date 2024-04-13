@@ -1,10 +1,9 @@
 {
     "mainAdNetwork": "max",
-    "interInterval": 2,
-    "bannerAds": false,
-    "customBanners": true,
+    "interInterval": 3,
+    "bannerAds": true,
+    "customBanners": false,
     "isCommunityAvailable": true,
-    "admobBanner": "ca-app-pub-3940256099942544/2435281174",
-    "admobInter": "ca-app-pub-3940256099942544/4411468910",
-    "admobNative": ""
+    "admobBanner": "ca-app-pub-3676542281302128/9735268683",
+    "admobInter": "ca-app-pub-3676542281302128/3020604953",
 }
