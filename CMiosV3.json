@@ -1,5 +1,5 @@
 {
-    "mainAdNetwork": "max",
+    "mainAdNetwork": "admob",
     "interInterval": 3,
     "bannerAds": true,
     "customBanners": false,
