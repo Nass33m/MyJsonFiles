@@ -1,0 +1,10 @@
+{
+    "mainAdNetwork": "admob",
+    "interInterval": 5,
+    "bannerAds": true,
+    "customBanners": false,
+    "isCommunityAvailable": true,
+    "paywallInterval": 1,
+    "admobBanner": "",
+    "admobInter": ""
+}
