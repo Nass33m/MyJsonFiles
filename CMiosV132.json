@@ -4,7 +4,7 @@
     "bannerAds": true,
     "customBanners": false,
     "isCommunityAvailable": true,
-    "paywallInterval": 10,
+    "paywallInterval": 20,
     "autoPaywall": true,
     "admobBanner": "ca-app-pub-3676542281302128/9735268683",
     "admobInter": "ca-app-pub-3676542281302128/3020604953"
