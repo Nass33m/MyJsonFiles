@@ -1,0 +1,11 @@
+{
+    "mainAdNetwork": "max",
+    "interInterval": ,
+    "bannerAds": true,
+    "customBanners": false,
+    "isCommunityAvailable": true,
+    "paywallInterval": ,
+    "autoPaywall": true,
+    "admobBanner": "",
+    "admobInter": ""
+}
