@@ -2,7 +2,7 @@
     "mainAdNetwork": "max",
     "interInterval": null,
     "bannerAds": true,
-    "customBanners": false,
+    "customBanners": true,
     "isCommunityAvailable": true,
     "paywallInterval": null,
     "autoPaywall": null,
