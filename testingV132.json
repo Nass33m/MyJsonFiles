@@ -4,8 +4,8 @@
     "bannerAds": true,
     "customBanners": true,
     "isCommunityAvailable": true,
-    "paywallInterval": null,
-    "autoPaywall": null,
+    "paywallInterval": 20,
+    "autoPaywall": true,
     "admobBanner": "",
     "admobInter": ""
 }
