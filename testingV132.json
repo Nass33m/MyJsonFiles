@@ -1,6 +1,6 @@
 {
     "mainAdNetwork": "max",
-    "interInterval": null,
+    "interInterval": 4,
     "bannerAds": true,
     "customBanners": true,
     "isCommunityAvailable": true,
