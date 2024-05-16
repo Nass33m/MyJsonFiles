@@ -2,7 +2,7 @@
     "mainAdNetwork": "admob",
     "interInterval": 2,
     "bannerAds": true,
-    "customBanners": false,
+    "customBanners": true,
     "isCommunityAvailable": true,
     "paywallInterval": 2,
     "autoPaywall": true,
