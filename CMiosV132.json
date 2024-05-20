@@ -1,6 +1,6 @@
 {
     "mainAdNetwork": "admob",
-    "interInterval": 2,
+    "interInterval": 1,
     "bannerAds": true,
     "customBanners": true,
     "isCommunityAvailable": true,
