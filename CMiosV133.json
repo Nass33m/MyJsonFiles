@@ -2,7 +2,7 @@
     "interInterval": 2,
     "bannerAds": false,
     "customBanners": true,
-    "loadingDelay": 10.0,
+    "loadingDelay": 0.0,
     "isCommunityAvailable": true,
     "paywallInterval": 1,
     "autoPaywall": true,
