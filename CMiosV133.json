@@ -1,6 +1,6 @@
 {
     "interInterval": 2,
-    "bannerAds": true,
+    "bannerAds": false,
     "customBanners": true,
     "isCommunityAvailable": true,
     "paywallInterval": 1,
