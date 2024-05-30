@@ -1,9 +1,9 @@
 {
     "interInterval": 1,
     "bannerAds": true,
-    "customBanners": true,
+    "customBanners": false,
     "loadingDelay": 0.1,
-    "bannerAdInChat": true,
+    "bannerAdInChat": false,
     "isCommunityAvailable": true,
     "paywallInterval": 1,
     "autoPaywall": true,
