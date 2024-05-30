@@ -3,7 +3,7 @@
     "bannerAds": true,
     "customBanners": true,
     "loadingDelay": 0.1,
-    "bannerAdInChat": false,
+    "bannerAdInChat": true,
     "isCommunityAvailable": true,
     "paywallInterval": 1,
     "autoPaywall": true,
