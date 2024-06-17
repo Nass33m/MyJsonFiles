@@ -1,6 +1,6 @@
 {
     "interInterval": 1,
-    "bannerAds": true,
+    "bannerAds": false,
     "customBanners": true,
     "loadingDelay": 0.7,
     "bannerAdInChat": false,
