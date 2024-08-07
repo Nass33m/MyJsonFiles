@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3F2504E0-4F89-11D3-9A0C-0305E82C3301",
+    "name": "Puzzle Quest",
+    "imageName": "puzzle",
+    "rewardsListUrl": "https://github.com/Nass33m/MyJsonFiles/raw/main/backupData.json"
+  },
+  {
+    "id": "3F2504E0-4F89-11D3-9A0C-0305E82C3302",
+    "name": "Space Explorer",
+    "imageName": "space",
+    "rewardsListUrl": "https://github.com/Nass33m/MyJsonFiles/raw/main/backupData.json"
+  },
+  {
+    "id": "3F2504E0-4F89-11D3-9A0C-0305E82C3303",
+    "name": "Farm Village",
+    "imageName": "farm",
+    "rewardsListUrl": "https://github.com/Nass33m/MyJsonFiles/raw/main/backupData.json"
+  },
+  {
+    "id": "3F2504E0-4F89-11D3-9A0C-0305E82C3304",
+    "name": "Racing Fever",
+    "imageName": "racing",
+    "rewardsListUrl": "https://github.com/Nass33m/MyJsonFiles/raw/main/backupData.json"
+  }
+]
