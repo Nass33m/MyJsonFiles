@@ -2,31 +2,25 @@
   {
     "id": "3F2504E0-4F89-11D3-9A0C-0305E82C3301",
     "name": "Puzzle Quest",
-    "imageName": "puzzle"
+    "imageName": "puzzle",
+    "rewardsListUrl": "https://www.mysite.com/games/puzzlequest/rewardslist.json"
   },
   {
     "id": "3F2504E0-4F89-11D3-9A0C-0305E82C3302",
     "name": "Space Explorer",
-    "imageName": "space"
+    "imageName": "space",
+    "rewardsListUrl": "https://www.mysite.com/games/spaceexplorer/rewardslist.json"
   },
   {
     "id": "3F2504E0-4F89-11D3-9A0C-0305E82C3303",
     "name": "Farm Village",
-    "imageName": "farm"
+    "imageName": "farm",
+    "rewardsListUrl": "https://www.mysite.com/games/farmvillage/rewardslist.json"
   },
   {
     "id": "3F2504E0-4F89-11D3-9A0C-0305E82C3304",
     "name": "Racing Fever",
-    "imageName": "racing"
-  },
-  {
-    "id": "3F2504E0-4F89-11D3-9A0C-0305E82C3305",
-    "name": "Zombie Survival",
-    "imageName": "zombie"
-  },
-  {
-    "id": "3F2504E0-4F89-11D3-9A0C-0305E82C3306",
-    "name": "Candy Crush",
-    "imageName": "candy"
+    "imageName": "racing",
+    "rewardsListUrl": "https://www.mysite.com/games/racingfever/rewardslist.json"
   }
 ]
