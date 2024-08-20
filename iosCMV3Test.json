@@ -5,7 +5,7 @@
     "loadingDelay": 1.2,
     "bannerAdInChat": false,
     "isCommunityAvailable": true,
-    "isCfoxAvailable": false,
+    "isCfoxAvailable": true,
     "paywallInterval": 2,
     "autoPaywall": true,
     "admobBanner": "ca-app-pub-3940256099942544/6300978111",
