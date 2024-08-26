@@ -6,7 +6,7 @@
     "bannerAdInChat": false,
     "isCommunityAvailable": true,
     "isCfoxAvailable": true,
-    "isOtherAvailable": true,
+    "isOtherAvailable": false,
     "paywallInterval": 1,
     "autoPaywall": true,
     "admobBanner": "ca-app-pub-3940256099942544/6300978111",
