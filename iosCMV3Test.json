@@ -7,7 +7,7 @@
     "isCommunityAvailable": true,
     "isCfoxAvailable": true,
     "isOtherAvailable": true,
-    "paywallInterval": 1,
+    "paywallInterval": 2,
     "autoPaywall": true,
     "admobBanner": "ca-app-pub-3940256099942544/6300978111",
     "admobInter": "ca-app-pub-3940256099942544/1033173712"
