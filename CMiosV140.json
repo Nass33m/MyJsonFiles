@@ -2,7 +2,7 @@
     "interInterval": 1,
     "bannerAds": false,
     "customBanners": true,
-    "loadingDelay": 0.5,
+    "loadingDelay": 1.0,
     "bannerAdInChat": false,
     "isCommunityAvailable": true,
     "isCfoxAvailable": true,
