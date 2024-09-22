@@ -1,10 +1,10 @@
 {
     "mainAdNetwork": "admob",
-    "interInterval": 1,
+    "interInterval": 3,
     "bannerAds": true,
     "customBanners": true,
     "isCommunityAvailable": true,
-    "paywallInterval": 2,
+    "paywallInterval": 3,
     "autoPaywall": true,
     "admobBanner": "ca-app-pub-3676542281302128/9735268683",
     "admobInter": "ca-app-pub-3676542281302128/3020604953"
