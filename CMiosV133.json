@@ -1,12 +1,12 @@
 {
-    "interInterval": 1,
+    "interInterval": 3,
     "bannerAds": false,
     "customBanners": true,
-    "loadingDelay": 1.2,
+    "loadingDelay": 0.2,
     "bannerAdInChat": false,
     "isCommunityAvailable": true,
-    "paywallInterval": 3,
-    "autoPaywall": true,
+    "paywallInterval": 4,
+    "autoPaywall": false,
     "admobBanner": "ca-app-pub-3676542281302128/9735268683",
     "admobInter": "ca-app-pub-3676542281302128/3020604953"
 }
