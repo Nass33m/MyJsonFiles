@@ -1,8 +1,8 @@
 {
-    "interInterval": 3,
+    "interInterval": 1,
     "bannerAds": false,
     "customBanners": true,
-    "loadingDelay": 0.2,
+    "loadingDelay": 0.5,
     "bannerAdInChat": false,
     "isCommunityAvailable": true,
     "paywallInterval": 4,
