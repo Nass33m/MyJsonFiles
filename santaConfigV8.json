@@ -1,8 +1,8 @@
 {
-  "MainAdNetwork": "AdMob",
-  "InterInterval": 3,
-  "bannerAdsStatus": "0",
-  "NativeAds": "0",
+  "MainAdNetwork": "Admob",
+  "InterInterval": 1,
+  "bannerAdsStatus": "1",
+  "NativeAds": "1",
   "interAdsInGuide4": "0",
   "InterAds2": "0",
   "interInVoiceChoices": "0",
