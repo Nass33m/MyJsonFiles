@@ -1,0 +1,18 @@
+{
+    "interInterval": 1,
+    "bannerAds": false,
+    "customBanners": true,
+    "loadingDelay": 0.0,
+    "bannerAdInChat": false,
+    "isCommunityAvailable": true,
+    "isCfoxAvailable": true,
+    "isOtherAvailable": false,
+    "paywallInterval": 2,
+    "autoPaywall": true,
+    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "admobInter": "ca-app-pub-3940256099942544/1033173712",
+    "admobNative": "",
+    "showNativeInListings": true,
+    "listingsBeforeNative": 6,
+    "maxAllowedListings": 10
+}
