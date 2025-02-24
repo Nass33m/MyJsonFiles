@@ -12,11 +12,11 @@
     "admobBanner": "ca-app-pub-3940256099942544/6300978111",
     "admobInter": "ca-app-pub-3940256099942544/1033173712",
     "admobNative": "ca-app-pub-3940256099942544/3986624511",
-    "tradeAdmobInter: "ca-app-pub-3940256099942544/1033173712",
+    "tradeAdmobInter": "ca-app-pub-3940256099942544/1033173712",
     "showNativeInListings": true,
     "linesBeforeNative": 5,
     "maxAllowedListings": 10,
-    "delayToLoadtradeInter": 10,
-    "delayToShowTradeInter": 10,
+    "delayToLoadtradeInter": 2,
+    "delayToShowTradeInter": 1,
     "intervalTradeInter": 3
 }
