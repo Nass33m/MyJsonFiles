@@ -16,7 +16,6 @@
     "showNativeInListings": true,
     "linesBeforeNative": 5,
     "maxAllowedListings": 10,
-    "delayToLoadtradeInter": 2,
-    "delayToShowTradeInter": 1,
+    "delayToShowTradeInter": 10,
     "intervalTradeInter": 3
 }
