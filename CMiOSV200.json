@@ -1,5 +1,6 @@
 {
     "interInterval": 1,
+    "interTimeDelay":10,
     "bannerAds": false,
     "customBanners": true,
     "loadingDelay": 0.2,
