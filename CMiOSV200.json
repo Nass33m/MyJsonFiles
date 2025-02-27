@@ -18,5 +18,6 @@
     "linesBeforeNative": 5,
     "maxAllowedListings": 10,
     "delayToShowTradeInter": 30,
-    "intervalTradeInter": 2
+    "intervalTradeInter": 2,
+    "isBulkLauncherAvailable": true
 }
