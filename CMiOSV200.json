@@ -20,6 +20,7 @@
     "delayToShowTradeInter": 30,
     "intervalTradeInter": 2,
     "isBulkLauncherAvailable": true,
+    "isBulkFirstSession": true,
     "freeCreditsPerMonth": 2,
     "maxCreditsFromAds": 3,
     "maxLinksPerFreeUse": 5
