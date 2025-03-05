@@ -14,6 +14,7 @@
     "admobInter": "ca-app-pub-3940256099942544/1033173712",
     "admobNative": "ca-app-pub-3940256099942544/3986624511",
     "tradeAdmobInter": "ca-app-pub-3940256099942544/1033173712",
+    "showNewListingInter": false,
     "showNativeInListings": true,
     "linesBeforeNative": 5,
     "maxAllowedListings": 10,
