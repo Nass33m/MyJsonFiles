@@ -9,7 +9,7 @@
     "isCfoxAvailable": true,
     "isOtherAvailable": false,
     "paywallInterval": 5,
-    "autoPaywall": true,
+    "autoPaywall": false,
     "admobBanner": "ca-app-pub-3676542281302128/9735268683",
     "admobInter": "ca-app-pub-3676542281302128/3020604953",
     "admobNative": "ca-app-pub-3676542281302128/4186006645",
