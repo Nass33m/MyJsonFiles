@@ -19,7 +19,7 @@
     "linesBeforeNative": 10,
     "maxAllowedListings": 10,
     "delayToShowTradeInter": 30,
-    "intervalTradeInter": 2,
+    "intervalTradeInter": 1,
     "isBulkLauncherAvailable": true,
     "isShowBulkFirstSession": false,
     "freeCreditsPerMonth": 1,
