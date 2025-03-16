@@ -6,6 +6,7 @@
     "loadingDelay": 1.0,
     "bannerAdInChat": false,
     "isCommunityAvailable": true,
+    "isMarketAvailable": true,
     "isCfoxAvailable": true,
     "isOtherAvailable": false,
     "paywallInterval": 2,
