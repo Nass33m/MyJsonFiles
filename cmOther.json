@@ -1,5 +1,65 @@
 {
     "links": {
+        "680554af151d9": {
+            "id": "680554af151d9",
+            "date": "2025-04-20",
+            "name": "Solitaire Grand Harvest Bonus",
+            "url": "https:\/\/grandharvest.onelink.me\/CT7t\/k9q9501y",
+            "views": 0,
+            "time": 1745179823
+        },
+        "680554aa2dca0": {
+            "id": "680554aa2dca0",
+            "date": "2025-04-20",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "Dice",
+            "number": 25,
+            "url": "https:\/\/mply.io\/V6GxoC1C8xo",
+            "views": 0,
+            "time": 1745179818
+        },
+        "680554a6dcb0c": {
+            "id": "680554a6dcb0c",
+            "date": "2025-04-20",
+            "name": "Match Masters Bonus",
+            "url": "https:\/\/launch.matchmasters.com\/l\/p\/ImGEFNCN3NM",
+            "views": 0,
+            "time": 1745179814
+        },
+        "680554a506c36": {
+            "id": "680554a506c36",
+            "date": "2025-04-20",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "Rolls",
+            "number": 50,
+            "url": "https:\/\/rewards.dicedreams.com\/?handler=reward&link=princesslollyprize19042025",
+            "views": 0,
+            "time": 1745179813
+        },
+        "680554a4e6374": {
+            "id": "680554a4e6374",
+            "date": "2025-04-20",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "Rolls",
+            "number": 50,
+            "url": "https:\/\/rewards.dicedreams.com\/?handler=reward&link=activityreward19042025",
+            "views": 0,
+            "time": 1745179812
+        },
+        "6805549ebcf51": {
+            "id": "6805549ebcf51",
+            "date": "2025-04-20",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "Energy",
+            "number": 10,
+            "url": "https:\/\/api.traveltowngame.net\/public\/rewardLinks\/getLink\/a7Q5AhUS_TRADING",
+            "views": 0,
+            "time": 1745179806
+        },
         "68051c676ba62": {
             "id": "68051c676ba62",
             "date": "2025-04-20",
@@ -57,7 +117,7 @@
             "name": "Travel Town Bonus",
             "game": "Travel Town",
             "type": "Energy",
-            "number": "15",
+            "number": 15,
             "url": "https:\/\/api.traveltowngame.net\/public\/rewardLinks\/getLink\/0e29RS3p_INS",
             "views": 0,
             "time": 1745165408
@@ -68,7 +128,7 @@
             "name": "Travel Town Bonus",
             "game": "Travel Town",
             "type": "Energy",
-            "number": "15",
+            "number": 15,
             "url": "https:\/\/api.traveltowngame.net\/public\/rewardLinks\/getLink\/BATZNKar_TWI",
             "views": 0,
             "time": 1745165407
@@ -296,22 +356,6 @@
             "url": "https:\/\/launch.matchmasters.com\/l\/p\/HzCqwXL704A",
             "views": 0,
             "time": 1745093409
-        },
-        "6804031df35b2": {
-            "date": "2025-04-19",
-            "id": "6804031df35b2",
-            "name": "Dice Dreams Bonus",
-            "url": "https:\/\/rewards.dicedreams.com\/?handler=reward&link=princesslollyprize19042025",
-            "views": 0,
-            "time": 1745093407
-        },
-        "6804031dc9312": {
-            "date": "2025-04-19",
-            "id": "6804031dc9312",
-            "name": "Dice Dreams Bonus",
-            "url": "https:\/\/rewards.dicedreams.com\/?handler=reward&link=activityreward19042025",
-            "views": 0,
-            "time": 1745093406
         },
         "6804031d10b55": {
             "date": "2025-04-19",
