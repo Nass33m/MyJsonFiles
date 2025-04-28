@@ -1,15 +1,81 @@
 {
     "links": {
-        "680ec50e16264": {
+        "680f4ac951212": {
+            "id": "680f4ac951212",
             "date": "2025-04-28",
-            "id": "680ec50e16264",
             "name": "Piggy Go Bonus",
             "game": "Piggy Go",
             "type": "dice",
-            "number": 10,
+            "number": 0,
+            "url": "https:\/\/piggygo-jy.forevernine.com\/fanpage?code=ERZTIWMU&channel=4",
+            "views": 0,
+            "time": 1745832650
+        },
+        "680f4ac920356": {
+            "id": "680f4ac920356",
+            "date": "2025-04-28",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 0,
             "url": "https:\/\/piggygo-jy.forevernine.com\/fanpage?code=ERZTIWMU&channel=1",
             "views": 0,
-            "time": 1745798414
+            "time": 1745832649
+        },
+        "680f4aa65c22e": {
+            "id": "680f4aa65c22e",
+            "date": "2025-04-28",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https:\/\/rewards.dicedreams.com\/?handler=reward&link=sstorychurroprize27042025",
+            "views": 0,
+            "time": 1745832615
+        },
+        "680f4aa62f451": {
+            "id": "680f4aa62f451",
+            "date": "2025-04-28",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https:\/\/rewards.dicedreams.com\/?handler=reward&link=churroprize27042025",
+            "views": 0,
+            "time": 1745832614
+        },
+        "680f4a9ff3373": {
+            "id": "680f4a9ff3373",
+            "date": "2025-04-28",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https:\/\/api.traveltowngame.net\/public\/rewardLinks\/getLink\/Ndcw53rb_FCB",
+            "views": 0,
+            "time": 1745832607
+        },
+        "680f4a9df3937": {
+            "date": "2025-04-28",
+            "id": "680f4a9df3937",
+            "name": "Coin Tales Bonus",
+            "game": "Coin Tales",
+            "type": "other",
+            "number": 0,
+            "url": "https:\/\/bit.ly\/3GrUiF7",
+            "views": 0,
+            "time": 1745832606
+        },
+        "680f4a9d7cdd0": {
+            "date": "2025-04-28",
+            "id": "680f4a9d7cdd0",
+            "name": "Coin Dragon Bonus",
+            "game": "Coin Dragon",
+            "type": "other",
+            "number": 0,
+            "url": "https:\/\/bit.ly\/4cXVJHC",
+            "views": 0,
+            "time": 1745832605
         },
         "680ec50cb002a": {
             "id": "680ec50cb002a",
