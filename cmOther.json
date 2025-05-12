@@ -1,26 +1,48 @@
 {
     "links": {
-        "6821bf9e0f64e": {
+        "6821dbc3ad1c3": {
+            "id": "6821dbc3ad1c3",
             "date": "2025-05-12",
-            "id": "6821bf9e0f64e",
             "name": "Dice Dreams Bonus",
             "game": "Dice Dreams",
-            "type": "other",
-            "number": 50,
-            "url": "https:\/\/rewards.dicedreams.com\/?handler=reward&link=peonknightcorrect11052025",
-            "views": 0,
-            "time": 1747042206
-        },
-        "6821bf9df3a12": {
-            "date": "2025-05-12",
-            "id": "6821bf9df3a12",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "other",
+            "type": "dice",
             "number": 50,
             "url": "https:\/\/rewards.dicedreams.com\/?handler=reward&link=sukunagojo11052025",
             "views": 0,
-            "time": 1747042205
+            "time": 1747049412
+        },
+        "6821dbc39c2e8": {
+            "id": "6821dbc39c2e8",
+            "date": "2025-05-12",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https:\/\/rewards.dicedreams.com\/?handler=reward&link=peonknightcorrect11052025",
+            "views": 0,
+            "time": 1747049411
+        },
+        "6821dbbb6513b": {
+            "date": "2025-05-12",
+            "id": "6821dbbb6513b",
+            "name": "Coin Tales Bonus",
+            "game": "Coin Tales",
+            "type": "other",
+            "number": 0,
+            "url": "https:\/\/bit.ly\/4j1OjUR",
+            "views": 0,
+            "time": 1747049403
+        },
+        "6821c8fb33194": {
+            "id": "6821c8fb33194",
+            "date": "2025-05-12",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 15,
+            "url": "https:\/\/familyisland.onelink.me\/wjlA\/zlr2k9uu",
+            "views": 0,
+            "time": 1747044603
         },
         "6821bf9dc2bad": {
             "id": "6821bf9dc2bad",
