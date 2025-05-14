@@ -1,15 +1,48 @@
 {
     "links": {
-        "682462a747c46": {
-            "id": "682462a747c46",
+        "68247ebeb714a": {
             "date": "2025-05-14",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
+            "id": "68247ebeb714a",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
             "type": "mat masters",
             "number": 0,
             "url": "https:\/\/launch.matchmasters.com\/l\/p\/2MFkAq6Loz0",
             "views": 0,
-            "time": 1747215015
+            "time": 1747222206
+        },
+        "68247ebdddb0f": {
+            "id": "68247ebdddb0f",
+            "date": "2025-05-14",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https:\/\/api.traveltowngame.net\/public\/rewardLinks\/getLink\/NYyFQ1NV_TWI",
+            "views": 0,
+            "time": 1747222205
+        },
+        "68247ebc18d9f": {
+            "date": "2025-05-14",
+            "id": "68247ebc18d9f",
+            "name": "Coin Tales Bonus",
+            "game": "Coin Tales",
+            "type": "other",
+            "number": 0,
+            "url": "https:\/\/bit.ly\/4keKTPO",
+            "views": 0,
+            "time": 1747222204
+        },
+        "68247ebb8e38c": {
+            "date": "2025-05-14",
+            "id": "68247ebb8e38c",
+            "name": "Coin Dragon Bonus",
+            "game": "Coin Dragon",
+            "type": "other",
+            "number": 0,
+            "url": "https:\/\/bit.ly\/4k6Yaty",
+            "views": 0,
+            "time": 1747222203
         },
         "682462a54be8f": {
             "id": "682462a54be8f",
