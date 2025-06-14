@@ -1,26 +1,103 @@
 {
     "links": {
-        "684d90cc79412": {
-            "id": "684d90cc79412",
+        "684dd725a1d0a": {
+            "id": "684dd725a1d0a",
             "date": "2025-06-14",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 10,
-            "url": "https:\/\/thefamilyisland.com\/gift_fb14june25",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https:\/\/mply.io\/lJsfLjjPdjo",
             "views": 0,
-            "time": 1749913805
+            "time": 1749931813
         },
-        "684d90cc1de1f": {
-            "id": "684d90cc1de1f",
+        "684dd723db5a5": {
+            "id": "684dd723db5a5",
             "date": "2025-06-14",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https:\/\/launch.matchmasters.com\/l\/p\/H2qRcTw8gu8",
+            "views": 0,
+            "time": 1749931813
+        },
+        "684dd723b26e2": {
+            "id": "684dd723b26e2",
+            "date": "2025-06-14",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https:\/\/launch.matchmasters.com\/l\/p\/lcgjCXg4hC0",
+            "views": 0,
+            "time": 1749931812
+        },
+        "684dd7238b7de": {
+            "id": "684dd7238b7de",
+            "date": "2025-06-14",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https:\/\/launch.matchmasters.com\/l\/p\/NfxKO07SSPY",
+            "views": 0,
+            "time": 1749931811
+        },
+        "684dd71fa3224": {
+            "date": "2025-06-14",
+            "id": "684dd71fa3224",
             "name": "Family Island Bonus",
             "game": "Family Island",
             "type": "energy",
-            "number": 10,
+            "number": 0,
             "url": "https:\/\/familyisland.onelink.me\/wjlA\/rsnjazfr",
             "views": 0,
-            "time": 1749913804
+            "time": 1749931809
+        },
+        "684dd71f7a982": {
+            "date": "2025-06-14",
+            "id": "684dd71f7a982",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https:\/\/thefamilyisland.com\/gift_fb14june25",
+            "views": 0,
+            "time": 1749931808
+        },
+        "684dd71c8b8b5": {
+            "date": "2025-06-14",
+            "id": "684dd71c8b8b5",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "other",
+            "number": 50,
+            "url": "https:\/\/rewards.dicedreams.com\/?handler=reward&link=lucariopost14062025",
+            "views": 0,
+            "time": 1749931805
+        },
+        "684dd71d7c783": {
+            "id": "684dd71d7c783",
+            "date": "2025-06-14",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https:\/\/api.traveltowngame.net\/public\/rewardLinks\/getLink\/cFZxhmZ2_INS",
+            "views": 0,
+            "time": 1749931805
+        },
+        "684dd71c632ac": {
+            "date": "2025-06-14",
+            "id": "684dd71c632ac",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "other",
+            "number": 50,
+            "url": "https:\/\/rewards.dicedreams.com\/?handler=reward&link=mewstory14062025",
+            "views": 0,
+            "time": 1749931804
         },
         "684d795ddb663": {
             "id": "684d795ddb663",
