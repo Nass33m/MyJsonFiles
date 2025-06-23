@@ -1,5 +1,82 @@
 {
     "links": {
+        "68597c6325193": {
+            "id": "68597c6325193",
+            "date": "2025-06-23",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https:\/\/launch.matchmasters.com\/l\/p\/BQ4IZk22Tbw",
+            "views": 0,
+            "time": 1750695011
+        },
+        "68597c5d524fc": {
+            "date": "2025-06-23",
+            "id": "68597c5d524fc",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https:\/\/piggygo-jy.forevernine.com\/fanpage?code=G7DET3IZ&channel=1",
+            "views": 0,
+            "time": 1750695006
+        },
+        "68597c5cc14fe": {
+            "date": "2025-06-23",
+            "id": "68597c5cc14fe",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https:\/\/launch.matchmasters.com\/l\/p\/u3WyrAZfaRY",
+            "views": 0,
+            "time": 1750695005
+        },
+        "68597c5d01661": {
+            "id": "68597c5d01661",
+            "date": "2025-06-23",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https:\/\/api.traveltowngame.net\/public\/rewardLinks\/getLink\/G1UeNKYo_TWI",
+            "views": 0,
+            "time": 1750695005
+        },
+        "68596e4c30d0b": {
+            "id": "68596e4c30d0b",
+            "date": "2025-06-23",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 15,
+            "url": "https:\/\/familyisland.onelink.me\/wjlA\/a7vi9jjr",
+            "views": 0,
+            "time": 1750691405
+        },
+        "68596e4c00e21": {
+            "id": "68596e4c00e21",
+            "date": "2025-06-23",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 15,
+            "url": "https:\/\/thefamilyisland.com\/gift_fb23june25",
+            "views": 0,
+            "time": 1750691404
+        },
+        "68596e4bc14fa": {
+            "id": "68596e4bc14fa",
+            "date": "2025-06-23",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 15,
+            "url": "https:\/\/familyisland.onelink.me\/wjlA\/yjij41oy",
+            "views": 0,
+            "time": 1750691403
+        },
         "685956eb190f6": {
             "id": "685956eb190f6",
             "date": "2025-06-23",
@@ -9,30 +86,7 @@
             "number": 25,
             "url": "https:\/\/coinraid.sng.link\/A0ojf\/w3oi\/tmcg",
             "views": 0,
-            "time": 1750685419,
-            "source_text": ".energy gifts link 23.6.2025"
-        },
-        "685956de840f2": {
-            "date": "2025-06-23",
-            "id": "685956de840f2",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 0,
-            "url": "https:\/\/familyisland.onelink.me\/wjlA\/yjij41oy",
-            "views": 0,
-            "time": 1750685407
-        },
-        "685956de6bc77": {
-            "date": "2025-06-23",
-            "id": "685956de6bc77",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 0,
-            "url": "https:\/\/thefamilyisland.com\/gift_fb23june25",
-            "views": 0,
-            "time": 1750685406
+            "time": 1750685419
         },
         "685956de69d3f": {
             "id": "685956de69d3f",
@@ -77,17 +131,6 @@
             "url": "https:\/\/bingo-app-dsa.playtika.com\/bingo2-v2-bingoblitz\/incentive\/?incentive=769393ae17d88b2c8746191f618f1822555f50882bce219ec93928554aa0b0e6",
             "views": 0,
             "time": 1750671007
-        },
-        "68591e9d79cdf": {
-            "date": "2025-06-23",
-            "id": "68591e9d79cdf",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 0,
-            "url": "https:\/\/familyisland.onelink.me\/wjlA\/a7vi9jjr",
-            "views": 0,
-            "time": 1750671006
         },
         "68591e9ce47f3": {
             "date": "2025-06-23",
@@ -329,8 +372,7 @@
             "number": 10,
             "url": "https:\/\/coinraid.sng.link\/ch\/A0ojf\/gokq\/erh5",
             "views": 0,
-            "time": 1750584619,
-            "source_text": "energy gifts link 22.6.2025"
+            "time": 1750584619
         },
         "6857cd224e7de": {
             "id": "6857cd224e7de",
