@@ -1,15 +1,125 @@
 {
     "links": {
-        "686440a22abc3": {
-            "id": "686440a22abc3",
-            "date": "2025-07-01",
+        "6864fc232d54a": {
+            "id": "6864fc232d54a",
+            "date": "2025-07-02",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https:\/\/bingo-app-dsa.playtika.com\/bingo2-v2-bingoblitz\/incentive\/?incentive=354e325a722279d91d337d7f6fb137e438ce0bd863df0c1ea2802c0f40e2ef05",
+            "views": 0,
+            "time": 1751448615
+        },
+        "6864fc23010eb": {
+            "id": "6864fc23010eb",
+            "date": "2025-07-02",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https:\/\/bingo-app-dsa.playtika.com\/bingo2-v2-bingoblitz\/incentive\/?incentive=0247c6f43ed76039b7252c3ebab59030f3406c6c7cf4172390646d54016e5679",
+            "views": 0,
+            "time": 1751448614
+        },
+        "6864fc22e0870": {
+            "id": "6864fc22e0870",
+            "date": "2025-07-02",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https:\/\/bingo-app-dsa.playtika.com\/bingo2-v2-bingoblitz\/incentive\/?incentive=5fb8af9e635f3c2c75578b3f690ea20d8e3f280fbf020fd850c71f95e9090300",
+            "views": 0,
+            "time": 1751448613
+        },
+        "6864fc22c61c8": {
+            "id": "6864fc22c61c8",
+            "date": "2025-07-02",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https:\/\/bingo-app-dsa.playtika.com\/bingo2-v2-bingoblitz\/incentive\/?incentive=a87bef71dae47b52c86c29aec894b0b75a1f35e0678beb9dc589246024b7f36a",
+            "views": 0,
+            "time": 1751448612
+        },
+        "6864fc22b226a": {
+            "id": "6864fc22b226a",
+            "date": "2025-07-02",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https:\/\/bingo-app-dsa.playtika.com\/bingo2-v2-bingoblitz\/incentive\/?incentive=7e5cfd5988ad17ec7a7315c999d6303da1fc56f86821fbcc61a97055a3b131a0",
+            "views": 0,
+            "time": 1751448611
+        },
+        "6864fc229abd1": {
+            "id": "6864fc229abd1",
+            "date": "2025-07-02",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https:\/\/bingo-app-dsa.playtika.com\/bingo2-v2-bingoblitz\/incentive\/?incentive=d483d12fac102795628b5f63f60304a1ba207315d2655e380ce39915f7f89ac1",
+            "views": 0,
+            "time": 1751448610
+        },
+        "6864fc1cde0d8": {
+            "date": "2025-07-02",
+            "id": "6864fc1cde0d8",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https:\/\/launch.matchmasters.com\/l\/p\/eJGd7P13gjM",
+            "views": 0,
+            "time": 1751448607
+        },
+        "6864fc1cc6193": {
+            "date": "2025-07-02",
+            "id": "6864fc1cc6193",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https:\/\/launch.matchmasters.com\/l\/p\/w9O014lZjKE",
+            "views": 0,
+            "time": 1751448606
+        },
+        "6864fc1c77b37": {
+            "date": "2025-07-02",
+            "id": "6864fc1c77b37",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https:\/\/launch.matchmasters.com\/l\/p\/ovXojF3wygI",
+            "views": 0,
+            "time": 1751448605
+        },
+        "6864fc1ddd669": {
+            "id": "6864fc1ddd669",
+            "date": "2025-07-02",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https:\/\/api.traveltowngame.net\/public\/rewardLinks\/getLink\/DM5ymCbp_FCB",
+            "views": 0,
+            "time": 1751448605
+        },
+        "6864fc1c34e68": {
+            "date": "2025-07-02",
+            "id": "6864fc1c34e68",
             "name": "Dice Dreams Bonus",
             "game": "Dice Dreams",
-            "type": "dice",
+            "type": "other",
             "number": 50,
             "url": "https:\/\/rewards.dicedreams.com\/?handler=reward&link=fsojsnews01072025",
             "views": 0,
-            "time": 1751400611
+            "time": 1751448604
         },
         "686440a211cf5": {
             "id": "686440a211cf5",
@@ -923,171 +1033,6 @@
             "url": "https:\/\/piggygo-jy.forevernine.com\/fanpage?code=PFH28GF3&channel=1",
             "views": 0,
             "time": 1751274109
-        },
-        "68616569d2866": {
-            "id": "68616569d2866",
-            "date": "2025-06-29",
-            "name": "Animals and Coins Bonus",
-            "game": "Animals and Coins",
-            "type": "energy",
-            "number": 25,
-            "url": "https:\/\/coinraid.sng.link\/A0ojf\/qx74\/rab7",
-            "views": 0,
-            "time": 1751213417
-        },
-        "6861655cd9462": {
-            "date": "2025-06-29",
-            "id": "6861655cd9462",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https:\/\/launch.matchmasters.com\/l\/p\/ZmDOe7yieeE",
-            "views": 0,
-            "time": 1751213407
-        },
-        "6861655cb6ebb": {
-            "date": "2025-06-29",
-            "id": "6861655cb6ebb",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https:\/\/launch.matchmasters.com\/l\/p\/ovXojF3wygI",
-            "views": 0,
-            "time": 1751213406
-        },
-        "6861655c8efb4": {
-            "date": "2025-06-29",
-            "id": "6861655c8efb4",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https:\/\/launch.matchmasters.com\/l\/p\/Q2PnK4j3rD0",
-            "views": 0,
-            "time": 1751213405
-        },
-        "6861655c677d6": {
-            "date": "2025-06-29",
-            "id": "6861655c677d6",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https:\/\/launch.matchmasters.com\/l\/p\/NbspFmYPyVw",
-            "views": 0,
-            "time": 1751213404
-        },
-        "68613fdca9043": {
-            "date": "2025-06-29",
-            "id": "68613fdca9043",
-            "name": "Piggy Go Bonus",
-            "game": "Piggy Go",
-            "type": "dice",
-            "number": 10,
-            "url": "https:\/\/piggygo-jy.forevernine.com\/fanpage?code=F0PPC8GW&channel=1",
-            "views": 0,
-            "time": 1751203806
-        },
-        "68613fdc8bbc2": {
-            "date": "2025-06-29",
-            "id": "68613fdc8bbc2",
-            "name": "Piggy Go Bonus",
-            "game": "Piggy Go",
-            "type": "dice",
-            "number": 10,
-            "url": "https:\/\/piggygo-jy.forevernine.com\/fanpage?code=ZLX93K3B&channel=1",
-            "views": 0,
-            "time": 1751203805
-        },
-        "68613fdc47170": {
-            "date": "2025-06-29",
-            "id": "68613fdc47170",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https:\/\/launch.matchmasters.com\/l\/p\/9f85U5H5Zt8",
-            "views": 0,
-            "time": 1751203804
-        },
-        "68613fdb34eeb": {
-            "date": "2025-06-29",
-            "id": "68613fdb34eeb",
-            "name": "Coin Tales Bonus",
-            "game": "Coin Tales",
-            "type": "other",
-            "number": 0,
-            "url": "https:\/\/bit.ly\/3I2bmlM",
-            "views": 0,
-            "time": 1751203803
-        },
-        "68613fdac7664": {
-            "date": "2025-06-29",
-            "id": "68613fdac7664",
-            "name": "Coin Dragon Bonus",
-            "game": "Coin Dragon",
-            "type": "other",
-            "number": 0,
-            "url": "https:\/\/bit.ly\/43PzHno",
-            "views": 0,
-            "time": 1751203802
-        },
-        "6861079fbeedb": {
-            "id": "6861079fbeedb",
-            "date": "2025-06-29",
-            "name": "Bingo Blitz Bonus",
-            "game": "Bingo Blitz",
-            "type": "other",
-            "number": 0,
-            "url": "https:\/\/bingo-app-dsa.playtika.com\/bingo2-v2-bingoblitz\/incentive\/?incentive=9b35a725eff06b8ecb1755622886c77ce459315323e1763b0e11fea77b563913",
-            "views": 0,
-            "time": 1751189410
-        },
-        "6861079f9fb47": {
-            "id": "6861079f9fb47",
-            "date": "2025-06-29",
-            "name": "Bingo Blitz Bonus",
-            "game": "Bingo Blitz",
-            "type": "other",
-            "number": 0,
-            "url": "https:\/\/bingo-app-dsa.playtika.com\/bingo2-v2-bingoblitz\/incentive\/?incentive=3b38312d3db1cc062dc4c62fd1cb08e62d9e4c843461264a248498f9f9ca9c1c",
-            "views": 0,
-            "time": 1751189409
-        },
-        "6861079f66f58": {
-            "id": "6861079f66f58",
-            "date": "2025-06-29",
-            "name": "Bingo Blitz Bonus",
-            "game": "Bingo Blitz",
-            "type": "other",
-            "number": 0,
-            "url": "https:\/\/bingo-app-dsa.playtika.com\/bingo2-v2-bingoblitz\/incentive\/?incentive=bf732449c5dc6d92a8f1351dfa46851e5b4f348044d1395a9725443434f49bb5",
-            "views": 0,
-            "time": 1751189408
-        },
-        "6861079f4aec7": {
-            "id": "6861079f4aec7",
-            "date": "2025-06-29",
-            "name": "Bingo Blitz Bonus",
-            "game": "Bingo Blitz",
-            "type": "other",
-            "number": 0,
-            "url": "https:\/\/bingo-app-dsa.playtika.com\/bingo2-v2-bingoblitz\/incentive\/?incentive=5cf6569a16ad785c81a3e270d6c8d01ed8770a0ec27479a0fc58e18593719130",
-            "views": 0,
-            "time": 1751189407
-        },
-        "6861079c20266": {
-            "date": "2025-06-29",
-            "id": "6861079c20266",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https:\/\/launch.matchmasters.com\/l\/p\/_jwxTRcVi8w",
-            "views": 0,
-            "time": 1751189404
         }
     }
 }
