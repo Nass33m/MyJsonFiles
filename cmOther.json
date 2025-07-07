@@ -1,26 +1,70 @@
 {
     "links": {
-        "686b9d0ee8a09": {
-            "id": "686b9d0ee8a09",
+        "686bcbde20993": {
             "date": "2025-07-07",
+            "id": "686bcbde20993",
             "name": "Family Island Bonus",
             "game": "Family Island",
             "type": "energy",
-            "number": 10,
-            "url": "https:\/\/familyisland.onelink.me\/wjlA\/fws48n53",
-            "views": 0,
-            "time": 1751883022
-        },
-        "686b9cfb39598": {
-            "id": "686b9cfb39598",
-            "date": "2025-07-07",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 15,
+            "number": 0,
             "url": "https:\/\/thefamilyisland.com\/gift_yt06july25",
             "views": 0,
-            "time": 1751883003
+            "time": 1751895007
+        },
+        "686bcbde6aadc": {
+            "id": "686bcbde6aadc",
+            "date": "2025-07-07",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https:\/\/api.traveltowngame.net\/public\/rewardLinks\/getLink\/hba7iRXP_INS",
+            "views": 0,
+            "time": 1751895007
+        },
+        "686bcbde0b90b": {
+            "date": "2025-07-07",
+            "id": "686bcbde0b90b",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https:\/\/familyisland.onelink.me\/wjlA\/fws48n53",
+            "views": 0,
+            "time": 1751895006
+        },
+        "686bcbde51925": {
+            "id": "686bcbde51925",
+            "date": "2025-07-07",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https:\/\/api.traveltowngame.net\/public\/rewardLinks\/getLink\/pGyUZlL3_TWI",
+            "views": 0,
+            "time": 1751895006
+        },
+        "686bcbdd8b43f": {
+            "date": "2025-07-07",
+            "id": "686bcbdd8b43f",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https:\/\/piggygo-jy.forevernine.com\/fanpage?code=T36I6T4P&channel=1",
+            "views": 0,
+            "time": 1751895005
+        },
+        "686bcbdbd49da": {
+            "date": "2025-07-07",
+            "id": "686bcbdbd49da",
+            "name": "Coin Dragon Bonus",
+            "game": "Coin Dragon",
+            "type": "other",
+            "number": 0,
+            "url": "https:\/\/bit.ly\/3I5s3Nb",
+            "views": 0,
+            "time": 1751895003
         },
         "686b93a2d5a80": {
             "id": "686b93a2d5a80",
