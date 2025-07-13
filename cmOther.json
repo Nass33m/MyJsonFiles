@@ -1,5 +1,49 @@
 {
     "links": {
+        "6874129e066f0": {
+            "id": "6874129e066f0",
+            "date": "2025-07-13",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https:\/\/api.traveltowngame.net\/public\/rewardLinks\/getLink\/rXDdttwC_TRADING",
+            "views": 0,
+            "time": 1752437406
+        },
+        "6874129d3b0bd": {
+            "date": "2025-07-13",
+            "id": "6874129d3b0bd",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https:\/\/launch.matchmasters.com\/l\/p\/lVlhUWFvu9k",
+            "views": 0,
+            "time": 1752437405
+        },
+        "6874129c71e22": {
+            "date": "2025-07-13",
+            "id": "6874129c71e22",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "other",
+            "number": 50,
+            "url": "https:\/\/rewards.dicedreams.com\/?handler=reward&link=albumamricen130725",
+            "views": 0,
+            "time": 1752437404
+        },
+        "6874129bbaa08": {
+            "date": "2025-07-13",
+            "id": "6874129bbaa08",
+            "name": "Coin Tales Bonus",
+            "game": "Coin Tales",
+            "type": "other",
+            "number": 0,
+            "url": "https:\/\/bit.ly\/3IldgOC",
+            "views": 0,
+            "time": 1752437403
+        },
         "6873cc4c47e21": {
             "id": "6873cc4c47e21",
             "date": "2025-07-13",
