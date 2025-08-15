@@ -1,15 +1,125 @@
 {
     "links": {
-        "689f5bdcb0081": {
+        "689f942c773df": {
+            "id": "689f942c773df",
             "date": "2025-08-15",
-            "id": "689f5bdcb0081",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
+            "name": "Solitaire Grand Harvest Bonus",
+            "game": "Solitaire G.H",
+            "type": "other",
+            "number": 0,
+            "url": "https:\/\/grandharvest.onelink.me\/CT7t\/a16sxvqx",
+            "views": 0,
+            "time": 1755288620
+        },
+        "689f9426555a0": {
+            "id": "689f9426555a0",
+            "date": "2025-08-15",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https:\/\/mply.io\/Hue4_BOKwZU",
+            "views": 0,
+            "time": 1755288615
+        },
+        "689f94263c8f2": {
+            "id": "689f94263c8f2",
+            "date": "2025-08-15",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https:\/\/mply.io\/_A2x3bG2ZdA",
+            "views": 0,
+            "time": 1755288614
+        },
+        "689f94242716f": {
+            "id": "689f94242716f",
+            "date": "2025-08-15",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
             "type": "mat masters",
             "number": 0,
             "url": "https:\/\/launch.matchmasters.com\/l\/p\/P-GWkEClRaA",
             "views": 0,
-            "time": 1755274204
+            "time": 1755288613
+        },
+        "689f94240d13b": {
+            "id": "689f94240d13b",
+            "date": "2025-08-15",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https:\/\/launch.matchmasters.com\/l\/p\/XuuNycQihcQ",
+            "views": 0,
+            "time": 1755288612
+        },
+        "689f94223f62b": {
+            "id": "689f94223f62b",
+            "date": "2025-08-15",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https:\/\/rewards.dicedreams.com\/?handler=reward&link=Community150825",
+            "views": 0,
+            "time": 1755288610
+        },
+        "689f941f60037": {
+            "date": "2025-08-15",
+            "id": "689f941f60037",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https:\/\/thefamilyisland.com\/gift_fb15aug25",
+            "views": 0,
+            "time": 1755288608
+        },
+        "689f941e573a0": {
+            "date": "2025-08-15",
+            "id": "689f941e573a0",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https:\/\/piggygo-jy.forevernine.com\/fanpage?code=N8EGNSYZ&channel=1",
+            "views": 0,
+            "time": 1755288607
+        },
+        "689f941e5032e": {
+            "id": "689f941e5032e",
+            "date": "2025-08-15",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https:\/\/api.traveltowngame.net\/public\/rewardLinks\/getLink\/zjau6oFJ_TWI",
+            "views": 0,
+            "time": 1755288607
+        },
+        "689f941e2d1ed": {
+            "id": "689f941e2d1ed",
+            "date": "2025-08-15",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https:\/\/api.traveltowngame.net\/public\/rewardLinks\/getLink\/gMBMBgC5_INS",
+            "views": 0,
+            "time": 1755288606
+        },
+        "689f941c83bcd": {
+            "date": "2025-08-15",
+            "id": "689f941c83bcd",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "other",
+            "number": 50,
+            "url": "https:\/\/rewards.dicedreams.com\/?handler=reward&link=BroadcastCommunity150825",
+            "views": 0,
+            "time": 1755288604
         },
         "689f366d016b8": {
             "id": "689f366d016b8",
