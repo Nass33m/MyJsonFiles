@@ -1,5 +1,71 @@
 {
     "links": {
+        "68a5b303945af": {
+            "id": "68a5b303945af",
+            "date": "2025-08-20",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/0yF7z8ea0tQ",
+            "views": 0,
+            "time": 1755689731
+        },
+        "68a5b3000e6ea": {
+            "id": "68a5b3000e6ea",
+            "date": "2025-08-20",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "http://gnocchi-www.buffalo-ggn.net/bingo2-v2-bingoblitz/incentive/?incentive=5660f52a5968b55104cfea59bc21fdbf5c0a8fdec5ff3bbebf4f8b22464ea893",
+            "views": 0,
+            "time": 1755689728
+        },
+        "68a5b2ffe8f04": {
+            "id": "68a5b2ffe8f04",
+            "date": "2025-08-20",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "http://gnocchi-www.buffalo-ggn.net/bingo2-v2-bingoblitz/incentive/?incentive=400bba86f62bc5ffd67214a9f8d294cb5c63f3ebff15d6e5cd8e83ea0cb150b3",
+            "views": 0,
+            "time": 1755689727
+        },
+        "68a5b2fd64f92": {
+            "id": "68a5b2fd64f92",
+            "date": "2025-08-20",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/yEeHBAyr_INS",
+            "views": 0,
+            "time": 1755689725
+        },
+        "68a5b2fb37a4b": {
+            "date": "2025-08-20",
+            "id": "68a5b2fb37a4b",
+            "name": "Coin Tales Bonus",
+            "game": "Coin Tales",
+            "type": "other",
+            "number": 50,
+            "url": "https://bit.ly/4fNVfVO",
+            "views": 0,
+            "time": 1755689723
+        },
+        "68a5b2fae776b": {
+            "date": "2025-08-20",
+            "id": "68a5b2fae776b",
+            "name": "Coin Dragon Bonus",
+            "game": "Coin Dragon",
+            "type": "energy",
+            "number": 0,
+            "url": "https://bit.ly/46YauJn",
+            "views": 0,
+            "time": 1755689722
+        },
         "68a5959e00eac": {
             "date": "2025-08-20",
             "id": "68a5959e00eac",
@@ -7,7 +73,7 @@
             "game": "Family Island",
             "type": "energy",
             "number": 0,
-            "url": "https:\/\/thefamilyisland.com\/gift_yt19aug25",
+            "url": "https://thefamilyisland.com/gift_yt19aug25",
             "views": 0,
             "time": 1755682211
         },
@@ -18,7 +84,7 @@
             "game": "Family Island",
             "type": "energy",
             "number": 0,
-            "url": "https:\/\/thefamilyisland.com\/gift_inst19aug25",
+            "url": "https://thefamilyisland.com/gift_inst19aug25",
             "views": 0,
             "time": 1755682210
         },
@@ -29,7 +95,7 @@
             "game": "Family Island",
             "type": "energy",
             "number": 0,
-            "url": "https:\/\/thefamilyisland.com\/gift_fb19aug25",
+            "url": "https://thefamilyisland.com/gift_fb19aug25",
             "views": 0,
             "time": 1755682209
         },
@@ -40,20 +106,9 @@
             "game": "Match Master",
             "type": "mat masters",
             "number": 0,
-            "url": "https:\/\/launch.matchmasters.com\/l\/p\/4Zilu60nRvw",
+            "url": "https://launch.matchmasters.com/l/p/4Zilu60nRvw",
             "views": 0,
             "time": 1755682208
-        },
-        "68a5959d2b7e1": {
-            "date": "2025-08-20",
-            "id": "68a5959d2b7e1",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https:\/\/launch.matchmasters.com\/l\/p\/0yF7z8ea0tQ",
-            "views": 0,
-            "time": 1755682207
         },
         "68a5959d17801": {
             "date": "2025-08-20",
@@ -62,7 +117,7 @@
             "game": "Match Master",
             "type": "mat masters",
             "number": 0,
-            "url": "https:\/\/launch.matchmasters.com\/l\/p\/xwXxuid6Kuw",
+            "url": "https://launch.matchmasters.com/l/p/xwXxuid6Kuw",
             "views": 0,
             "time": 1755682206
         },
@@ -73,7 +128,7 @@
             "game": "Travel Town",
             "type": "energy",
             "number": 25,
-            "url": "https:\/\/api.traveltowngame.net\/public\/rewardLinks\/getLink\/RNGt1Hf6_FCB",
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/RNGt1Hf6_FCB",
             "views": 0,
             "time": 1755682206
         },
@@ -84,7 +139,7 @@
             "game": "Dice Dreams",
             "type": "other",
             "number": 50,
-            "url": "https:\/\/rewards-v2.dicedreams.com\/?handler=reward&link=BroadcastCommunity190825",
+            "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity190825",
             "views": 0,
             "time": 1755682205
         },
@@ -95,7 +150,7 @@
             "game": "Dice Dreams",
             "type": "other",
             "number": 50,
-            "url": "https:\/\/rewards-v2.dicedreams.com\/?handler=reward&link=Community190825",
+            "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community190825",
             "views": 0,
             "time": 1755682204
         },
@@ -106,7 +161,7 @@
             "game": "Monopoly Go",
             "type": "dice",
             "number": 25,
-            "url": "https:\/\/mply.io\/8l23IxnPWkg",
+            "url": "https://mply.io/8l23IxnPWkg",
             "views": 0,
             "time": 1755634221
         },
@@ -117,7 +172,7 @@
             "game": "Match Masters",
             "type": "mat masters",
             "number": 0,
-            "url": "https:\/\/launch.matchmasters.com\/l\/p\/6X6aLZE08KI",
+            "url": "https://launch.matchmasters.com/l/p/6X6aLZE08KI",
             "views": 0,
             "time": 1755634220
         },
@@ -128,7 +183,7 @@
             "game": "Solitaire G.H",
             "type": "other",
             "number": 0,
-            "url": "https:\/\/grandharvest.onelink.me\/CT7t\/21oh4azb",
+            "url": "https://grandharvest.onelink.me/CT7t/21oh4azb",
             "views": 0,
             "time": 1755619821
         },
@@ -139,7 +194,7 @@
             "game": "Solitaire G.H",
             "type": "other",
             "number": 0,
-            "url": "https:\/\/grandharvest.onelink.me\/CT7t\/xtvakkro",
+            "url": "https://grandharvest.onelink.me/CT7t/xtvakkro",
             "views": 0,
             "time": 1755619820
         },
@@ -150,7 +205,7 @@
             "game": "Match Masters",
             "type": "mat masters",
             "number": 0,
-            "url": "https:\/\/launch.matchmasters.com\/l\/p\/wCbR1cyU-7E",
+            "url": "https://launch.matchmasters.com/l/p/wCbR1cyU-7E",
             "views": 0,
             "time": 1755610213
         },
@@ -161,7 +216,7 @@
             "game": "Match Masters",
             "type": "mat masters",
             "number": 0,
-            "url": "https:\/\/launch.matchmasters.com\/l\/p\/sSBf1Tvp9_8",
+            "url": "https://launch.matchmasters.com/l/p/sSBf1Tvp9_8",
             "views": 0,
             "time": 1755610212
         },
@@ -172,7 +227,7 @@
             "game": "Family Island",
             "type": "energy",
             "number": 0,
-            "url": "https:\/\/familyisland.onelink.me\/wjlA\/85ftmezq",
+            "url": "https://familyisland.onelink.me/wjlA/85ftmezq",
             "views": 0,
             "time": 1755610211
         },
@@ -183,7 +238,7 @@
             "game": "Family Island",
             "type": "energy",
             "number": 0,
-            "url": "https:\/\/familyisland.onelink.me\/wjlA\/wfdyaexi",
+            "url": "https://familyisland.onelink.me/wjlA/wfdyaexi",
             "views": 0,
             "time": 1755610210
         },
@@ -194,7 +249,7 @@
             "game": "Piggy Go",
             "type": "dice",
             "number": 10,
-            "url": "https:\/\/piggygo-jy.forevernine.com\/fanpage?code=6H3GUPIQ&channel=1",
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=6H3GUPIQ&channel=1",
             "views": 0,
             "time": 1755610209
         },
@@ -205,7 +260,7 @@
             "game": "Piggy Go",
             "type": "dice",
             "number": 10,
-            "url": "https:\/\/piggygo-jy.forevernine.com\/fanpage?code=XP6CVUEK&channel=1",
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=XP6CVUEK&channel=1",
             "views": 0,
             "time": 1755610208
         },
@@ -216,7 +271,7 @@
             "game": "Travel Town",
             "type": "energy",
             "number": 10,
-            "url": "https:\/\/api.traveltowngame.net\/public\/rewardLinks\/getLink\/kxl8FrMy_TWI",
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/kxl8FrMy_TWI",
             "views": 0,
             "time": 1755610207
         },
@@ -227,7 +282,7 @@
             "game": "Match Master",
             "type": "mat masters",
             "number": 0,
-            "url": "https:\/\/launch.matchmasters.com\/l\/p\/bDfhcodVN2g",
+            "url": "https://launch.matchmasters.com/l/p/bDfhcodVN2g",
             "views": 0,
             "time": 1755610206
         },
@@ -238,7 +293,7 @@
             "game": "Travel Town",
             "type": "energy",
             "number": 15,
-            "url": "https:\/\/api.traveltowngame.net\/public\/rewardLinks\/getLink\/41WK0QZi_INS",
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/41WK0QZi_INS",
             "views": 0,
             "time": 1755610206
         },
@@ -249,7 +304,7 @@
             "game": "Coin Tales",
             "type": "other",
             "number": 50,
-            "url": "https:\/\/bit.ly\/4lvRsxL",
+            "url": "https://bit.ly/4lvRsxL",
             "views": 0,
             "time": 1755610204
         },
@@ -260,7 +315,7 @@
             "game": "Bingo Blitz",
             "type": "other",
             "number": 0,
-            "url": "http:\/\/gnocchi-www.buffalo-ggn.net\/bingo2-v2-bingoblitz\/incentive\/?incentive=c83520254bf05d28941db4ec8a7c51c238e077c54ea544ac91c2b9b26c2f0db1",
+            "url": "http://gnocchi-www.buffalo-ggn.net/bingo2-v2-bingoblitz/incentive/?incentive=c83520254bf05d28941db4ec8a7c51c238e077c54ea544ac91c2b9b26c2f0db1",
             "views": 0,
             "time": 1755595812
         },
@@ -271,7 +326,7 @@
             "game": "Bingo Blitz",
             "type": "other",
             "number": 0,
-            "url": "http:\/\/gnocchi-www.buffalo-ggn.net\/bingo2-v2-bingoblitz\/incentive\/?incentive=cdd4f770004a844b87ecc18566f52fdb6cbeb686b6f586afc7460659998c606a",
+            "url": "http://gnocchi-www.buffalo-ggn.net/bingo2-v2-bingoblitz/incentive/?incentive=cdd4f770004a844b87ecc18566f52fdb6cbeb686b6f586afc7460659998c606a",
             "views": 0,
             "time": 1755595811
         },
@@ -282,7 +337,7 @@
             "game": "Bingo Blitz",
             "type": "other",
             "number": 0,
-            "url": "http:\/\/gnocchi-www.buffalo-ggn.net\/bingo2-v2-bingoblitz\/incentive\/?incentive=3c2e5fbecfff6b390a7d2c04d91ba006f7872cf1eba10ca35489670cede51c33",
+            "url": "http://gnocchi-www.buffalo-ggn.net/bingo2-v2-bingoblitz/incentive/?incentive=3c2e5fbecfff6b390a7d2c04d91ba006f7872cf1eba10ca35489670cede51c33",
             "views": 0,
             "time": 1755595810
         },
@@ -293,7 +348,7 @@
             "game": "Bingo Blitz",
             "type": "other",
             "number": 0,
-            "url": "http:\/\/gnocchi-www.buffalo-ggn.net\/bingo2-v2-bingoblitz\/incentive\/?incentive=caf1a36c6bee317d0307c5f457a456379c23574906c000284769c2848077666e",
+            "url": "http://gnocchi-www.buffalo-ggn.net/bingo2-v2-bingoblitz/incentive/?incentive=caf1a36c6bee317d0307c5f457a456379c23574906c000284769c2848077666e",
             "views": 0,
             "time": 1755595809
         },
@@ -304,7 +359,7 @@
             "game": "Travel Town",
             "type": "energy",
             "number": 10,
-            "url": "https:\/\/api.traveltowngame.net\/public\/rewardLinks\/getLink\/9LuUgOta_TRADING",
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/9LuUgOta_TRADING",
             "views": 0,
             "time": 1755595807
         },
@@ -315,7 +370,7 @@
             "game": "Travel Town",
             "type": "energy",
             "number": 25,
-            "url": "https:\/\/api.traveltowngame.net\/public\/rewardLinks\/getLink\/MJao74Uu_FCB",
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/MJao74Uu_FCB",
             "views": 0,
             "time": 1755595806
         },
@@ -326,7 +381,7 @@
             "game": "Dice Dreams",
             "type": "other",
             "number": 50,
-            "url": "https:\/\/rewards-v2.dicedreams.com\/?handler=reward&link=BroadcastCommunity180825",
+            "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity180825",
             "views": 0,
             "time": 1755595804
         },
@@ -337,7 +392,7 @@
             "game": "Coin Dragon",
             "type": "other",
             "number": 0,
-            "url": "https:\/\/bit.ly\/4fJnjd6",
+            "url": "https://bit.ly/4fJnjd6",
             "views": 0,
             "time": 1755595803
         },
@@ -348,7 +403,7 @@
             "game": "Monopoly Go",
             "type": "dice",
             "number": 25,
-            "url": "https:\/\/mply.io\/SgZcQrspO9s",
+            "url": "https://mply.io/SgZcQrspO9s",
             "views": 0,
             "time": 1755547815
         },
@@ -359,7 +414,7 @@
             "game": "Match Masters",
             "type": "mat masters",
             "number": 0,
-            "url": "https:\/\/launch.matchmasters.com\/l\/p\/EzKC89x2v8k",
+            "url": "https://launch.matchmasters.com/l/p/EzKC89x2v8k",
             "views": 0,
             "time": 1755547815
         },
@@ -370,7 +425,7 @@
             "game": "Monopoly Go",
             "type": "dice",
             "number": 25,
-            "url": "https:\/\/mply.io\/C10nbbh8i4g",
+            "url": "https://mply.io/C10nbbh8i4g",
             "views": 0,
             "time": 1755547814
         },
@@ -381,7 +436,7 @@
             "game": "Match Masters",
             "type": "mat masters",
             "number": 0,
-            "url": "https:\/\/launch.matchmasters.com\/l\/p\/5NqvGSYSmDM",
+            "url": "https://launch.matchmasters.com/l/p/5NqvGSYSmDM",
             "views": 0,
             "time": 1755547814
         },
@@ -392,7 +447,7 @@
             "game": "Match Masters",
             "type": "mat masters",
             "number": 0,
-            "url": "https:\/\/launch.matchmasters.com\/l\/p\/t3gcDXxyyaE",
+            "url": "https://launch.matchmasters.com/l/p/t3gcDXxyyaE",
             "views": 0,
             "time": 1755547813
         },
@@ -403,7 +458,7 @@
             "game": "Family Island",
             "type": "energy",
             "number": 0,
-            "url": "https:\/\/familyisland.onelink.me\/wjlA\/py8nvnzu",
+            "url": "https://familyisland.onelink.me/wjlA/py8nvnzu",
             "views": 0,
             "time": 1755547806
         },
@@ -414,7 +469,7 @@
             "game": "Match Master",
             "type": "mat masters",
             "number": 0,
-            "url": "https:\/\/launch.matchmasters.com\/l\/p\/qjt6HfELwA8",
+            "url": "https://launch.matchmasters.com/l/p/qjt6HfELwA8",
             "views": 0,
             "time": 1755533414
         },
@@ -425,7 +480,7 @@
             "game": "Match Master",
             "type": "mat masters",
             "number": 0,
-            "url": "https:\/\/launch.matchmasters.com\/l\/p\/aOmZCBFVyHY",
+            "url": "https://launch.matchmasters.com/l/p/aOmZCBFVyHY",
             "views": 0,
             "time": 1755533413
         },
@@ -436,7 +491,7 @@
             "game": "Solitaire G.H",
             "type": "other",
             "number": 0,
-            "url": "https:\/\/grandharvest.onelink.me\/CT7t\/ngqbyx1u",
+            "url": "https://grandharvest.onelink.me/CT7t/ngqbyx1u",
             "views": 0,
             "time": 1755523821
         },
@@ -447,7 +502,7 @@
             "game": "Solitaire G.H",
             "type": "other",
             "number": 0,
-            "url": "https:\/\/grandharvest.onelink.me\/CT7t\/ofp3066s",
+            "url": "https://grandharvest.onelink.me/CT7t/ofp3066s",
             "views": 0,
             "time": 1755523820
         },
@@ -458,7 +513,7 @@
             "game": "Travel Town",
             "type": "energy",
             "number": 15,
-            "url": "https:\/\/api.traveltowngame.net\/public\/rewardLinks\/getLink\/dRj7rrUD_INS",
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/dRj7rrUD_INS",
             "views": 0,
             "time": 1755523807
         },
@@ -469,7 +524,7 @@
             "game": "Family Island",
             "type": "energy",
             "number": 0,
-            "url": "https:\/\/thefamilyisland.com\/gift_fb18aug25",
+            "url": "https://thefamilyisland.com/gift_fb18aug25",
             "views": 0,
             "time": 1755523806
         },
@@ -480,7 +535,7 @@
             "game": "Travel Town",
             "type": "energy",
             "number": 10,
-            "url": "https:\/\/api.traveltowngame.net\/public\/rewardLinks\/getLink\/H5Rulz73_TWI",
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/H5Rulz73_TWI",
             "views": 0,
             "time": 1755523806
         },
@@ -491,7 +546,7 @@
             "game": "Family Island",
             "type": "energy",
             "number": 0,
-            "url": "https:\/\/familyisland.onelink.me\/wjlA\/5t49g4u5",
+            "url": "https://familyisland.onelink.me/wjlA/5t49g4u5",
             "views": 0,
             "time": 1755516606
         },
@@ -502,7 +557,7 @@
             "game": "Travel Town",
             "type": "energy",
             "number": 25,
-            "url": "https:\/\/api.traveltowngame.net\/public\/rewardLinks\/getLink\/yi4xwUz9_FCB",
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/yi4xwUz9_FCB",
             "views": 0,
             "time": 1755516606
         },
@@ -513,7 +568,7 @@
             "game": "Piggy Go",
             "type": "dice",
             "number": 10,
-            "url": "https:\/\/piggygo-jy.forevernine.com\/fanpage?code=PZG2W6EQ&channel=1",
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=PZG2W6EQ&channel=1",
             "views": 0,
             "time": 1755516605
         },
@@ -524,7 +579,7 @@
             "game": "Coin Dragon",
             "type": "other",
             "number": 0,
-            "url": "https:\/\/bit.ly\/3HbJufa",
+            "url": "https://bit.ly/3HbJufa",
             "views": 0,
             "time": 1755516603
         },
@@ -535,7 +590,7 @@
             "game": "Bingo Blitz",
             "type": "other",
             "number": 0,
-            "url": "http:\/\/gnocchi-www.buffalo-ggn.net\/bingo2-v2-bingoblitz\/incentive\/?incentive=ed37cf15c596b39d2fccaa5e3d8214bd34ab71c36216a1eb01937f73febc26b9",
+            "url": "http://gnocchi-www.buffalo-ggn.net/bingo2-v2-bingoblitz/incentive/?incentive=ed37cf15c596b39d2fccaa5e3d8214bd34ab71c36216a1eb01937f73febc26b9",
             "views": 0,
             "time": 1755509412
         },
@@ -546,7 +601,7 @@
             "game": "Bingo Blitz",
             "type": "other",
             "number": 0,
-            "url": "http:\/\/gnocchi-www.buffalo-ggn.net\/bingo2-v2-bingoblitz\/incentive\/?incentive=39eb136620a0da2e073df9ed7001a255f5acc5086a656169c0234a30e60da75d",
+            "url": "http://gnocchi-www.buffalo-ggn.net/bingo2-v2-bingoblitz/incentive/?incentive=39eb136620a0da2e073df9ed7001a255f5acc5086a656169c0234a30e60da75d",
             "views": 0,
             "time": 1755509411
         },
@@ -557,7 +612,7 @@
             "game": "Bingo Blitz",
             "type": "other",
             "number": 0,
-            "url": "http:\/\/gnocchi-www.buffalo-ggn.net\/bingo2-v2-bingoblitz\/incentive\/?incentive=656d03401513ab2b1d784708ceb5d92b5356355065691ca158db1ec4d5406fe8",
+            "url": "http://gnocchi-www.buffalo-ggn.net/bingo2-v2-bingoblitz/incentive/?incentive=656d03401513ab2b1d784708ceb5d92b5356355065691ca158db1ec4d5406fe8",
             "views": 0,
             "time": 1755509410
         },
@@ -568,7 +623,7 @@
             "game": "Bingo Blitz",
             "type": "other",
             "number": 0,
-            "url": "http:\/\/gnocchi-www.buffalo-ggn.net\/bingo2-v2-bingoblitz\/incentive\/?incentive=dfcafec020d95e0821bc8cb3de2c95d4e71eb1301aa13ab7d0157acfbf2e286a",
+            "url": "http://gnocchi-www.buffalo-ggn.net/bingo2-v2-bingoblitz/incentive/?incentive=dfcafec020d95e0821bc8cb3de2c95d4e71eb1301aa13ab7d0157acfbf2e286a",
             "views": 0,
             "time": 1755509409
         },
@@ -579,7 +634,7 @@
             "game": "Bingo Blitz",
             "type": "other",
             "number": 0,
-            "url": "http:\/\/gnocchi-www.buffalo-ggn.net\/bingo2-v2-bingoblitz\/incentive\/?incentive=6f6c95723b9b5c73ccfc35c83d8d31f50d339badf1ce901cb4655a9a1c397e4a",
+            "url": "http://gnocchi-www.buffalo-ggn.net/bingo2-v2-bingoblitz/incentive/?incentive=6f6c95723b9b5c73ccfc35c83d8d31f50d339badf1ce901cb4655a9a1c397e4a",
             "views": 0,
             "time": 1755509408
         },
@@ -590,7 +645,7 @@
             "game": "Piggy Go",
             "type": "dice",
             "number": 10,
-            "url": "https:\/\/piggygo-jy.forevernine.com\/fanpage?code=EB5S2ETN&channel=1",
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=EB5S2ETN&channel=1",
             "views": 0,
             "time": 1755509406
         },
@@ -601,7 +656,7 @@
             "game": "Dice Dreams",
             "type": "other",
             "number": 50,
-            "url": "https:\/\/rewards.dicedreams.com\/?handler=reward&link=Community170825",
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=Community170825",
             "views": 0,
             "time": 1755509405
         },
@@ -612,7 +667,7 @@
             "game": "Coin Tales",
             "type": "other",
             "number": 50,
-            "url": "https:\/\/bit.ly\/476D1wB",
+            "url": "https://bit.ly/476D1wB",
             "views": 0,
             "time": 1755509404
         }
