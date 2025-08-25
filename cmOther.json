@@ -1,5 +1,82 @@
 {
     "links": {
+        "68ac656421899": {
+            "id": "68ac656421899",
+            "date": "2025-08-25",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/6FqJi2VX_TWI",
+            "views": 0,
+            "time": 1756128612
+        },
+        "68ac65613381a": {
+            "date": "2025-08-25",
+            "id": "68ac65613381a",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_inst25aug25",
+            "views": 0,
+            "time": 1756128611
+        },
+        "68ac656004050": {
+            "date": "2025-08-25",
+            "id": "68ac656004050",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_fb25aug25",
+            "views": 0,
+            "time": 1756128610
+        },
+        "68ac655fda3ef": {
+            "date": "2025-08-25",
+            "id": "68ac655fda3ef",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://familyisland.onelink.me/wjlA/mwtqhect",
+            "views": 0,
+            "time": 1756128609
+        },
+        "68ac655f33624": {
+            "date": "2025-08-25",
+            "id": "68ac655f33624",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=X6WZ764U&channel=1",
+            "views": 0,
+            "time": 1756128608
+        },
+        "68ac655e9e8ac": {
+            "date": "2025-08-25",
+            "id": "68ac655e9e8ac",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/RlPFS4YbNjk",
+            "views": 0,
+            "time": 1756128607
+        },
+        "68ac655e7e184": {
+            "date": "2025-08-25",
+            "id": "68ac655e7e184",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/bU03nrEWpEI",
+            "views": 0,
+            "time": 1756128606
+        },
         "68ac493bce0b8": {
             "date": "2025-08-25",
             "id": "68ac493bce0b8",
