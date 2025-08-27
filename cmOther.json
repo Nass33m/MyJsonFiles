@@ -1,5 +1,38 @@
 {
     "links": {
+        "68aeec4bb2305": {
+            "id": "68aeec4bb2305",
+            "date": "2025-08-27",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/LPziHlVubOs",
+            "views": 0,
+            "time": 1756294219
+        },
+        "68aeec40850ff": {
+            "id": "68aeec40850ff",
+            "date": "2025-08-27",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/UImzjOgH_FCB",
+            "views": 0,
+            "time": 1756294209
+        },
+        "68aeec40672c0": {
+            "id": "68aeec40672c0",
+            "date": "2025-08-27",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/8ChOWCwn_INS",
+            "views": 0,
+            "time": 1756294208
+        },
         "68aed02fdc5b8": {
             "id": "68aed02fdc5b8",
             "date": "2025-08-27",
@@ -65,17 +98,6 @@
             "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=6ebf4266df2921a259045e4d6c88aa0be8e1b2d19f4b71b3dc980e59ec08682e",
             "views": 0,
             "time": 1756287013
-        },
-        "68aed01dddc19": {
-            "date": "2025-08-27",
-            "id": "68aed01dddc19",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/LPziHlVubOs",
-            "views": 0,
-            "time": 1756287005
         },
         "68aed01cb1bea": {
             "date": "2025-08-27",
