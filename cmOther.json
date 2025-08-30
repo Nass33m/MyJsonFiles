@@ -1,5 +1,60 @@
 {
     "links": {
+        "68b2c4a555278": {
+            "id": "68b2c4a555278",
+            "date": "2025-08-30",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=4186564d08732025e5a0f7a2e591b1379a8323f0ab3fb16dc29b14880c645e00",
+            "views": 0,
+            "time": 1756546215
+        },
+        "68b2c4a537ef1": {
+            "id": "68b2c4a537ef1",
+            "date": "2025-08-30",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=e7ac38e2f419175a653239821f8435ae437011e51950ccd93ed56ad1cb3f77cc",
+            "views": 0,
+            "time": 1756546214
+        },
+        "68b2c4a5199e5": {
+            "id": "68b2c4a5199e5",
+            "date": "2025-08-30",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=bd06e785b1961e55fc92b5403b49f8819bbb74859b210bc839479ec1995b1ba6",
+            "views": 0,
+            "time": 1756546213
+        },
+        "68b2c49c5804d": {
+            "date": "2025-08-30",
+            "id": "68b2c49c5804d",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "other",
+            "number": 50,
+            "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community290825",
+            "views": 0,
+            "time": 1756546205
+        },
+        "68b2c49c362e8": {
+            "date": "2025-08-30",
+            "id": "68b2c49c362e8",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "other",
+            "number": 50,
+            "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity290825",
+            "views": 0,
+            "time": 1756546204
+        },
         "68b209306f28b": {
             "id": "68b209306f28b",
             "date": "2025-08-29",
@@ -659,149 +714,6 @@
             "url": "https://bit.ly/3HzSURP",
             "views": 0,
             "time": 1756373404
-        },
-        "68af2e3a5b891": {
-            "id": "68af2e3a5b891",
-            "date": "2025-08-27",
-            "name": "Solitaire Grand Harvest Bonus",
-            "game": "Solitaire G.H",
-            "type": "other",
-            "number": 0,
-            "url": "https://grandharvest.onelink.me/CT7t/f2vib8aw",
-            "views": 0,
-            "time": 1756311098
-        },
-        "68af087e82842": {
-            "id": "68af087e82842",
-            "date": "2025-08-27",
-            "name": "Solitaire Grand Harvest Bonus",
-            "game": "Solitaire G.H",
-            "type": "other",
-            "number": 0,
-            "url": "https://grandharvest.onelink.me/CT7t/q3o5b1uq",
-            "views": 0,
-            "time": 1756301438
-        },
-        "68af08608591d": {
-            "id": "68af08608591d",
-            "date": "2025-08-27",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 10,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/09UIVEgg_TWI",
-            "views": 0,
-            "time": 1756301408
-        },
-        "68aeec4bb2305": {
-            "id": "68aeec4bb2305",
-            "date": "2025-08-27",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/LPziHlVubOs",
-            "views": 0,
-            "time": 1756294219
-        },
-        "68aeec40850ff": {
-            "id": "68aeec40850ff",
-            "date": "2025-08-27",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 25,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/UImzjOgH_FCB",
-            "views": 0,
-            "time": 1756294209
-        },
-        "68aeec40672c0": {
-            "id": "68aeec40672c0",
-            "date": "2025-08-27",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 15,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/8ChOWCwn_INS",
-            "views": 0,
-            "time": 1756294208
-        },
-        "68aed02fdc5b8": {
-            "id": "68aed02fdc5b8",
-            "date": "2025-08-27",
-            "name": "Monopoly Go Bonus",
-            "game": "Monopoly Go",
-            "type": "dice",
-            "number": 25,
-            "url": "https://mply.io/ZO0hcCoixps",
-            "views": 0,
-            "time": 1756287023
-        },
-        "68aed025cde74": {
-            "id": "68aed025cde74",
-            "date": "2025-08-27",
-            "name": "Bingo Blitz Bonus",
-            "game": "Bingo Blitz",
-            "type": "other",
-            "number": 0,
-            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=ac80ae0c69f343871ad2f440e8c20564698fd538c1d86541255bfdec24a889f7",
-            "views": 0,
-            "time": 1756287017
-        },
-        "68aed02597a5a": {
-            "id": "68aed02597a5a",
-            "date": "2025-08-27",
-            "name": "Bingo Blitz Bonus",
-            "game": "Bingo Blitz",
-            "type": "other",
-            "number": 0,
-            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=4d36781d6df317471e7e73cde96501901620fa9db31139d44e1792698254fa3f",
-            "views": 0,
-            "time": 1756287016
-        },
-        "68aed0258129b": {
-            "id": "68aed0258129b",
-            "date": "2025-08-27",
-            "name": "Bingo Blitz Bonus",
-            "game": "Bingo Blitz",
-            "type": "other",
-            "number": 0,
-            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=f93ada7cf62dd584968248a6a0035d2ce57641fc664a45ace812bd0d837e09b6",
-            "views": 0,
-            "time": 1756287015
-        },
-        "68aed0256dd53": {
-            "id": "68aed0256dd53",
-            "date": "2025-08-27",
-            "name": "Bingo Blitz Bonus",
-            "game": "Bingo Blitz",
-            "type": "other",
-            "number": 0,
-            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=bb0f8051385a3b2e0cf394825f8733faafcac7335f5469939f1691cd900a9ec7",
-            "views": 0,
-            "time": 1756287014
-        },
-        "68aed0254724f": {
-            "id": "68aed0254724f",
-            "date": "2025-08-27",
-            "name": "Bingo Blitz Bonus",
-            "game": "Bingo Blitz",
-            "type": "other",
-            "number": 0,
-            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=6ebf4266df2921a259045e4d6c88aa0be8e1b2d19f4b71b3dc980e59ec08682e",
-            "views": 0,
-            "time": 1756287013
-        },
-        "68aed01cb1bea": {
-            "date": "2025-08-27",
-            "id": "68aed01cb1bea",
-            "name": "Coin Tales Bonus",
-            "game": "Coin Tales",
-            "type": "other",
-            "number": 0,
-            "url": "https://bit.ly/3VkjAcl",
-            "views": 0,
-            "time": 1756287004
         }
     }
 }
