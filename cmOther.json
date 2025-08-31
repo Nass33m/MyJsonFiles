@@ -1,5 +1,49 @@
 {
     "links": {
+        "68b4742ea9402": {
+            "id": "68b4742ea9402",
+            "date": "2025-08-31",
+            "name": "Solitaire Grand Harvest Bonus",
+            "game": "Solitaire G.H",
+            "type": "other",
+            "number": 0,
+            "url": "https://grandharvest.onelink.me/CT7t/35416gk8",
+            "views": 0,
+            "time": 1756656687
+        },
+        "68b4742e877fd": {
+            "id": "68b4742e877fd",
+            "date": "2025-08-31",
+            "name": "Solitaire Grand Harvest Bonus",
+            "game": "Solitaire G.H",
+            "type": "other",
+            "number": 0,
+            "url": "https://grandharvest.onelink.me/CT7t/j7s9p7y8",
+            "views": 0,
+            "time": 1756656686
+        },
+        "68b473e62c29f": {
+            "id": "68b473e62c29f",
+            "date": "2025-08-31",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/fCNt5XZO_TRADING",
+            "views": 0,
+            "time": 1756656614
+        },
+        "68b473e31554a": {
+            "date": "2025-08-31",
+            "id": "68b473e31554a",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_fb31aug25",
+            "views": 0,
+            "time": 1756656611
+        },
         "68b44e5ee69eb": {
             "date": "2025-08-31",
             "id": "68b44e5ee69eb",
