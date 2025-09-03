@@ -1,5 +1,49 @@
 {
     "links": {
+        "68b842fabebe4": {
+            "id": "68b842fabebe4",
+            "date": "2025-09-03",
+            "name": "Solitaire Grand Harvest Bonus",
+            "game": "Solitaire G.H",
+            "type": "other",
+            "number": 0,
+            "url": "https://grandharvest.onelink.me/CT7t/1sgekuui",
+            "views": 0,
+            "time": 1756906234
+        },
+        "68b842ef01826": {
+            "id": "68b842ef01826",
+            "date": "2025-09-03",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/EM3EH6dpxqo",
+            "views": 0,
+            "time": 1756906223
+        },
+        "68b842e34b8ca": {
+            "id": "68b842e34b8ca",
+            "date": "2025-09-03",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/qNbj1YVT_TWI",
+            "views": 0,
+            "time": 1756906212
+        },
+        "68b842e326c52": {
+            "id": "68b842e326c52",
+            "date": "2025-09-03",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/oOwl99QU_INS",
+            "views": 0,
+            "time": 1756906211
+        },
         "68b80aaf453d5": {
             "id": "68b80aaf453d5",
             "date": "2025-09-03",
