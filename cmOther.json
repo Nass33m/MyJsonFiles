@@ -1,5 +1,38 @@
 {
     "links": {
+        "68bae5f9494d1": {
+            "id": "68bae5f9494d1",
+            "date": "2025-09-05",
+            "name": "Solitaire Grand Harvest Bonus",
+            "game": "Solitaire G.H",
+            "type": "other",
+            "number": 0,
+            "url": "https://grandharvest.onelink.me/CT7t/a3l114zw",
+            "views": 0,
+            "time": 1757079033
+        },
+        "68bae5e210273": {
+            "id": "68bae5e210273",
+            "date": "2025-09-05",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/qEy7oQ9u_TWI",
+            "views": 0,
+            "time": 1757079010
+        },
+        "68bae5de049bb": {
+            "date": "2025-09-05",
+            "id": "68bae5de049bb",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=EQ89U8N3&channel=1",
+            "views": 0,
+            "time": 1757079006
+        },
         "68bac9c1a6a27": {
             "id": "68bac9c1a6a27",
             "date": "2025-09-05",
