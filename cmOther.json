@@ -1,5 +1,60 @@
 {
     "links": {
+        "68c571fe9b029": {
+            "id": "68c571fe9b029",
+            "date": "2025-09-13",
+            "name": "Solitaire Grand Harvest Bonus",
+            "game": "Solitaire G.H",
+            "type": "other",
+            "number": 0,
+            "url": "https://grandharvest.onelink.me/CT7t/kpln4txu",
+            "views": 0,
+            "time": 1757770238
+        },
+        "68c571e44664e": {
+            "id": "68c571e44664e",
+            "date": "2025-09-13",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/2xFjCDeB_INS",
+            "views": 0,
+            "time": 1757770212
+        },
+        "68c571e0e9726": {
+            "date": "2025-09-13",
+            "id": "68c571e0e9726",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_fb13sep25",
+            "views": 0,
+            "time": 1757770209
+        },
+        "68c571e0b3adf": {
+            "date": "2025-09-13",
+            "id": "68c571e0b3adf",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://familyisland.onelink.me/wjlA/ozoxq2zh",
+            "views": 0,
+            "time": 1757770208
+        },
+        "68c571deabfcc": {
+            "date": "2025-09-13",
+            "id": "68c571deabfcc",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/PPl61uhNC10",
+            "views": 0,
+            "time": 1757770206
+        },
         "68c555c219899": {
             "id": "68c555c219899",
             "date": "2025-09-13",
