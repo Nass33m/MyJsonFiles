@@ -1,5 +1,49 @@
 {
     "links": {
+        "68c72130d46ec": {
+            "id": "68c72130d46ec",
+            "date": "2025-09-14",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/r0yZV9t_LaU",
+            "views": 0,
+            "time": 1757880624
+        },
+        "68c7212d81720": {
+            "id": "68c7212d81720",
+            "date": "2025-09-14",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=crosswordchallenge140925",
+            "views": 0,
+            "time": 1757880622
+        },
+        "68c7212d4e9b7": {
+            "id": "68c7212d4e9b7",
+            "date": "2025-09-14",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=pixielastday140925",
+            "views": 0,
+            "time": 1757880621
+        },
+        "68c721238d498": {
+            "id": "68c721238d498",
+            "date": "2025-09-14",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/BX9lCEW9_TWI",
+            "views": 0,
+            "time": 1757880611
+        },
         "68c6e8f82e657": {
             "id": "68c6e8f82e657",
             "date": "2025-09-14",
