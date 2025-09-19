@@ -1,5 +1,60 @@
 {
     "links": {
+        "68cd5aecd2366": {
+            "id": "68cd5aecd2366",
+            "date": "2025-09-19",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/ZpBnXjLAjBQ",
+            "views": 0,
+            "time": 1758288620
+        },
+        "68cd5ae24112a": {
+            "id": "68cd5ae24112a",
+            "date": "2025-09-19",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/OQxTW6T6_TWI",
+            "views": 0,
+            "time": 1758288611
+        },
+        "68cd5ae21982c": {
+            "id": "68cd5ae21982c",
+            "date": "2025-09-19",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/HaPp13rz_INS",
+            "views": 0,
+            "time": 1758288610
+        },
+        "68cd5adef0c07": {
+            "date": "2025-09-19",
+            "id": "68cd5adef0c07",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_fb19sep25",
+            "views": 0,
+            "time": 1758288607
+        },
+        "68cd5adeb50a0": {
+            "date": "2025-09-19",
+            "id": "68cd5adeb50a0",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://familyisland.onelink.me/wjlA/mkr5nm9z",
+            "views": 0,
+            "time": 1758288606
+        },
         "68cd22ad08bb8": {
             "id": "68cd22ad08bb8",
             "date": "2025-09-19",
