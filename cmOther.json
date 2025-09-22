@@ -1,5 +1,49 @@
 {
     "links": {
+        "68d1ad281e8ed": {
+            "id": "68d1ad281e8ed",
+            "date": "2025-09-22",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=basketballchallenge220925",
+            "views": 0,
+            "time": 1758571817
+        },
+        "68d1ad2808950": {
+            "id": "68d1ad2808950",
+            "date": "2025-09-22",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=goldentrail220925",
+            "views": 0,
+            "time": 1758571816
+        },
+        "68d1ad2170996": {
+            "id": "68d1ad2170996",
+            "date": "2025-09-22",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/Q08u9N5a_TWI",
+            "views": 0,
+            "time": 1758571809
+        },
+        "68d1ad1d3e48d": {
+            "date": "2025-09-22",
+            "id": "68d1ad1d3e48d",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/7pUiHZ7TVXo",
+            "views": 0,
+            "time": 1758571806
+        },
         "68d174f5a4c0e": {
             "id": "68d174f5a4c0e",
             "date": "2025-09-22",
