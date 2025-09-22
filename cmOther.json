@@ -1,5 +1,49 @@
 {
     "links": {
+        "68d1334552677": {
+            "id": "68d1334552677",
+            "date": "2025-09-22",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=a2e929d732353a7ff429188454e4f7b2ebe506bb011b8c8608880c77d6dfa2cf",
+            "views": 0,
+            "time": 1758540614
+        },
+        "68d133453aba1": {
+            "id": "68d133453aba1",
+            "date": "2025-09-22",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=35d14871172636a8e2fddebbc5f694766ea131397c7b3089e0eeec90bae26bd0",
+            "views": 0,
+            "time": 1758540613
+        },
+        "68d133417630c": {
+            "id": "68d133417630c",
+            "date": "2025-09-22",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/Bwx9dSog_FCB",
+            "views": 0,
+            "time": 1758540610
+        },
+        "68d1334158f61": {
+            "id": "68d1334158f61",
+            "date": "2025-09-22",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/D1JorsHO_INS",
+            "views": 0,
+            "time": 1758540609
+        },
         "68d1171e43f7e": {
             "date": "2025-09-22",
             "id": "68d1171e43f7e",
