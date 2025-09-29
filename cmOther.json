@@ -1,5 +1,60 @@
 {
     "links": {
+        "68da89f8c20ec": {
+            "id": "68da89f8c20ec",
+            "date": "2025-09-29",
+            "name": "Solitaire Grand Harvest Bonus",
+            "game": "Solitaire G.H",
+            "type": "other",
+            "number": 0,
+            "url": "https://grandharvest.onelink.me/CT7t/ezne6u40",
+            "views": 0,
+            "time": 1759152632
+        },
+        "68da89e2f1f88": {
+            "id": "68da89e2f1f88",
+            "date": "2025-09-29",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/nVlAf3Jh_TRADING",
+            "views": 0,
+            "time": 1759152612
+        },
+        "68da89e2c8b01": {
+            "id": "68da89e2c8b01",
+            "date": "2025-09-29",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/cgWaL826_TWI",
+            "views": 0,
+            "time": 1759152611
+        },
+        "68da89e2a0583": {
+            "id": "68da89e2a0583",
+            "date": "2025-09-29",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/h61e6W1t_INS",
+            "views": 0,
+            "time": 1759152610
+        },
+        "68da89de45bcd": {
+            "date": "2025-09-29",
+            "id": "68da89de45bcd",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/XKti9WWp4Dc",
+            "views": 0,
+            "time": 1759152606
+        },
         "68da6dc843191": {
             "id": "68da6dc843191",
             "date": "2025-09-29",
