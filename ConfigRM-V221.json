@@ -23,6 +23,6 @@
     "intervalTradeInter": 7,
     "isCollapsibleBanner": false,
     "admobCollapsibleBanner": "ca-app-pub-3676542281302128/3788388840",
-    "notificationDialogInterval": 3,
+    "notificationDialogInterval": 300,
     "showNotificationDialog": false
 }
