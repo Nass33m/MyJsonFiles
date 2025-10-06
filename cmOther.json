@@ -1,37 +1,59 @@
 {
     "links": {
-        "68e3e9f1a5b83": {
-            "id": "68e3e9f1a5b83",
+        "68e4222d09907": {
+            "id": "68e4222d09907",
             "date": "2025-10-06",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/cRFRdbau7L4",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 100,
+            "url": "https://mply.io/QeOK7diBo-A",
             "views": 0,
-            "time": 1759767027
+            "time": 1759781421
         },
-        "68e3e9f1943bb": {
-            "id": "68e3e9f1943bb",
+        "68e4221ca79de": {
             "date": "2025-10-06",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/219jFrHyg5c",
-            "views": 0,
-            "time": 1759767026
-        },
-        "68e3e9f180d1e": {
-            "id": "68e3e9f180d1e",
-            "date": "2025-10-06",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
+            "id": "68e4221ca79de",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
             "type": "mat masters",
             "number": 0,
             "url": "https://launch.matchmasters.com/l/p/FpMsavkPAf8",
             "views": 0,
-            "time": 1759767025
+            "time": 1759781406
+        },
+        "68e4221c8b66e": {
+            "date": "2025-10-06",
+            "id": "68e4221c8b66e",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/219jFrHyg5c",
+            "views": 0,
+            "time": 1759781405
+        },
+        "68e4221c75958": {
+            "date": "2025-10-06",
+            "id": "68e4221c75958",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/cRFRdbau7L4",
+            "views": 0,
+            "time": 1759781404
+        },
+        "68e4221bdea92": {
+            "date": "2025-10-06",
+            "id": "68e4221bdea92",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "other",
+            "number": 50,
+            "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community61025",
+            "views": 0,
+            "time": 1759781403
         },
         "68e3e9e188a11": {
             "date": "2025-10-06",
