@@ -1,5 +1,60 @@
 {
     "links": {
+        "68e573abdcb01": {
+            "id": "68e573abdcb01",
+            "date": "2025-10-07",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 75,
+            "url": "https://mply.io/kdQ2qu2SyZc",
+            "views": 0,
+            "time": 1759867820
+        },
+        "68e573abcc913": {
+            "id": "68e573abcc913",
+            "date": "2025-10-07",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/fg-ffLJMngU",
+            "views": 0,
+            "time": 1759867819
+        },
+        "68e573a8c7dfb": {
+            "id": "68e573a8c7dfb",
+            "date": "2025-10-07",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/BIRBmh5h2PY",
+            "views": 0,
+            "time": 1759867816
+        },
+        "68e573a025394": {
+            "id": "68e573a025394",
+            "date": "2025-10-07",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/N45NMIHH_TRADING",
+            "views": 0,
+            "time": 1759867808
+        },
+        "68e5739b5367d": {
+            "date": "2025-10-07",
+            "id": "68e5739b5367d",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "other",
+            "number": 50,
+            "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community71025",
+            "views": 0,
+            "time": 1759867803
+        },
         "68e53b78c2c83": {
             "id": "68e53b78c2c83",
             "date": "2025-10-07",
