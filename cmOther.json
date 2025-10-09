@@ -1,5 +1,49 @@
 {
     "links": {
+        "68e79cc4a871b": {
+            "id": "68e79cc4a871b",
+            "date": "2025-10-09",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=bfd2610c1d7d63d9381f8113c38f1ce48b3107e424747fb855766cba8127c3c8",
+            "views": 0,
+            "time": 1760009413
+        },
+        "68e79cc48a0c3": {
+            "id": "68e79cc48a0c3",
+            "date": "2025-10-09",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=5c18e97dd1d982045be5d7b2d70bcee54ecccc75c47e6678cabd58187eb8a6d7",
+            "views": 0,
+            "time": 1760009412
+        },
+        "68e79cc0d1471": {
+            "id": "68e79cc0d1471",
+            "date": "2025-10-09",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/Mt65I2Jc_FCB",
+            "views": 0,
+            "time": 1760009408
+        },
+        "68e79cbdd86b1": {
+            "date": "2025-10-09",
+            "id": "68e79cbdd86b1",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://familyisland.onelink.me/wjlA/49fb85z8",
+            "views": 0,
+            "time": 1760009405
+        },
         "68e7809c1594f": {
             "date": "2025-10-09",
             "id": "68e7809c1594f",
