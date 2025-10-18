@@ -1,5 +1,60 @@
 {
     "links": {
+        "68f3f42e4d3f0": {
+            "id": "68f3f42e4d3f0",
+            "date": "2025-10-18",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/FZwtA4X6G6U",
+            "views": 0,
+            "time": 1760818223
+        },
+        "68f3f42e2b84d": {
+            "id": "68f3f42e2b84d",
+            "date": "2025-10-18",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/-sQybcelTTI",
+            "views": 0,
+            "time": 1760818222
+        },
+        "68f3f421f0a5d": {
+            "id": "68f3f421f0a5d",
+            "date": "2025-10-18",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/Qs1R8EaS_TRADING",
+            "views": 0,
+            "time": 1760818209
+        },
+        "68f3f41c6dea3": {
+            "date": "2025-10-18",
+            "id": "68f3f41c6dea3",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "other",
+            "number": 50,
+            "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity181025",
+            "views": 0,
+            "time": 1760818205
+        },
+        "68f3f41c4499c": {
+            "date": "2025-10-18",
+            "id": "68f3f41c4499c",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "other",
+            "number": 50,
+            "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community181025",
+            "views": 0,
+            "time": 1760818204
+        },
         "68f3bbde9b327": {
             "date": "2025-10-18",
             "id": "68f3bbde9b327",
