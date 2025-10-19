@@ -1,5 +1,115 @@
 {
     "links": {
+        "68f4e804729c6": {
+            "id": "68f4e804729c6",
+            "date": "2025-10-19",
+            "name": "Solitaire Grand Harvest Bonus",
+            "game": "Solitaire G.H",
+            "type": "other",
+            "number": 0,
+            "url": "https://grandharvest.onelink.me/CT7t/x0fci6ms",
+            "views": 0,
+            "time": 1760880644
+        },
+        "68f4e7ea98688": {
+            "id": "68f4e7ea98688",
+            "date": "2025-10-19",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/aCdu8-uGyU4",
+            "views": 0,
+            "time": 1760880619
+        },
+        "68f4e7ea85cf8": {
+            "id": "68f4e7ea85cf8",
+            "date": "2025-10-19",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/Uz-uiHLrMKI",
+            "views": 0,
+            "time": 1760880618
+        },
+        "68f4e7e4baa80": {
+            "id": "68f4e7e4baa80",
+            "date": "2025-10-19",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=c836ea411a82335eb974b32b085d2e7d49d255b537d3919b8b741f66f63eb81b",
+            "views": 0,
+            "time": 1760880616
+        },
+        "68f4e7e492e83": {
+            "id": "68f4e7e492e83",
+            "date": "2025-10-19",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=275d9d32774b3a7d1c55117c9f91488000cad184d3b8578f107256eb1e704dac",
+            "views": 0,
+            "time": 1760880615
+        },
+        "68f4e7e47dfc1": {
+            "id": "68f4e7e47dfc1",
+            "date": "2025-10-19",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=df365df8ccc871ebdbcf5b2de8e9776b8e02399c2245d758a89d1862d2eaa578",
+            "views": 0,
+            "time": 1760880614
+        },
+        "68f4e7e469d0c": {
+            "id": "68f4e7e469d0c",
+            "date": "2025-10-19",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=1ba6cfd555ceaf9518e7829b834f7ae6d669206ad6df23a33b468262e2be88c1",
+            "views": 0,
+            "time": 1760880613
+        },
+        "68f4e7e454be2": {
+            "id": "68f4e7e454be2",
+            "date": "2025-10-19",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=42937b9db5c14c988387e19be5f8481c10a6a30d7770b54e13b77b33534dfced",
+            "views": 0,
+            "time": 1760880612
+        },
+        "68f4e7e0a2e76": {
+            "id": "68f4e7e0a2e76",
+            "date": "2025-10-19",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/bE4HwPEI_INS",
+            "views": 0,
+            "time": 1760880609
+        },
+        "68f4e7e08ced7": {
+            "id": "68f4e7e08ced7",
+            "date": "2025-10-19",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/yl6t0h87_TWI",
+            "views": 0,
+            "time": 1760880608
+        },
         "68f4cbbe5170b": {
             "date": "2025-10-19",
             "id": "68f4cbbe5170b",
@@ -76,17 +186,6 @@
             "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/o34fg1sj_FCB",
             "views": 0,
             "time": 1760866207
-        },
-        "68f4af9c06efe": {
-            "date": "2025-10-19",
-            "id": "68f4af9c06efe",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/aCdu8-uGyU4",
-            "views": 0,
-            "time": 1760866205
         },
         "68f4af9b47ca2": {
             "date": "2025-10-19",
