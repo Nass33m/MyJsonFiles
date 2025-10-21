@@ -1,5 +1,60 @@
 {
     "links": {
+        "68f76ec088b76": {
+            "id": "68f76ec088b76",
+            "date": "2025-10-21",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/LpMtWe8o_TWI",
+            "views": 0,
+            "time": 1761046209
+        },
+        "68f76ec06b43c": {
+            "id": "68f76ec06b43c",
+            "date": "2025-10-21",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/IZDzhLuQ_INS",
+            "views": 0,
+            "time": 1761046208
+        },
+        "68f76ebcbae14": {
+            "date": "2025-10-21",
+            "id": "68f76ebcbae14",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/APdzJhriSfs",
+            "views": 0,
+            "time": 1761046205
+        },
+        "68f76ebb8cad4": {
+            "date": "2025-10-21",
+            "id": "68f76ebb8cad4",
+            "name": "Coin Tales Bonus",
+            "game": "Coin Tales",
+            "type": "other",
+            "number": 0,
+            "url": "https://bit.ly/49dMMda",
+            "views": 0,
+            "time": 1761046204
+        },
+        "68f76ebb33413": {
+            "date": "2025-10-21",
+            "id": "68f76ebb33413",
+            "name": "Coin Dragon Bonus",
+            "game": "Coin Dragon",
+            "type": "other",
+            "number": 20,
+            "url": "https://www.game-ease.com/reward.html?dc=znbgdrzx",
+            "views": 0,
+            "time": 1761046203
+        },
         "68f752a9524b7": {
             "id": "68f752a9524b7",
             "date": "2025-10-21",
