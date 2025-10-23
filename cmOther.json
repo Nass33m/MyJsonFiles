@@ -1,5 +1,60 @@
 {
     "links": {
+        "68fa2e083016e": {
+            "id": "68fa2e083016e",
+            "date": "2025-10-23",
+            "name": "Solitaire Grand Harvest Bonus",
+            "game": "Solitaire G.H",
+            "type": "other",
+            "number": 0,
+            "url": "https://grandharvest.onelink.me/CT7t/dp9dw6d6",
+            "views": 0,
+            "time": 1761226249
+        },
+        "68fa2e08137f7": {
+            "id": "68fa2e08137f7",
+            "date": "2025-10-23",
+            "name": "Solitaire Grand Harvest Bonus",
+            "game": "Solitaire G.H",
+            "type": "other",
+            "number": 0,
+            "url": "https://grandharvest.onelink.me/CT7t/elm5yq6g",
+            "views": 0,
+            "time": 1761226248
+        },
+        "68fa2de02026b": {
+            "id": "68fa2de02026b",
+            "date": "2025-10-23",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/zXh24P32_INS",
+            "views": 0,
+            "time": 1761226209
+        },
+        "68fa2de006147": {
+            "id": "68fa2de006147",
+            "date": "2025-10-23",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/fa25Rllc_TWI",
+            "views": 0,
+            "time": 1761226208
+        },
+        "68fa2ddc84bd6": {
+            "date": "2025-10-23",
+            "id": "68fa2ddc84bd6",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/_dx8D7vu0no",
+            "views": 0,
+            "time": 1761226204
+        },
         "68fa11f8947bd": {
             "id": "68fa11f8947bd",
             "date": "2025-10-23",
