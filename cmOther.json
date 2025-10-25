@@ -1,5 +1,60 @@
 {
     "links": {
+        "68fcd0ec7ba29": {
+            "id": "68fcd0ec7ba29",
+            "date": "2025-10-25",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/cYX1V39xTxk",
+            "views": 0,
+            "time": 1761399020
+        },
+        "68fcd0e9727d3": {
+            "id": "68fcd0e9727d3",
+            "date": "2025-10-25",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/EV8ELYqCycw",
+            "views": 0,
+            "time": 1761399017
+        },
+        "68fcd0e044479": {
+            "id": "68fcd0e044479",
+            "date": "2025-10-25",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/DOYCOUhC_TWI",
+            "views": 0,
+            "time": 1761399008
+        },
+        "68fcd0dcbcfff": {
+            "date": "2025-10-25",
+            "id": "68fcd0dcbcfff",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=60KVIK50&channel=1",
+            "views": 0,
+            "time": 1761399004
+        },
+        "68fcd0db81e84": {
+            "date": "2025-10-25",
+            "id": "68fcd0db81e84",
+            "name": "Coin Tales Bonus",
+            "game": "Coin Tales",
+            "type": "other",
+            "number": 0,
+            "url": "https://bit.ly/4hqfLwD",
+            "views": 0,
+            "time": 1761399003
+        },
         "68fcb4bfbe9ee": {
             "id": "68fcb4bfbe9ee",
             "date": "2025-10-25",
@@ -164,17 +219,6 @@
             "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/5xEs9b3R_TWI",
             "views": 0,
             "time": 1761336608
-        },
-        "68fbdd1d09d4d": {
-            "date": "2025-10-24",
-            "id": "68fbdd1d09d4d",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/EV8ELYqCycw",
-            "views": 0,
-            "time": 1761336607
         },
         "68fbdd1c6547c": {
             "date": "2025-10-24",
