@@ -1,15 +1,114 @@
 {
     "links": {
-        "68fe47dc76cf4": {
+        "68fe803ed05df": {
+            "id": "68fe803ed05df",
             "date": "2025-10-26",
-            "id": "68fe47dc76cf4",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
+            "name": "Solitaire Grand Harvest Bonus",
+            "game": "Solitaire G.H",
+            "type": "other",
+            "number": 0,
+            "url": "https://grandharvest.onelink.me/CT7t/3gxer5em",
+            "views": 0,
+            "time": 1761509439
+        },
+        "68fe803ebcb73": {
+            "id": "68fe803ebcb73",
+            "date": "2025-10-26",
+            "name": "Solitaire Grand Harvest Bonus",
+            "game": "Solitaire G.H",
+            "type": "other",
+            "number": 0,
+            "url": "https://grandharvest.onelink.me/CT7t/itlgk8cp",
+            "views": 0,
+            "time": 1761509438
+        },
+        "68fe802ac0931": {
+            "id": "68fe802ac0931",
+            "date": "2025-10-26",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/VQJoIzqep1M",
+            "views": 0,
+            "time": 1761509421
+        },
+        "68fe802aae0f5": {
+            "id": "68fe802aae0f5",
+            "date": "2025-10-26",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
             "type": "mat masters",
             "number": 0,
             "url": "https://launch.matchmasters.com/l/p/RLOs7PjTVy8",
             "views": 0,
-            "time": 1761495004
+            "time": 1761509420
+        },
+        "68fe802a9cbbf": {
+            "id": "68fe802a9cbbf",
+            "date": "2025-10-26",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/3jpGAjI6WrA",
+            "views": 0,
+            "time": 1761509419
+        },
+        "68fe802a8ab35": {
+            "id": "68fe802a8ab35",
+            "date": "2025-10-26",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/48LGYSx2SIA",
+            "views": 0,
+            "time": 1761509418
+        },
+        "68fe801e11de9": {
+            "date": "2025-10-26",
+            "id": "68fe801e11de9",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_fb26oct25",
+            "views": 0,
+            "time": 1761509408
+        },
+        "68fe801ded2ac": {
+            "date": "2025-10-26",
+            "id": "68fe801ded2ac",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_yt25oct25",
+            "views": 0,
+            "time": 1761509407
+        },
+        "68fe801dd0c9d": {
+            "date": "2025-10-26",
+            "id": "68fe801dd0c9d",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://familyisland.onelink.me/wjlA/9pz9i9zt",
+            "views": 0,
+            "time": 1761509406
+        },
+        "68fe801bbeaa6": {
+            "date": "2025-10-26",
+            "id": "68fe801bbeaa6",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "other",
+            "number": 50,
+            "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community261025",
+            "views": 0,
+            "time": 1761509403
         },
         "68fe226abc0c3": {
             "id": "68fe226abc0c3",
@@ -54,17 +153,6 @@
             "url": "https://thefamilyisland.com/gift_inst26oct25",
             "views": 0,
             "time": 1761485405
-        },
-        "68fe225cbe7e6": {
-            "date": "2025-10-26",
-            "id": "68fe225cbe7e6",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/VQJoIzqep1M",
-            "views": 0,
-            "time": 1761485404
         },
         "68fe064436838": {
             "id": "68fe064436838",
