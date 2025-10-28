@@ -1,5 +1,82 @@
 {
     "links": {
+        "690123542b027": {
+            "id": "690123542b027",
+            "date": "2025-10-28",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/ePWTLOWHdns",
+            "views": 0,
+            "time": 1761682260
+        },
+        "6901234e84555": {
+            "id": "6901234e84555",
+            "date": "2025-10-28",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/17U-T52yXEA",
+            "views": 0,
+            "time": 1761682255
+        },
+        "6901234e069c2": {
+            "id": "6901234e069c2",
+            "date": "2025-10-28",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/q94iGG24O2k",
+            "views": 0,
+            "time": 1761682254
+        },
+        "69012326596f5": {
+            "id": "69012326596f5",
+            "date": "2025-10-28",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/Hrepf9Th_TRADING",
+            "views": 0,
+            "time": 1761682214
+        },
+        "690123235b0b1": {
+            "date": "2025-10-28",
+            "id": "690123235b0b1",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_fb28oct25",
+            "views": 0,
+            "time": 1761682212
+        },
+        "690123233bd9c": {
+            "date": "2025-10-28",
+            "id": "690123233bd9c",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://familyisland.onelink.me/wjlA/xuv8jo20",
+            "views": 0,
+            "time": 1761682211
+        },
+        "6901231e41dee": {
+            "date": "2025-10-28",
+            "id": "6901231e41dee",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "other",
+            "number": 50,
+            "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community281025",
+            "views": 0,
+            "time": 1761682206
+        },
         "6900eaf07e1eb": {
             "id": "6900eaf07e1eb",
             "date": "2025-10-28",
@@ -10,17 +87,6 @@
             "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/9tQkRqNA_TWI",
             "views": 0,
             "time": 1761667824
-        },
-        "6900eae4f1277": {
-            "date": "2025-10-28",
-            "id": "6900eae4f1277",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/17U-T52yXEA",
-            "views": 0,
-            "time": 1761667812
         },
         "6900eadf39076": {
             "date": "2025-10-28",
