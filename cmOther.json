@@ -1,5 +1,38 @@
 {
     "links": {
+        "6905d3215aadb": {
+            "id": "6905d3215aadb",
+            "date": "2025-11-01",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/E8zkmCfD_FCB",
+            "views": 0,
+            "time": 1761989409
+        },
+        "6905d31e70482": {
+            "date": "2025-11-01",
+            "id": "6905d31e70482",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/extragift_fb01nov25",
+            "views": 0,
+            "time": 1761989406
+        },
+        "6905d31c90d26": {
+            "date": "2025-11-01",
+            "id": "6905d31c90d26",
+            "name": "Coin Dragon Bonus",
+            "game": "Coin Dragon",
+            "type": "coins",
+            "number": 20,
+            "url": "https://www.game-ease.com/reward.html?dc=sora6w5y",
+            "views": 0,
+            "time": 1761989404
+        },
         "690517af3b636": {
             "id": "690517af3b636",
             "date": "2025-10-31",
@@ -582,237 +615,6 @@
             "url": "https://www.game-ease.com/reward.html?dc=k6z1jwow",
             "views": 0,
             "time": 1761816604
-        },
-        "690274afee2a3": {
-            "id": "690274afee2a3",
-            "date": "2025-10-29",
-            "name": "Monopoly Go Bonus",
-            "game": "Monopoly Go",
-            "type": "dice",
-            "number": 25,
-            "url": "https://mply.io/bh-9-sSOeG0",
-            "views": 0,
-            "time": 1761768623
-        },
-        "690274acab934": {
-            "id": "690274acab934",
-            "date": "2025-10-29",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/BYl-lU1JGc4",
-            "views": 0,
-            "time": 1761768623
-        },
-        "690274ac8f813": {
-            "id": "690274ac8f813",
-            "date": "2025-10-29",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/Ge9gVzDmkBU",
-            "views": 0,
-            "time": 1761768622
-        },
-        "690274ac75da9": {
-            "id": "690274ac75da9",
-            "date": "2025-10-29",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/WCQZNRNENYU",
-            "views": 0,
-            "time": 1761768621
-        },
-        "690274ac595b1": {
-            "id": "690274ac595b1",
-            "date": "2025-10-29",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/AM2a0nHX0PM",
-            "views": 0,
-            "time": 1761768620
-        },
-        "6902749f4308e": {
-            "date": "2025-10-29",
-            "id": "6902749f4308e",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 0,
-            "url": "https://thefamilyisland.com/extragift_fb29oct25",
-            "views": 0,
-            "time": 1761768607
-        },
-        "6902749c27bd4": {
-            "date": "2025-10-29",
-            "id": "6902749c27bd4",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "other",
-            "number": 50,
-            "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community291025",
-            "views": 0,
-            "time": 1761768604
-        },
-        "69023caa414b4": {
-            "id": "69023caa414b4",
-            "date": "2025-10-29",
-            "name": "Solitaire Grand Harvest Bonus",
-            "game": "Solitaire G.H",
-            "type": "other",
-            "number": 0,
-            "url": "https://grandharvest.onelink.me/CT7t/m59xcemv",
-            "views": 0,
-            "time": 1761754282
-        },
-        "69023c6bd72bf": {
-            "date": "2025-10-29",
-            "id": "69023c6bd72bf",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 0,
-            "url": "https://thefamilyisland.com/gift_fb29oct25",
-            "views": 0,
-            "time": 1761754219
-        },
-        "69023c65827bb": {
-            "date": "2025-10-29",
-            "id": "69023c65827bb",
-            "name": "Piggy Go Bonus",
-            "game": "Piggy Go",
-            "type": "dice",
-            "number": 10,
-            "url": "https://piggygo-jy.forevernine.com/fanpage?code=FP831HL1&channel=1",
-            "views": 0,
-            "time": 1761754213
-        },
-        "690216e694686": {
-            "id": "690216e694686",
-            "date": "2025-10-29",
-            "name": "Bingo Blitz Bonus",
-            "game": "Bingo Blitz",
-            "type": "other",
-            "number": 0,
-            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=986b927323f4fa0fdb782639ac7b353f0b7e385e1d29fc910410950903bda574",
-            "views": 0,
-            "time": 1761744615
-        },
-        "690216e679084": {
-            "id": "690216e679084",
-            "date": "2025-10-29",
-            "name": "Bingo Blitz Bonus",
-            "game": "Bingo Blitz",
-            "type": "other",
-            "number": 0,
-            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=24d10baa632dbbde48d48d6132f6f695470ab9a5d4a900e7cf511585e7ebcae7",
-            "views": 0,
-            "time": 1761744614
-        },
-        "690216e2992ce": {
-            "id": "690216e2992ce",
-            "date": "2025-10-29",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 15,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/JKvbcg8j_INS",
-            "views": 0,
-            "time": 1761744611
-        },
-        "690216e27a033": {
-            "id": "690216e27a033",
-            "date": "2025-10-29",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 10,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/gqHCsvbc_TWI",
-            "views": 0,
-            "time": 1761744610
-        },
-        "6901de9debb94": {
-            "date": "2025-10-29",
-            "id": "6901de9debb94",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 0,
-            "url": "https://familyisland.onelink.me/wjlA/pf4lceng",
-            "views": 0,
-            "time": 1761730208
-        },
-        "6901dea0d692c": {
-            "id": "6901dea0d692c",
-            "date": "2025-10-29",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 25,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/d9Y3waQK_FCB",
-            "views": 0,
-            "time": 1761730208
-        },
-        "6901de9dd05a2": {
-            "date": "2025-10-29",
-            "id": "6901de9dd05a2",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 0,
-            "url": "https://familyisland.onelink.me/wjlA/le2kmr8t",
-            "views": 0,
-            "time": 1761730207
-        },
-        "6901de9db3ee4": {
-            "date": "2025-10-29",
-            "id": "6901de9db3ee4",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 0,
-            "url": "https://thefamilyisland.com/extragift2_fb28oct25",
-            "views": 0,
-            "time": 1761730206
-        },
-        "6901de9d9841c": {
-            "date": "2025-10-29",
-            "id": "6901de9d9841c",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 0,
-            "url": "https://familyisland.onelink.me/wjlA/63z22eub",
-            "views": 0,
-            "time": 1761730205
-        },
-        "6901de9b7c236": {
-            "date": "2025-10-29",
-            "id": "6901de9b7c236",
-            "name": "Coin Tales Bonus",
-            "game": "Coin Tales",
-            "type": "other",
-            "number": 0,
-            "url": "https://bit.ly/3Wudnev",
-            "views": 0,
-            "time": 1761730204
-        },
-        "6901de9b29c35": {
-            "date": "2025-10-29",
-            "id": "6901de9b29c35",
-            "name": "Coin Dragon Bonus",
-            "game": "Coin Dragon",
-            "type": "other",
-            "number": 20,
-            "url": "https://www.game-ease.com/reward.html?dc=danoqm5g",
-            "views": 0,
-            "time": 1761730203
         }
     }
 }
