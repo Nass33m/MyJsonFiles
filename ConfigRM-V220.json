@@ -9,14 +9,14 @@
     "isMarketAvailable": true,
     "isCfoxAvailable": true,
     "isOtherAvailable": true,
-    "paywallInterval": 7,
+    "paywallInterval": 10,
     "autoPaywall": true,
     "admobBanner": "ca-app-pub-3676542281302128/9735268683",
     "admobInter": "ca-app-pub-3676542281302128/3020604953",
     "admobNative": "ca-app-pub-3676542281302128/4186006645",
     "tradeAdmobInter": "ca-app-pub-3676542281302128/7596706414",
     "showNewListingInter": false,
-    "showNativeInListings": true,
+    "showNativeInListings": false,
     "linesBeforeNative": 10,
     "maxAllowedListings": 10,
     "delayToShowTradeInter": 20,
@@ -24,5 +24,5 @@
     "isCollapsibleBanner": false,
     "admobCollapsibleBanner": "ca-app-pub-3676542281302128/3788388840",
     "notificationDialogInterval": 4,
-    "showNotificationDialog": true
+    "showNotificationDialog": false
 }
