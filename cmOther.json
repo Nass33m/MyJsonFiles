@@ -1,15 +1,59 @@
 {
     "links": {
-        "6917626d6797d": {
+        "69179abf4ad67": {
+            "id": "69179abf4ad67",
             "date": "2025-11-14",
-            "id": "6917626d6797d",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/ZIGvBdKNb_o",
+            "views": 0,
+            "time": 1763154624
+        },
+        "69179abf2b4c3": {
+            "id": "69179abf2b4c3",
+            "date": "2025-11-14",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/c8vheHK0IDI",
+            "views": 0,
+            "time": 1763154623
+        },
+        "69179abbf31ad": {
+            "id": "69179abbf31ad",
+            "date": "2025-11-14",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
             "type": "mat masters",
             "number": 0,
             "url": "https://launch.matchmasters.com/l/p/_kWNx4RUKfI",
             "views": 0,
-            "time": 1763140205
+            "time": 1763154619
+        },
+        "69179ab8f36a9": {
+            "id": "69179ab8f36a9",
+            "date": "2025-11-14",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_14112025",
+            "views": 0,
+            "time": 1763154616
+        },
+        "69179ab1392a6": {
+            "id": "69179ab1392a6",
+            "date": "2025-11-14",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/eWbsTpTY_TRADING",
+            "views": 0,
+            "time": 1763154609
         },
         "69173cf22ffef": {
             "id": "69173cf22ffef",
