@@ -1,15 +1,48 @@
 {
     "links": {
-        "69188e7aefd42": {
-            "id": "69188e7aefd42",
+        "6918b3fb971b2": {
+            "id": "6918b3fb971b2",
             "date": "2025-11-15",
             "name": "Match Masters Bonus",
             "game": "Match Masters",
             "type": "mat masters",
             "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/UgJiixCVSiA",
+            "views": 0,
+            "time": 1763226619
+        },
+        "6918b3f1e7af0": {
+            "id": "6918b3f1e7af0",
+            "date": "2025-11-15",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/mwGvPIDE_TRADING",
+            "views": 0,
+            "time": 1763226609
+        },
+        "6918b3ef36322": {
+            "date": "2025-11-15",
+            "id": "6918b3ef36322",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_fb15nov25",
+            "views": 0,
+            "time": 1763226607
+        },
+        "6918b3ed84683": {
+            "date": "2025-11-15",
+            "id": "6918b3ed84683",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
+            "type": "mat masters",
+            "number": 0,
             "url": "https://launch.matchmasters.com/l/p/aSBWxkChjTw",
             "views": 0,
-            "time": 1763217018
+            "time": 1763226605
         },
         "69188e74b6120": {
             "id": "69188e74b6120",
