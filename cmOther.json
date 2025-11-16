@@ -1,5 +1,60 @@
 {
     "links": {
+        "6919c3db76b8f": {
+            "id": "6919c3db76b8f",
+            "date": "2025-11-16",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/J04BQwnFfNA",
+            "views": 0,
+            "time": 1763296219
+        },
+        "6919c3d546257": {
+            "id": "6919c3d546257",
+            "date": "2025-11-16",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=a5bf4daec780dad5d3ff24ff6ad451568dbf2e35b921adc96462c061cb39ed50",
+            "views": 0,
+            "time": 1763296214
+        },
+        "6919c3d5285d1": {
+            "id": "6919c3d5285d1",
+            "date": "2025-11-16",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=e054c52967a091648fdd852cbd9df4874fb2b7064abda139c8eba5dbf9df9b4a",
+            "views": 0,
+            "time": 1763296213
+        },
+        "6919c3d140b10": {
+            "id": "6919c3d140b10",
+            "date": "2025-11-16",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/G5pUlsg9_INS",
+            "views": 0,
+            "time": 1763296210
+        },
+        "6919c3d124d95": {
+            "id": "6919c3d124d95",
+            "date": "2025-11-16",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/O9w3kNvw_TWI",
+            "views": 0,
+            "time": 1763296209
+        },
         "6919a7bd0781f": {
             "id": "6919a7bd0781f",
             "date": "2025-11-16",
