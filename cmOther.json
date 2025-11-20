@@ -1,5 +1,38 @@
 {
     "links": {
+        "691f09d721317": {
+            "id": "691f09d721317",
+            "date": "2025-11-20",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=f37cf330e8086c2648bf53104ce6b267ecfb92dbbf6991055eda336d06518dfb",
+            "views": 0,
+            "time": 1763641815
+        },
+        "691f09d23b268": {
+            "id": "691f09d23b268",
+            "date": "2025-11-20",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/wxKN1R85_INS",
+            "views": 0,
+            "time": 1763641810
+        },
+        "691f09ce517a4": {
+            "date": "2025-11-20",
+            "id": "691f09ce517a4",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=2L059GK5&channel=1",
+            "views": 0,
+            "time": 1763641806
+        },
         "691eedbcd6334": {
             "id": "691eedbcd6334",
             "date": "2025-11-20",
