@@ -1,15 +1,92 @@
 {
     "links": {
-        "69233fed4e3ab": {
+        "6923783d7b0a9": {
+            "id": "6923783d7b0a9",
             "date": "2025-11-23",
-            "id": "69233fed4e3ab",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/L2OX6vUoVQ0",
+            "views": 0,
+            "time": 1763932222
+        },
+        "6923783d5f3d7": {
+            "id": "6923783d5f3d7",
+            "date": "2025-11-23",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
             "type": "mat masters",
             "number": 0,
             "url": "https://launch.matchmasters.com/l/p/ejb-1SeslpM",
             "views": 0,
-            "time": 1763917805
+            "time": 1763932221
+        },
+        "6923783a876fd": {
+            "id": "6923783a876fd",
+            "date": "2025-11-23",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_23112025",
+            "views": 0,
+            "time": 1763932219
+        },
+        "6923783a6af7e": {
+            "id": "6923783a6af7e",
+            "date": "2025-11-23",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_23112025",
+            "views": 0,
+            "time": 1763932218
+        },
+        "6923783072be7": {
+            "date": "2025-11-23",
+            "id": "6923783072be7",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://familyisland.onelink.me/wjlA/i2ra3goz",
+            "views": 0,
+            "time": 1763932211
+        },
+        "6923783054a90": {
+            "date": "2025-11-23",
+            "id": "6923783054a90",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://familyisland.onelink.me/wjlA/esmdek9x",
+            "views": 0,
+            "time": 1763932210
+        },
+        "6923783037f57": {
+            "date": "2025-11-23",
+            "id": "6923783037f57",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_fb23nov25",
+            "views": 0,
+            "time": 1763932209
+        },
+        "6923782eed352": {
+            "date": "2025-11-23",
+            "id": "6923782eed352",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=3O64GLFG&channel=1",
+            "views": 0,
+            "time": 1763932208
         },
         "69231a7c326b2": {
             "id": "69231a7c326b2",
