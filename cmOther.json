@@ -1,15 +1,37 @@
 {
     "links": {
-        "69244fdcc2a07": {
-            "id": "69244fdcc2a07",
+        "69246bef51342": {
             "date": "2025-11-24",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
+            "id": "69246bef51342",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_fb24nov25",
+            "views": 0,
+            "time": 1763994608
+        },
+        "69246bee60fff": {
+            "date": "2025-11-24",
+            "id": "69246bee60fff",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=9SF0SEBI&channel=1",
+            "views": 0,
+            "time": 1763994607
+        },
+        "69246bee1c100": {
+            "date": "2025-11-24",
+            "id": "69246bee1c100",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
             "type": "mat masters",
             "number": 0,
             "url": "https://launch.matchmasters.com/l/p/TyUgpMp3w6o",
             "views": 0,
-            "time": 1763987420
+            "time": 1763994606
         },
         "69244fd2df3a2": {
             "id": "69244fd2df3a2",
