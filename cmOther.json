@@ -1,5 +1,38 @@
 {
     "links": {
+        "6924c9bb631b2": {
+            "id": "6924c9bb631b2",
+            "date": "2025-11-24",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/y8QjVeVMnsY",
+            "views": 0,
+            "time": 1764018619
+        },
+        "6924c9b8a07fd": {
+            "id": "6924c9b8a07fd",
+            "date": "2025-11-24",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_24112025",
+            "views": 0,
+            "time": 1764018616
+        },
+        "6924c9b1c02b5": {
+            "id": "6924c9b1c02b5",
+            "date": "2025-11-24",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/b8fDwhUm_PUSH",
+            "views": 0,
+            "time": 1764018609
+        },
         "6924917c0838e": {
             "id": "6924917c0838e",
             "date": "2025-11-24",
