@@ -1,5 +1,38 @@
 {
     "links": {
+        "6925bd71d88e1": {
+            "id": "6925bd71d88e1",
+            "date": "2025-11-25",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/BG2DVm5s_TWI",
+            "views": 0,
+            "time": 1764081009
+        },
+        "6925bd6eed2e6": {
+            "date": "2025-11-25",
+            "id": "6925bd6eed2e6",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://familyisland.onelink.me/wjlA/mxp3empb",
+            "views": 0,
+            "time": 1764081007
+        },
+        "6925bd6e00998": {
+            "date": "2025-11-25",
+            "id": "6925bd6e00998",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/sFJfsnAWlTE",
+            "views": 0,
+            "time": 1764081006
+        },
         "6925853c4cac7": {
             "id": "6925853c4cac7",
             "date": "2025-11-25",
