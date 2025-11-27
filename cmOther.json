@@ -1,5 +1,49 @@
 {
     "links": {
+        "6928445164bd6": {
+            "id": "6928445164bd6",
+            "date": "2025-11-27",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 40,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/pano5ui7_FCB",
+            "views": 0,
+            "time": 1764246609
+        },
+        "6928444dc46c1": {
+            "date": "2025-11-27",
+            "id": "6928444dc46c1",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=K8T0292Z&channel=1",
+            "views": 0,
+            "time": 1764246606
+        },
+        "6928444d942fa": {
+            "date": "2025-11-27",
+            "id": "6928444d942fa",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/5_8uhLlIrEk",
+            "views": 0,
+            "time": 1764246605
+        },
+        "6928444c65c64": {
+            "date": "2025-11-27",
+            "id": "6928444c65c64",
+            "name": "Coin Dragon Bonus",
+            "game": "Coin Dragon",
+            "type": "other",
+            "number": 20,
+            "url": "https://www.game-ease.com/reward.html?dc=ifr16y3b",
+            "views": 0,
+            "time": 1764246604
+        },
         "6928283b0df90": {
             "id": "6928283b0df90",
             "date": "2025-11-27",
