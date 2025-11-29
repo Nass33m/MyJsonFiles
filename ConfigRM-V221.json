@@ -1,15 +1,15 @@
 {
     "interInterval": 1,
-    "interTimeDelay": 10,
+    "interTimeDelay": 11,
     "bannerAds": true,
     "customBanners": true,
-    "loadingDelay": 0.6,
+    "loadingDelay": 0.5,
     "bannerAdInChat": false,
     "isCommunityAvailable": true,
     "isMarketAvailable": true,
     "isCfoxAvailable": true,
     "isOtherAvailable": true,
-    "paywallInterval": 6,
+    "paywallInterval": 7,
     "autoPaywall": true,
     "admobBanner": "ca-app-pub-3676542281302128/9735268683",
     "admobInter": "ca-app-pub-3676542281302128/3020604953",
@@ -23,6 +23,6 @@
     "intervalTradeInter": 8,
     "isCollapsibleBanner": false,
     "admobCollapsibleBanner": "ca-app-pub-3676542281302128/3788388840",
-    "notificationDialogInterval": 10,
+    "notificationDialogInterval": 101,
     "showNotificationDialog": false
 }
