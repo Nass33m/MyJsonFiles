@@ -1,26 +1,92 @@
 {
     "links": {
-        "6935573cb932d": {
-            "id": "6935573cb932d",
+        "69357356d2fe1": {
+            "id": "69357356d2fe1",
             "date": "2025-12-07",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=7c32ae36fc9a15b323d87ef4804dfaf87693da2dbfd25939f633e619917a36a8",
+            "views": 0,
+            "time": 1765110615
+        },
+        "69357356b7a5b": {
+            "id": "69357356b7a5b",
+            "date": "2025-12-07",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=b325c696c6e1f9414a4243d68923dc8db23dbd772edf97ed1a79a8b96402dbdc",
+            "views": 0,
+            "time": 1765110614
+        },
+        "69357350042e8": {
+            "date": "2025-12-07",
+            "id": "69357350042e8",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://familyisland.onelink.me/wjlA/n0hda22k",
+            "views": 0,
+            "time": 1765110611
+        },
+        "6935734f353f3": {
+            "date": "2025-12-07",
+            "id": "6935734f353f3",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=N83P6RTJ&channel=1",
+            "views": 0,
+            "time": 1765110610
+        },
+        "6935734ebb050": {
+            "date": "2025-12-07",
+            "id": "6935734ebb050",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
             "type": "mat masters",
             "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/djOGfOMmdV8",
+            "url": "https://launch.matchmasters.com/l/p/_NJHqmwqLUA'",
             "views": 0,
-            "time": 1765103421
+            "time": 1765110609
         },
-        "6935573c9cb4e": {
-            "id": "6935573c9cb4e",
+        "6935734e8cbf9": {
             "date": "2025-12-07",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
+            "id": "6935734e8cbf9",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/0bHXW2CPRh0",
+            "views": 0,
+            "time": 1765110608
+        },
+        "6935734e69e6d": {
+            "date": "2025-12-07",
+            "id": "6935734e69e6d",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
             "type": "mat masters",
             "number": 0,
             "url": "https://launch.matchmasters.com/l/p/02ZtlS26Pn0",
             "views": 0,
-            "time": 1765103420
+            "time": 1765110607
+        },
+        "6935734e43f34": {
+            "date": "2025-12-07",
+            "id": "6935734e43f34",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/djOGfOMmdV8",
+            "views": 0,
+            "time": 1765110606
         },
         "69355732c80f2": {
             "id": "69355732c80f2",
