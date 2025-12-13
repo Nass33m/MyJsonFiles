@@ -1,15 +1,59 @@
 {
     "links": {
-        "693d9dfb75219": {
-            "id": "693d9dfb75219",
+        "693dd638a17cf": {
+            "id": "693dd638a17cf",
             "date": "2025-12-13",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_13122025",
+            "views": 0,
+            "time": 1765660216
+        },
+        "693dd6316e50f": {
+            "id": "693dd6316e50f",
+            "date": "2025-12-13",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/EJZMYAdm_TRADING",
+            "views": 0,
+            "time": 1765660209
+        },
+        "693dd62e7ef12": {
+            "date": "2025-12-13",
+            "id": "693dd62e7ef12",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_yt13dec25",
+            "views": 0,
+            "time": 1765660207
+        },
+        "693dd62ced07e": {
+            "date": "2025-12-13",
+            "id": "693dd62ced07e",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
             "type": "mat masters",
             "number": 0,
             "url": "https://launch.matchmasters.com/l/p/2mog5s1yja4",
             "views": 0,
-            "time": 1765645819
+            "time": 1765660206
+        },
+        "693dd62c28aa3": {
+            "date": "2025-12-13",
+            "id": "693dd62c28aa3",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "other",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=Community_13122025",
+            "views": 0,
+            "time": 1765660205
         },
         "693d78708f504": {
             "date": "2025-12-13",
