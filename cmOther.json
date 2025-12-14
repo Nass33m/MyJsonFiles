@@ -1,5 +1,60 @@
 {
     "links": {
+        "693eef73846e4": {
+            "id": "693eef73846e4",
+            "date": "2025-12-14",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/3xycUG5u_WA",
+            "views": 0,
+            "time": 1765732211
+        },
+        "693eef7046813": {
+            "date": "2025-12-14",
+            "id": "693eef7046813",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_fb14dec25",
+            "views": 0,
+            "time": 1765732209
+        },
+        "693eef70193ad": {
+            "date": "2025-12-14",
+            "id": "693eef70193ad",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://familyisland.onelink.me/wjlA/2nn47rhe",
+            "views": 0,
+            "time": 1765732208
+        },
+        "693eef6e26e1b": {
+            "date": "2025-12-14",
+            "id": "693eef6e26e1b",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/6B65HEpJD60",
+            "views": 0,
+            "time": 1765732206
+        },
+        "693eef6c247b0": {
+            "date": "2025-12-14",
+            "id": "693eef6c247b0",
+            "name": "Coin Dragon Bonus",
+            "game": "Coin Dragon",
+            "type": "other",
+            "number": 50,
+            "url": "https://www.game-ease.com/reward.html?dc=m5phusj1",
+            "views": 0,
+            "time": 1765732204
+        },
         "693ec9fc7ad33": {
             "id": "693ec9fc7ad33",
             "date": "2025-12-14",
