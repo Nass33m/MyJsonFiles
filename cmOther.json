@@ -1,5 +1,27 @@
 {
     "links": {
+        "6942a251ab565": {
+            "id": "6942a251ab565",
+            "date": "2025-12-17",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/ylthwGTZ_TWI",
+            "views": 0,
+            "time": 1765974609
+        },
+        "6942a24dac5d8": {
+            "date": "2025-12-17",
+            "id": "6942a24dac5d8",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=OD22SNWM&channel=1",
+            "views": 0,
+            "time": 1765974605
+        },
         "69428636d31a1": {
             "id": "69428636d31a1",
             "date": "2025-12-17",
