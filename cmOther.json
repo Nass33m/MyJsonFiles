@@ -1,26 +1,92 @@
 {
     "links": {
-        "694586eda31c8": {
+        "6945bf4358fa2": {
+            "id": "6945bf4358fa2",
             "date": "2025-12-19",
-            "id": "694586eda31c8",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/GHmnSOBE35I",
+            "views": 0,
+            "time": 1766178630
+        },
+        "6945bf4339fd8": {
+            "id": "6945bf4339fd8",
+            "date": "2025-12-19",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/PDfqwPlivLw",
+            "views": 0,
+            "time": 1766178629
+        },
+        "6945bf431d674": {
+            "id": "6945bf431d674",
+            "date": "2025-12-19",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/VoWAt91RoMI",
+            "views": 0,
+            "time": 1766178628
+        },
+        "6945bf43015be": {
+            "id": "6945bf43015be",
+            "date": "2025-12-19",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/FHmoMMdP5T4",
+            "views": 0,
+            "time": 1766178627
+        },
+        "6945bf3eaf607": {
+            "id": "6945bf3eaf607",
+            "date": "2025-12-19",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
             "type": "mat masters",
             "number": 0,
             "url": "https://launch.matchmasters.com/l/p/ypsIE9mFcdo",
             "views": 0,
-            "time": 1766164206
+            "time": 1766178624
         },
-        "694586ed79417": {
+        "6945bf3e91d8a": {
+            "id": "6945bf3e91d8a",
             "date": "2025-12-19",
-            "id": "694586ed79417",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
             "type": "mat masters",
             "number": 0,
             "url": "https://launch.matchmasters.com/l/p/CLAIMYOURGIFT",
             "views": 0,
-            "time": 1766164205
+            "time": 1766178623
+        },
+        "6945bf3e71d70": {
+            "id": "6945bf3e71d70",
+            "date": "2025-12-19",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/Dl_NUXOKjqk",
+            "views": 0,
+            "time": 1766178622
+        },
+        "6945bf3ad9273": {
+            "id": "6945bf3ad9273",
+            "date": "2025-12-19",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_19122025",
+            "views": 0,
+            "time": 1766178618
         },
         "694561704de70": {
             "date": "2025-12-19",
