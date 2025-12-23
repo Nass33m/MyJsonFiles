@@ -1,5 +1,104 @@
 {
     "links": {
+        "694b055140765": {
+            "id": "694b055140765",
+            "date": "2025-12-23",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/BF4_urVIoog",
+            "views": 0,
+            "time": 1766524241
+        },
+        "694b054d45b2f": {
+            "id": "694b054d45b2f",
+            "date": "2025-12-23",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/h72hWXKLKko",
+            "views": 0,
+            "time": 1766524238
+        },
+        "694b054d20216": {
+            "id": "694b054d20216",
+            "date": "2025-12-23",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/6BMz6Wr8Qng",
+            "views": 0,
+            "time": 1766524237
+        },
+        "694b0549da32b": {
+            "id": "694b0549da32b",
+            "date": "2025-12-23",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_23122025",
+            "views": 0,
+            "time": 1766524233
+        },
+        "694b0533df642": {
+            "id": "694b0533df642",
+            "date": "2025-12-23",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/et4ng1rW_TRADING",
+            "views": 0,
+            "time": 1766524211
+        },
+        "694b0530cc1dd": {
+            "date": "2025-12-23",
+            "id": "694b0530cc1dd",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_inst23dec25",
+            "views": 0,
+            "time": 1766524210
+        },
+        "694b0530a2564": {
+            "date": "2025-12-23",
+            "id": "694b0530a2564",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/extragift_fb23dec25",
+            "views": 0,
+            "time": 1766524209
+        },
+        "694b0530729ae": {
+            "date": "2025-12-23",
+            "id": "694b0530729ae",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_fb23dec25",
+            "views": 0,
+            "time": 1766524208
+        },
+        "694b052cba665": {
+            "date": "2025-12-23",
+            "id": "694b052cba665",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "other",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=Community_23122025",
+            "views": 0,
+            "time": 1766524205
+        },
         "694acd0a8eaca": {
             "id": "694acd0a8eaca",
             "date": "2025-12-23",
