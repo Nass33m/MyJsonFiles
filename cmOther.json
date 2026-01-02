@@ -1,5 +1,60 @@
 {
     "links": {
+        "6957ba52b7f76": {
+            "id": "6957ba52b7f76",
+            "date": "2026-01-02",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/O4kG1Sc6_TWI",
+            "views": 0,
+            "time": 1767357011
+        },
+        "6957ba5298b6a": {
+            "id": "6957ba5298b6a",
+            "date": "2026-01-02",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/eepwPJLx_INS",
+            "views": 0,
+            "time": 1767357010
+        },
+        "6957ba4f9a6ab": {
+            "date": "2026-01-02",
+            "id": "6957ba4f9a6ab",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/nygift_wa",
+            "views": 0,
+            "time": 1767357009
+        },
+        "6957ba4f76adf": {
+            "date": "2026-01-02",
+            "id": "6957ba4f76adf",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://familyisland.onelink.me/wjlA/s2rlw1oo",
+            "views": 0,
+            "time": 1767357008
+        },
+        "6957ba4f58a49": {
+            "date": "2026-01-02",
+            "id": "6957ba4f58a49",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://familyisland.onelink.me/wjlA/flmzgb3o",
+            "views": 0,
+            "time": 1767357007
+        },
         "69579e50d1715": {
             "id": "69579e50d1715",
             "date": "2026-01-02",
