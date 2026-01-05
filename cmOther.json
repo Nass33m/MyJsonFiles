@@ -1,5 +1,115 @@
 {
     "links": {
+        "695bcb106212d": {
+            "id": "695bcb106212d",
+            "date": "2026-01-05",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/Pq1Mq13ZCaU",
+            "views": 0,
+            "time": 1767623440
+        },
+        "695bcaf3cf2d4": {
+            "id": "695bcaf3cf2d4",
+            "date": "2026-01-05",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/2N40ihIr_FCB",
+            "views": 0,
+            "time": 1767623413
+        },
+        "695bcaf3af9a5": {
+            "id": "695bcaf3af9a5",
+            "date": "2026-01-05",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/OiKwKhbB_INS",
+            "views": 0,
+            "time": 1767623412
+        },
+        "695bcaf084929": {
+            "date": "2026-01-05",
+            "id": "695bcaf084929",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_fb05jan26",
+            "views": 0,
+            "time": 1767623411
+        },
+        "695bcaf390cd2": {
+            "id": "695bcaf390cd2",
+            "date": "2026-01-05",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/jCkaz1ni_TRADING",
+            "views": 0,
+            "time": 1767623411
+        },
+        "695bcaf05fbfb": {
+            "date": "2026-01-05",
+            "id": "695bcaf05fbfb",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_inst05jan26",
+            "views": 0,
+            "time": 1767623410
+        },
+        "695bcaf03d5a3": {
+            "date": "2026-01-05",
+            "id": "695bcaf03d5a3",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://familyisland.onelink.me/wjlA/doz563bt",
+            "views": 0,
+            "time": 1767623409
+        },
+        "695bcaf01c810": {
+            "date": "2026-01-05",
+            "id": "695bcaf01c810",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://familyisland.onelink.me/wjlA/710zzyi6",
+            "views": 0,
+            "time": 1767623408
+        },
+        "695bcaef521af": {
+            "date": "2026-01-05",
+            "id": "695bcaef521af",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=Y1YPZ1W3&channel=1",
+            "views": 0,
+            "time": 1767623407
+        },
+        "695bcaed14de4": {
+            "date": "2026-01-05",
+            "id": "695bcaed14de4",
+            "name": "Coin Dragon Bonus",
+            "game": "Coin Dragon",
+            "type": "other",
+            "number": 50,
+            "url": "https://www.game-ease.com/reward.html?dc=ntobhfk8",
+            "views": 0,
+            "time": 1767623405
+        },
         "695baedd24868": {
             "id": "695baedd24868",
             "date": "2026-01-05",
