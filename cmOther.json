@@ -1,5 +1,38 @@
 {
     "links": {
+        "696397d38edfe": {
+            "id": "696397d38edfe",
+            "date": "2026-01-11",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/yqcwmJnL_INS",
+            "views": 0,
+            "time": 1768134611
+        },
+        "696397d06ed87": {
+            "date": "2026-01-11",
+            "id": "696397d06ed87",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://familyisland.onelink.me/wjlA/iq4zt4kv",
+            "views": 0,
+            "time": 1768134608
+        },
+        "696397cf349ab": {
+            "date": "2026-01-11",
+            "id": "696397cf349ab",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=SWBW7H47&channel=1",
+            "views": 0,
+            "time": 1768134607
+        },
         "69637bc5474ca": {
             "id": "69637bc5474ca",
             "date": "2026-01-11",
