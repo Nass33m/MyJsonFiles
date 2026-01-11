@@ -1,37 +1,59 @@
 {
     "links": {
-        "6963d96d6a45f": {
+        "696411ca192bc": {
+            "id": "696411ca192bc",
             "date": "2026-01-11",
-            "id": "6963d96d6a45f",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
             "type": "mat masters",
             "number": 0,
             "url": "https://launch.matchmasters.com/l/p/wUApJu0ANcg",
             "views": 0,
-            "time": 1768151407
+            "time": 1768165835
         },
-        "6963d96d52d87": {
+        "696411c9e51f6": {
+            "id": "696411c9e51f6",
             "date": "2026-01-11",
-            "id": "6963d96d52d87",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
             "type": "mat masters",
             "number": 0,
             "url": "https://launch.matchmasters.com/l/p/PYuEZLdGcn0",
             "views": 0,
-            "time": 1768151406
+            "time": 1768165834
         },
-        "6963d96d3b5da": {
+        "696411c9ba74c": {
+            "id": "696411c9ba74c",
             "date": "2026-01-11",
-            "id": "6963d96d3b5da",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
             "type": "mat masters",
             "number": 0,
             "url": "https://launch.matchmasters.com/l/p/5hyzK0UWC84",
             "views": 0,
-            "time": 1768151405
+            "time": 1768165833
+        },
+        "696411c6a030c": {
+            "id": "696411c6a030c",
+            "date": "2026-01-11",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_11012026",
+            "views": 0,
+            "time": 1768165830
+        },
+        "696411b3c7cd1": {
+            "id": "696411b3c7cd1",
+            "date": "2026-01-11",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/JFFIWQ1U_WA",
+            "views": 0,
+            "time": 1768165811
         },
         "696397d38edfe": {
             "id": "696397d38edfe",
