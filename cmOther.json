@@ -1,37 +1,125 @@
 {
     "links": {
-        "69667c6d2bc14": {
+        "6966b4c484f95": {
+            "id": "6966b4c484f95",
             "date": "2026-01-13",
-            "id": "69667c6d2bc14",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/H_a5-qQl-18",
+            "views": 0,
+            "time": 1768338628
+        },
+        "6966b4c0b0a46": {
+            "id": "6966b4c0b0a46",
+            "date": "2026-01-13",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
             "type": "mat masters",
             "number": 0,
             "url": "https://launch.matchmasters.com/l/p/hZW29BIs3Yc",
             "views": 0,
-            "time": 1768324206
+            "time": 1768338625
         },
-        "69667c6d13d42": {
+        "6966b4c08295f": {
+            "id": "6966b4c08295f",
             "date": "2026-01-13",
-            "id": "69667c6d13d42",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
             "type": "mat masters",
             "number": 0,
             "url": "https://launch.matchmasters.com/l/p/ChnrQeLfQKE",
             "views": 0,
-            "time": 1768324205
+            "time": 1768338624
         },
-        "69667c6c524e3": {
+        "6966b4bd76c3c": {
+            "id": "6966b4bd76c3c",
             "date": "2026-01-13",
-            "id": "69667c6c524e3",
             "name": "Dice Dreams Bonus",
             "game": "Dice Dreams",
-            "type": "other",
+            "type": "dice",
             "number": 50,
             "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityAndTradingPost_13012026",
             "views": 0,
-            "time": 1768324204
+            "time": 1768338623
+        },
+        "6966b4bd4f66a": {
+            "id": "6966b4bd4f66a",
+            "date": "2026-01-13",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_13012026",
+            "views": 0,
+            "time": 1768338622
+        },
+        "6966b4bd2462a": {
+            "id": "6966b4bd2462a",
+            "date": "2026-01-13",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_13012026",
+            "views": 0,
+            "time": 1768338621
+        },
+        "6966b4aeaee7d": {
+            "date": "2026-01-13",
+            "id": "6966b4aeaee7d",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_fb13jan26",
+            "views": 0,
+            "time": 1768338609
+        },
+        "6966b4ae974fc": {
+            "date": "2026-01-13",
+            "id": "6966b4ae974fc",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://familyisland.onelink.me/wjlA/xlffdr6y",
+            "views": 0,
+            "time": 1768338608
+        },
+        "6966b4ae06f45": {
+            "date": "2026-01-13",
+            "id": "6966b4ae06f45",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=7CHEATI5&channel=1",
+            "views": 0,
+            "time": 1768338607
+        },
+        "6966b4ade1ea6": {
+            "date": "2026-01-13",
+            "id": "6966b4ade1ea6",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=24R5ZAHY&channel=1",
+            "views": 0,
+            "time": 1768338606
+        },
+        "6966b4adc543e": {
+            "date": "2026-01-13",
+            "id": "6966b4adc543e",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=Q8KXRLO3&channel=1",
+            "views": 0,
+            "time": 1768338605
         },
         "696656f1f2345": {
             "id": "696656f1f2345",
