@@ -1,5 +1,71 @@
 {
     "links": {
+        "6970e3114daa9": {
+            "id": "6970e3114daa9",
+            "date": "2026-01-21",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=3b38312d3db1cc062dc4c62fd1cb08e62d9e4c843461264a248498f9f9ca9c1c",
+            "views": 0,
+            "time": 1769005842
+        },
+        "6970e31120da4": {
+            "id": "6970e31120da4",
+            "date": "2026-01-21",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 0,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=0a915b58424103d7ae62e033218ce311fad81cfa2d513a96f7061e8d59ae9c6f",
+            "views": 0,
+            "time": 1769005841
+        },
+        "6970e2f5c5b20": {
+            "id": "6970e2f5c5b20",
+            "date": "2026-01-21",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/NgwS8jlJ_TRADING",
+            "views": 0,
+            "time": 1769005813
+        },
+        "6970e2f28c6d0": {
+            "date": "2026-01-21",
+            "id": "6970e2f28c6d0",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_fb21jan26",
+            "views": 0,
+            "time": 1769005811
+        },
+        "6970e2f25cff8": {
+            "date": "2026-01-21",
+            "id": "6970e2f25cff8",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/extragift_fb21jan26",
+            "views": 0,
+            "time": 1769005810
+        },
+        "6970e2f082bd3": {
+            "date": "2026-01-21",
+            "id": "6970e2f082bd3",
+            "name": "Match Master Bonus",
+            "game": "Match Master",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/iwOWjdcTVQk",
+            "views": 0,
+            "time": 1769005808
+        },
         "6970c6d55b8ef": {
             "id": "6970c6d55b8ef",
             "date": "2026-01-21",
