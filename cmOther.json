@@ -1,5 +1,60 @@
 {
     "links": {
+        "6974bab782502": {
+            "id": "6974bab782502",
+            "date": "2026-01-24",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/yGG8MNqC_INS",
+            "views": 0,
+            "time": 1769257656
+        },
+        "6974bab758441": {
+            "id": "6974bab758441",
+            "date": "2026-01-24",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/SUGSQCAT_TWI",
+            "views": 0,
+            "time": 1769257655
+        },
+        "6974bab41f910": {
+            "date": "2026-01-24",
+            "id": "6974bab41f910",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_inst24jan26",
+            "views": 0,
+            "time": 1769257653
+        },
+        "6974bab3e8df7": {
+            "date": "2026-01-24",
+            "id": "6974bab3e8df7",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/extragift_fb24jan26",
+            "views": 0,
+            "time": 1769257652
+        },
+        "6974bab3bb5f4": {
+            "date": "2026-01-24",
+            "id": "6974bab3bb5f4",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://familyisland.onelink.me/wjlA/vluixmat",
+            "views": 0,
+            "time": 1769257651
+        },
         "69749f30ea243": {
             "id": "69749f30ea243",
             "date": "2026-01-24",
