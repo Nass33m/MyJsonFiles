@@ -1,15 +1,26 @@
 {
     "links": {
-        "698771ed258a3": {
+        "6987aa463d322": {
+            "id": "6987aa463d322",
             "date": "2026-02-07",
-            "id": "698771ed258a3",
-            "name": "Match Master Bonus",
-            "game": "Match Master",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
             "type": "mat masters",
             "number": 0,
             "url": "https://launch.matchmasters.com/l/p/YegwdWzPbIo",
             "views": 0,
-            "time": 1770484205
+            "time": 1770498630
+        },
+        "6987aa438f4f6": {
+            "id": "6987aa438f4f6",
+            "date": "2026-02-07",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_07022026",
+            "views": 0,
+            "time": 1770498627
         },
         "69874c7213575": {
             "id": "69874c7213575",
