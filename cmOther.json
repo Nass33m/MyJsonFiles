@@ -1,5 +1,49 @@
 {
     "links": {
+        "699329f215285": {
+            "id": "699329f215285",
+            "date": "2026-02-16",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/xJTep444_INS",
+            "views": 0,
+            "time": 1771252211
+        },
+        "699329f201d4c": {
+            "id": "699329f201d4c",
+            "date": "2026-02-16",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/2bGTNt60_TWI",
+            "views": 0,
+            "time": 1771252210
+        },
+        "699329ee3e83c": {
+            "date": "2026-02-16",
+            "id": "699329ee3e83c",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "other",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_160226",
+            "views": 0,
+            "time": 1771252207
+        },
+        "699329ee04985": {
+            "date": "2026-02-16",
+            "id": "699329ee04985",
+            "name": "Coin Tales Bonus",
+            "game": "Coin Tales",
+            "type": "other",
+            "number": 0,
+            "url": "https://cutt.ly/VtmIgIeS",
+            "views": 0,
+            "time": 1771252206
+        },
         "69930dce1c2e0": {
             "date": "2026-02-16",
             "id": "69930dce1c2e0",
