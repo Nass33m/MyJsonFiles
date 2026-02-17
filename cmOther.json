@@ -1,5 +1,49 @@
 {
     "links": {
+        "69947b740cee3": {
+            "id": "69947b740cee3",
+            "date": "2026-02-17",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/GowqpTtB_INS",
+            "views": 0,
+            "time": 1771338612
+        },
+        "69947b711e824": {
+            "date": "2026-02-17",
+            "id": "69947b711e824",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4ajcld4",
+            "views": 0,
+            "time": 1771338609
+        },
+        "69947b7021b8f": {
+            "date": "2026-02-17",
+            "id": "69947b7021b8f",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=VSKJ3QRM&channel=1",
+            "views": 0,
+            "time": 1771338608
+        },
+        "69947b6f3a1f6": {
+            "date": "2026-02-17",
+            "id": "69947b6f3a1f6",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "other",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityAndTradingPost_17022026",
+            "views": 0,
+            "time": 1771338607
+        },
         "69945f519a3e2": {
             "id": "69945f519a3e2",
             "date": "2026-02-17",
