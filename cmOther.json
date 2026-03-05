@@ -1,5 +1,60 @@
 {
     "links": {
+        "69a9776e34312": {
+            "id": "69a9776e34312",
+            "date": "2026-03-05",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/25c1qRF6RJQ",
+            "views": 0,
+            "time": 1772713838
+        },
+        "69a97751b2a3b": {
+            "id": "69a97751b2a3b",
+            "date": "2026-03-05",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/FCcUCkN6_TWI",
+            "views": 0,
+            "time": 1772713810
+        },
+        "69a9775195431": {
+            "id": "69a9775195431",
+            "date": "2026-03-05",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/pgpMe7wM_INS",
+            "views": 0,
+            "time": 1772713809
+        },
+        "69a9774d78eff": {
+            "date": "2026-03-05",
+            "id": "69a9774d78eff",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=2JFKZ2L4&channel=1",
+            "views": 0,
+            "time": 1772713805
+        },
+        "69a9774caa848": {
+            "date": "2026-03-05",
+            "id": "69a9774caa848",
+            "name": "Coin Dragon Bonus",
+            "game": "Coin Dragon",
+            "type": "other",
+            "number": 20,
+            "url": "https://www.game-ease.com/reward.html?dc=3muhi836",
+            "views": 0,
+            "time": 1772713804
+        },
         "69a95b5064335": {
             "id": "69a95b5064335",
             "date": "2026-03-05",
