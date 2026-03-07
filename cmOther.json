@@ -1,5 +1,38 @@
 {
     "links": {
+        "69ac367214aeb": {
+            "id": "69ac367214aeb",
+            "date": "2026-03-07",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/4QZZWefC_INS",
+            "views": 0,
+            "time": 1772893810
+        },
+        "69ac366da519f": {
+            "date": "2026-03-07",
+            "id": "69ac366da519f",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=D51Y9JAM&channel=1",
+            "views": 0,
+            "time": 1772893805
+        },
+        "69ac366cd5718": {
+            "date": "2026-03-07",
+            "id": "69ac366cd5718",
+            "name": "Coin Dragon Bonus",
+            "game": "Coin Dragon",
+            "type": "coins",
+            "number": 20,
+            "url": "https://www.game-ease.com/reward.html?dc=ykn56mxi",
+            "views": 0,
+            "time": 1772893804
+        },
         "69abfe3334b3b": {
             "id": "69abfe3334b3b",
             "date": "2026-03-07",
