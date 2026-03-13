@@ -1,5 +1,60 @@
 {
     "links": {
+        "69b3f570408b8": {
+            "id": "69b3f570408b8",
+            "date": "2026-03-13",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/_LdmsgL98xs",
+            "views": 0,
+            "time": 1773401456
+        },
+        "69b3f54b3be07": {
+            "id": "69b3f54b3be07",
+            "date": "2026-03-13",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/DgdQbZFX_FCB",
+            "views": 0,
+            "time": 1773401419
+        },
+        "69b3f54a56bd2": {
+            "id": "69b3f54a56bd2",
+            "date": "2026-03-13",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/tUCxQanH_TWI",
+            "views": 0,
+            "time": 1773401418
+        },
+        "69b3f545385a1": {
+            "date": "2026-03-13",
+            "id": "69b3f545385a1",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_inst13mar26",
+            "views": 0,
+            "time": 1773401413
+        },
+        "69b3f54480345": {
+            "date": "2026-03-13",
+            "id": "69b3f54480345",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4rkd8zF",
+            "views": 0,
+            "time": 1773401412
+        },
         "69b3d92ba921c": {
             "id": "69b3d92ba921c",
             "date": "2026-03-13",
