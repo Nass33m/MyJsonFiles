@@ -1,5 +1,38 @@
 {
     "links": {
+        "69b546d5266a5": {
+            "id": "69b546d5266a5",
+            "date": "2026-03-14",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/-UJe5GsW6xg",
+            "views": 0,
+            "time": 1773487829
+        },
+        "69b546c178c7b": {
+            "id": "69b546c178c7b",
+            "date": "2026-03-14",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/NDAzo6aU_FCB",
+            "views": 0,
+            "time": 1773487809
+        },
+        "69b546bd917d2": {
+            "date": "2026-03-14",
+            "id": "69b546bd917d2",
+            "name": "Coin Dragon Bonus",
+            "game": "Coin Dragon",
+            "type": "coins",
+            "number": 20,
+            "url": "https://www.game-ease.com/reward.html?dc=ehrtt4ef",
+            "views": 0,
+            "time": 1773487805
+        },
         "69b52abcdb530": {
             "id": "69b52abcdb530",
             "date": "2026-03-14",
