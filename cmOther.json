@@ -1,5 +1,60 @@
 {
     "links": {
+        "69bc584337c29": {
+            "id": "69bc584337c29",
+            "date": "2026-03-19",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_190326xcp",
+            "views": 0,
+            "time": 1773951045
+        },
+        "69bc5845e5241": {
+            "id": "69bc5845e5241",
+            "date": "2026-03-19",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/Wa62gwF3iJA",
+            "views": 0,
+            "time": 1773951045
+        },
+        "69bc58432358f": {
+            "id": "69bc58432358f",
+            "date": "2026-03-19",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityBroadcast_190326wer",
+            "views": 0,
+            "time": 1773951044
+        },
+        "69bc58430c189": {
+            "id": "69bc58430c189",
+            "date": "2026-03-19",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_190326cyi",
+            "views": 0,
+            "time": 1773951043
+        },
+        "69bc582119852": {
+            "id": "69bc582119852",
+            "date": "2026-03-19",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/Os3qHsAz_WA",
+            "views": 0,
+            "time": 1773951009
+        },
         "69bc1fdcf23c2": {
             "date": "2026-03-19",
             "id": "69bc1fdcf23c2",
