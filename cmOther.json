@@ -1,5 +1,49 @@
 {
     "links": {
+        "69c19e4063e5a": {
+            "id": "69c19e4063e5a",
+            "date": "2026-03-23",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/gS_9Pl7V5dQ",
+            "views": 0,
+            "time": 1774296641
+        },
+        "69c19e4048126": {
+            "id": "69c19e4048126",
+            "date": "2026-03-23",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/XJiwshwDcos",
+            "views": 0,
+            "time": 1774296640
+        },
+        "69c19e3c1b955": {
+            "id": "69c19e3c1b955",
+            "date": "2026-03-23",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_230326jjp",
+            "views": 0,
+            "time": 1774296636
+        },
+        "69c19e3bf0c7b": {
+            "id": "69c19e3bf0c7b",
+            "date": "2026-03-23",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_230326vvb",
+            "views": 0,
+            "time": 1774296635
+        },
         "69c165de172fd": {
             "date": "2026-03-23",
             "id": "69c165de172fd",
