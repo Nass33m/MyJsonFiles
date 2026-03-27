@@ -1,5 +1,60 @@
 {
     "links": {
+        "69c6abeb4f7fc": {
+            "id": "69c6abeb4f7fc",
+            "date": "2026-03-27",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/1s6wdW8GLPI",
+            "views": 0,
+            "time": 1774627819
+        },
+        "69c6abe17f7df": {
+            "id": "69c6abe17f7df",
+            "date": "2026-03-27",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/KwBivU84_WA",
+            "views": 0,
+            "time": 1774627809
+        },
+        "69c6abde62510": {
+            "date": "2026-03-27",
+            "id": "69c6abde62510",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4lPfOEw",
+            "views": 0,
+            "time": 1774627808
+        },
+        "69c6abde41194": {
+            "date": "2026-03-27",
+            "id": "69c6abde41194",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4lGTTyW",
+            "views": 0,
+            "time": 1774627807
+        },
+        "69c6abde21d17": {
+            "date": "2026-03-27",
+            "id": "69c6abde21d17",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://familyisland.onelink.me/wjlA/9nl0hrz6",
+            "views": 0,
+            "time": 1774627806
+        },
         "69c6866331bda": {
             "id": "69c6866331bda",
             "date": "2026-03-27",
