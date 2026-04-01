@@ -1,5 +1,82 @@
 {
     "links": {
+        "69cd7bbc1f9b9": {
+            "id": "69cd7bbc1f9b9",
+            "date": "2026-04-01",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/i9dqaCxXES0",
+            "views": 0,
+            "time": 1775074236
+        },
+        "69cd7bb89b172": {
+            "id": "69cd7bb89b172",
+            "date": "2026-04-01",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/s48T3F5x3L4",
+            "views": 0,
+            "time": 1775074233
+        },
+        "69cd7bb87ed36": {
+            "id": "69cd7bb87ed36",
+            "date": "2026-04-01",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/MUwmt0iErKM",
+            "views": 0,
+            "time": 1775074232
+        },
+        "69cd7bb5a5925": {
+            "id": "69cd7bb5a5925",
+            "date": "2026-04-01",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_310326ccz",
+            "views": 0,
+            "time": 1775074231
+        },
+        "69cd7bb58447b": {
+            "id": "69cd7bb58447b",
+            "date": "2026-04-01",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_010426ccb",
+            "views": 0,
+            "time": 1775074230
+        },
+        "69cd7bb560ec0": {
+            "id": "69cd7bb560ec0",
+            "date": "2026-04-01",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_010426bbx",
+            "views": 0,
+            "time": 1775074229
+        },
+        "69cd7ba2f1d23": {
+            "id": "69cd7ba2f1d23",
+            "date": "2026-04-01",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/Hs9n4r3w_WA",
+            "views": 0,
+            "time": 1775074210
+        },
         "69cd1de42df2b": {
             "id": "69cd1de42df2b",
             "date": "2026-04-01",
