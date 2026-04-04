@@ -1,5 +1,93 @@
 {
     "links": {
+        "69d1702aa1254": {
+            "id": "69d1702aa1254",
+            "date": "2026-04-04",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/a8z98BQG8DY",
+            "views": 0,
+            "time": 1775333419
+        },
+        "69d1702a817b6": {
+            "id": "69d1702a817b6",
+            "date": "2026-04-04",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/bc77gK9Qzds",
+            "views": 0,
+            "time": 1775333418
+        },
+        "69d170276743c": {
+            "id": "69d170276743c",
+            "date": "2026-04-04",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_040426cvm",
+            "views": 0,
+            "time": 1775333416
+        },
+        "69d1702745f07": {
+            "id": "69d1702745f07",
+            "date": "2026-04-04",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_040426pwe",
+            "views": 0,
+            "time": 1775333415
+        },
+        "69d17020cbee3": {
+            "id": "69d17020cbee3",
+            "date": "2026-04-04",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/5y5JoBoF_WA",
+            "views": 0,
+            "time": 1775333408
+        },
+        "69d1701dbd4b1": {
+            "date": "2026-04-04",
+            "id": "69d1701dbd4b1",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4m4wSqc",
+            "views": 0,
+            "time": 1775333407
+        },
+        "69d1701d98a87": {
+            "date": "2026-04-04",
+            "id": "69d1701d98a87",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4bPLlkR",
+            "views": 0,
+            "time": 1775333406
+        },
+        "69d1701d6e2eb": {
+            "date": "2026-04-04",
+            "id": "69d1701d6e2eb",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4tfxbAA",
+            "views": 0,
+            "time": 1775333405
+        },
         "69d137e049b10": {
             "id": "69d137e049b10",
             "date": "2026-04-04",
