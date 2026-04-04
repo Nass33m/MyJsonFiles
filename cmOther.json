@@ -1,5 +1,38 @@
 {
     "links": {
+        "69d137e049b10": {
+            "id": "69d137e049b10",
+            "date": "2026-04-04",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/6zzdVtma_INS",
+            "views": 0,
+            "time": 1775319009
+        },
+        "69d137e032771": {
+            "id": "69d137e032771",
+            "date": "2026-04-04",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/OK2V2evx_FCB",
+            "views": 0,
+            "time": 1775319008
+        },
+        "69d137dcaa992": {
+            "date": "2026-04-04",
+            "id": "69d137dcaa992",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=BDTZRZ5F&channel=1",
+            "views": 0,
+            "time": 1775319004
+        },
         "69d0f63dd40f0": {
             "date": "2026-04-04",
             "id": "69d0f63dd40f0",
