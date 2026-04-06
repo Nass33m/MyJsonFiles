@@ -1,5 +1,60 @@
 {
     "links": {
+        "69d399406ce68": {
+            "id": "69d399406ce68",
+            "date": "2026-04-06",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/tHna66yN_WA",
+            "views": 0,
+            "time": 1775475010
+        },
+        "69d399404f495": {
+            "id": "69d399404f495",
+            "date": "2026-04-06",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/1VMkYcUH_FCB",
+            "views": 0,
+            "time": 1775475009
+        },
+        "69d399402305f": {
+            "id": "69d399402305f",
+            "date": "2026-04-06",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/yXmX8AOd_TWI",
+            "views": 0,
+            "time": 1775475008
+        },
+        "69d3993fed34d": {
+            "id": "69d3993fed34d",
+            "date": "2026-04-06",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/urTU5E5w_INS",
+            "views": 0,
+            "time": 1775475007
+        },
+        "69d3993c6f8b4": {
+            "date": "2026-04-06",
+            "id": "69d3993c6f8b4",
+            "name": "Coin Tales Bonus",
+            "game": "Coin Tales",
+            "type": "other",
+            "number": 0,
+            "url": "https://cutt.ly/MtS50M38",
+            "views": 0,
+            "time": 1775475004
+        },
         "69d37d1dbd833": {
             "date": "2026-04-06",
             "id": "69d37d1dbd833",
