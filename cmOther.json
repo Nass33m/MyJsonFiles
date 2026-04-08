@@ -1,5 +1,49 @@
 {
     "links": {
+        "69d6b63bac657": {
+            "id": "69d6b63bac657",
+            "date": "2026-04-08",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityBroadcast_080426cet",
+            "views": 0,
+            "time": 1775679037
+        },
+        "69d6b63b8e150": {
+            "id": "69d6b63b8e150",
+            "date": "2026-04-08",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "http://rewards.dicedreams.com/?handler=reward&link=CommunityGroup_080426ccp",
+            "views": 0,
+            "time": 1775679036
+        },
+        "69d6b63b6f821": {
+            "id": "69d6b63b6f821",
+            "date": "2026-04-08",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_080426pll",
+            "views": 0,
+            "time": 1775679035
+        },
+        "69d6b6214d153": {
+            "id": "69d6b6214d153",
+            "date": "2026-04-08",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/sbWCwuyL_WA",
+            "views": 0,
+            "time": 1775679009
+        },
         "69d67def090ee": {
             "id": "69d67def090ee",
             "date": "2026-04-08",
