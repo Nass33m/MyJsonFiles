@@ -1,5 +1,60 @@
 {
     "links": {
+        "69da30c3d06db": {
+            "id": "69da30c3d06db",
+            "date": "2026-04-11",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/LkB00HcS_INS",
+            "views": 0,
+            "time": 1775907011
+        },
+        "69da30c0a9071": {
+            "date": "2026-04-11",
+            "id": "69da30c0a9071",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://familyisland.onelink.me/wjlA/k8qeeohs",
+            "views": 0,
+            "time": 1775907010
+        },
+        "69da30c085d6c": {
+            "date": "2026-04-11",
+            "id": "69da30c085d6c",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/gift_inst11arp26",
+            "views": 0,
+            "time": 1775907009
+        },
+        "69da30bfbe91c": {
+            "date": "2026-04-11",
+            "id": "69da30bfbe91c",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=WDY5IQ36&channel=1",
+            "views": 0,
+            "time": 1775907008
+        },
+        "69da30bf29dfa": {
+            "date": "2026-04-11",
+            "id": "69da30bf29dfa",
+            "name": "Coin Dragon Bonus",
+            "game": "Coin Dragon",
+            "type": "coins",
+            "number": 20,
+            "url": "https://www.game-ease.com/reward.html?dc=838mgwbz",
+            "views": 0,
+            "time": 1775907007
+        },
         "69da14b250a58": {
             "id": "69da14b250a58",
             "date": "2026-04-11",
