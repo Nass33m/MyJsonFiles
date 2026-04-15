@@ -1,5 +1,71 @@
 {
     "links": {
+        "69df5aa9b2a80": {
+            "id": "69df5aa9b2a80",
+            "date": "2026-04-15",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_140426cxw",
+            "views": 0,
+            "time": 1776245417
+        },
+        "69df5aa2dbfbc": {
+            "id": "69df5aa2dbfbc",
+            "date": "2026-04-15",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/HzLtMEU5_WA",
+            "views": 0,
+            "time": 1776245411
+        },
+        "69df5aa2bcb86": {
+            "id": "69df5aa2bcb86",
+            "date": "2026-04-15",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/ndClDORO_FCB",
+            "views": 0,
+            "time": 1776245410
+        },
+        "69df5a9fa831f": {
+            "date": "2026-04-15",
+            "id": "69df5a9fa831f",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4dIXf2D",
+            "views": 0,
+            "time": 1776245408
+        },
+        "69df5a9f7f3ee": {
+            "date": "2026-04-15",
+            "id": "69df5a9f7f3ee",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4soJ5Y5",
+            "views": 0,
+            "time": 1776245407
+        },
+        "69df5a9e2e5fb": {
+            "date": "2026-04-15",
+            "id": "69df5a9e2e5fb",
+            "name": "Coin Tales Bonus",
+            "game": "Coin Tales",
+            "type": "other",
+            "number": 0,
+            "url": "https://cutt.ly/TtGnV47e",
+            "views": 0,
+            "time": 1776245406
+        },
         "69de9f2b1ba2b": {
             "id": "69de9f2b1ba2b",
             "date": "2026-04-14",
@@ -406,171 +472,6 @@
             "url": "https://www.game-ease.com/reward.html?dc=gpyjy21p",
             "views": 0,
             "time": 1776072604
-        },
-        "69dbfc3de770a": {
-            "id": "69dbfc3de770a",
-            "date": "2026-04-12",
-            "name": "Monopoly Go Bonus",
-            "game": "Monopoly Go",
-            "type": "dice",
-            "number": 60,
-            "url": "https://mply.io/Uc1f7OLvm1U",
-            "views": 0,
-            "time": 1776024637
-        },
-        "69dbfc3a5bf39": {
-            "id": "69dbfc3a5bf39",
-            "date": "2026-04-12",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/F5KIXUllKgY",
-            "views": 0,
-            "time": 1776024636
-        },
-        "69dbfc3a3d559": {
-            "id": "69dbfc3a3d559",
-            "date": "2026-04-12",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/5cAVSUMy9W0",
-            "views": 0,
-            "time": 1776024635
-        },
-        "69dbfc3a21af0": {
-            "id": "69dbfc3a21af0",
-            "date": "2026-04-12",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/TE0zOnF0_yA",
-            "views": 0,
-            "time": 1776024634
-        },
-        "69dbfc369b9e5": {
-            "id": "69dbfc369b9e5",
-            "date": "2026-04-12",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_120426cpw",
-            "views": 0,
-            "time": 1776024631
-        },
-        "69dbfc36759a7": {
-            "id": "69dbfc36759a7",
-            "date": "2026-04-12",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_120426nnp",
-            "views": 0,
-            "time": 1776024630
-        },
-        "69dbfc215b00d": {
-            "id": "69dbfc215b00d",
-            "date": "2026-04-12",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 15,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/B2csfQAZ_WA",
-            "views": 0,
-            "time": 1776024609
-        },
-        "69dbb4d78d3ee": {
-            "id": "69dbb4d78d3ee",
-            "date": "2026-04-12",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 15,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/PGCkbWe7_INS",
-            "views": 0,
-            "time": 1776006359
-        },
-        "69dbb4d3a21a5": {
-            "date": "2026-04-12",
-            "id": "69dbb4d3a21a5",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 0,
-            "url": "https://thefamilyisland.com/3NLZS9v",
-            "views": 0,
-            "time": 1776006356
-        },
-        "69dbb4d37ff58": {
-            "date": "2026-04-12",
-            "id": "69dbb4d37ff58",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 0,
-            "url": "https://thefamilyisland.com/gift_inst12arp26",
-            "views": 0,
-            "time": 1776006355
-        },
-        "69db6620d3847": {
-            "id": "69db6620d3847",
-            "date": "2026-04-12",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 25,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/U4UvVktQ_FCB",
-            "views": 0,
-            "time": 1775986210
-        },
-        "69db6620bdf57": {
-            "id": "69db6620bdf57",
-            "date": "2026-04-12",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 20,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/io3GCHcw_WA",
-            "views": 0,
-            "time": 1775986209
-        },
-        "69db6620a88a4": {
-            "id": "69db6620a88a4",
-            "date": "2026-04-12",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 10,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/lidcbum9_TWI",
-            "views": 0,
-            "time": 1775986208
-        },
-        "69db661d23dbf": {
-            "date": "2026-04-12",
-            "id": "69db661d23dbf",
-            "name": "Piggy Go Bonus",
-            "game": "Piggy Go",
-            "type": "dice",
-            "number": 10,
-            "url": "https://piggygo-jy.forevernine.com/fanpage?code=8TVR37GZ&channel=1",
-            "views": 0,
-            "time": 1775986205
-        },
-        "69db661cd3308": {
-            "date": "2026-04-12",
-            "id": "69db661cd3308",
-            "name": "Coin Tales Bonus",
-            "game": "Coin Tales",
-            "type": "other",
-            "number": 0,
-            "url": "https://cutt.ly/ZtFDpWib",
-            "views": 0,
-            "time": 1775986204
         }
     }
 }
