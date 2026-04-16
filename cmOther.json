@@ -1,5 +1,71 @@
 {
     "links": {
+        "69e0ac29c1c8f": {
+            "id": "69e0ac29c1c8f",
+            "date": "2026-04-16",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/L6aGYAimXEs",
+            "views": 0,
+            "time": 1776331817
+        },
+        "69e0ac2723a0c": {
+            "id": "69e0ac2723a0c",
+            "date": "2026-04-16",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_150426vqd",
+            "views": 0,
+            "time": 1776331815
+        },
+        "69e0ac2056a19": {
+            "id": "69e0ac2056a19",
+            "date": "2026-04-16",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/7U5ani08_FCB",
+            "views": 0,
+            "time": 1776331810
+        },
+        "69e0ac203f7b0": {
+            "id": "69e0ac203f7b0",
+            "date": "2026-04-16",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/bLWylJC8_TWI",
+            "views": 0,
+            "time": 1776331809
+        },
+        "69e0ac2029319": {
+            "id": "69e0ac2029319",
+            "date": "2026-04-16",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/D6ZirnHc_INS",
+            "views": 0,
+            "time": 1776331808
+        },
+        "69e0ac1cdc89b": {
+            "date": "2026-04-16",
+            "id": "69e0ac1cdc89b",
+            "name": "Coin Tales Bonus",
+            "game": "Coin Tales",
+            "type": "other",
+            "number": 50,
+            "url": "https://cutt.ly/ntGK7rrD",
+            "views": 0,
+            "time": 1776331804
+        },
         "69dff0ab57e95": {
             "id": "69dff0ab57e95",
             "date": "2026-04-15",
@@ -417,193 +483,6 @@
             "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/mdZtvZ6W_FCB",
             "views": 0,
             "time": 1776159009
-        },
-        "69dd4dab60c76": {
-            "id": "69dd4dab60c76",
-            "date": "2026-04-13",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/KJaPEYi-Y_o",
-            "views": 0,
-            "time": 1776111020
-        },
-        "69dd4dab2488f": {
-            "id": "69dd4dab2488f",
-            "date": "2026-04-13",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/CMwQWfiiX5o",
-            "views": 0,
-            "time": 1776111019
-        },
-        "69dd4da83ee14": {
-            "id": "69dd4da83ee14",
-            "date": "2026-04-13",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityBroadcast_120426aqp",
-            "views": 0,
-            "time": 1776111017
-        },
-        "69dd4da82338c": {
-            "id": "69dd4da82338c",
-            "date": "2026-04-13",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_130426vvp",
-            "views": 0,
-            "time": 1776111016
-        },
-        "69dd4da0ebea1": {
-            "id": "69dd4da0ebea1",
-            "date": "2026-04-13",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 20,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/aUWUD2W6_WA",
-            "views": 0,
-            "time": 1776111009
-        },
-        "69dd4da0cdeff": {
-            "id": "69dd4da0cdeff",
-            "date": "2026-04-13",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 20,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/tUOwEF5g_WA",
-            "views": 0,
-            "time": 1776111008
-        },
-        "69dd2dffe541b": {
-            "date": "2026-04-13",
-            "id": "69dd2dffe541b",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 0,
-            "url": "https://thefamilyisland.com/48tGR2p",
-            "views": 0,
-            "time": 1776102913
-        },
-        "69dd2dffd09f3": {
-            "date": "2026-04-13",
-            "id": "69dd2dffd09f3",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 0,
-            "url": "https://thefamilyisland.com/gift_inst13arp26",
-            "views": 0,
-            "time": 1776102912
-        },
-        "69dd2dffbab42": {
-            "date": "2026-04-13",
-            "id": "69dd2dffbab42",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 0,
-            "url": "https://thefamilyisland.com/3O57nrW",
-            "views": 0,
-            "time": 1776102911
-        },
-        "69dd2dfe6dd4f": {
-            "date": "2026-04-13",
-            "id": "69dd2dfe6dd4f",
-            "name": "Piggy Go Bonus",
-            "game": "Piggy Go",
-            "type": "dice",
-            "number": 10,
-            "url": "https://piggygo-jy.forevernine.com/fanpage?code=2Q7UW148&channel=1",
-            "views": 0,
-            "time": 1776102910
-        },
-        "69dcefe08901b": {
-            "id": "69dcefe08901b",
-            "date": "2026-04-13",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 15,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/fUci6ZKU_INS",
-            "views": 0,
-            "time": 1776087008
-        },
-        "69dcd3e1d2e61": {
-            "id": "69dcd3e1d2e61",
-            "date": "2026-04-13",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/LOnvBkoEP4E",
-            "views": 0,
-            "time": 1776079841
-        },
-        "69dcd3c256bc8": {
-            "id": "69dcd3c256bc8",
-            "date": "2026-04-13",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 25,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/Trwzur1F_FCB",
-            "views": 0,
-            "time": 1776079811
-        },
-        "69dcd3c2355ee": {
-            "id": "69dcd3c2355ee",
-            "date": "2026-04-13",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 10,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/ODofkX6k_TWI",
-            "views": 0,
-            "time": 1776079810
-        },
-        "69dcb7a11291f": {
-            "id": "69dcb7a11291f",
-            "date": "2026-04-13",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 20,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/ZzG3h3Y4_WA",
-            "views": 0,
-            "time": 1776072609
-        },
-        "69dcb79d54fcb": {
-            "date": "2026-04-13",
-            "id": "69dcb79d54fcb",
-            "name": "Coin Tales Bonus",
-            "game": "Coin Tales",
-            "type": "other",
-            "number": 0,
-            "url": "https://cutt.ly/ntF1TZqE",
-            "views": 0,
-            "time": 1776072605
-        },
-        "69dcb79ceb7e9": {
-            "date": "2026-04-13",
-            "id": "69dcb79ceb7e9",
-            "name": "Coin Dragon Bonus",
-            "game": "Coin Dragon",
-            "type": "coins",
-            "number": 20,
-            "url": "https://www.game-ease.com/reward.html?dc=gpyjy21p",
-            "views": 0,
-            "time": 1776072604
         }
     }
 }
