@@ -1,5 +1,27 @@
 {
     "links": {
+        "69e8b1410d350": {
+            "id": "69e8b1410d350",
+            "date": "2026-04-22",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/RJoDTX9Y_INS",
+            "views": 0,
+            "time": 1776857409
+        },
+        "69e8b140e72ee": {
+            "id": "69e8b140e72ee",
+            "date": "2026-04-22",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/3f8zksJQ_TWI",
+            "views": 0,
+            "time": 1776857408
+        },
         "69e8952bc3252": {
             "id": "69e8952bc3252",
             "date": "2026-04-22",
