@@ -1,5 +1,71 @@
 {
     "links": {
+        "69f09a4a79b6f": {
+            "id": "69f09a4a79b6f",
+            "date": "2026-04-28",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/su_93dEuDGI",
+            "views": 0,
+            "time": 1777375819
+        },
+        "69f09a4a5eb90": {
+            "id": "69f09a4a5eb90",
+            "date": "2026-04-28",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/eYEwQNxTe1s",
+            "views": 0,
+            "time": 1777375818
+        },
+        "69f09a40d343d": {
+            "id": "69f09a40d343d",
+            "date": "2026-04-28",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/9jNu55zz_WA",
+            "views": 0,
+            "time": 1777375808
+        },
+        "69f09a3dc1770": {
+            "date": "2026-04-28",
+            "id": "69f09a3dc1770",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4vZxylh",
+            "views": 0,
+            "time": 1777375806
+        },
+        "69f09a3d9f4e1": {
+            "date": "2026-04-28",
+            "id": "69f09a3d9f4e1",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4cSQEBL",
+            "views": 0,
+            "time": 1777375805
+        },
+        "69f09a3c60dae": {
+            "date": "2026-04-28",
+            "id": "69f09a3c60dae",
+            "name": "Coin Dragon Bonus",
+            "game": "Coin Dragon",
+            "type": "coins",
+            "number": 20,
+            "url": "https://www.game-ease.com/reward.html?dc=eydj6y2u",
+            "views": 0,
+            "time": 1777375804
+        },
         "69f07e2705751": {
             "id": "69f07e2705751",
             "date": "2026-04-28",
