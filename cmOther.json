@@ -1,5 +1,71 @@
 {
     "links": {
+        "69f265aed7395": {
+            "id": "69f265aed7395",
+            "date": "2026-04-29",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/gsg0keWTcH8",
+            "views": 0,
+            "time": 1777493422
+        },
+        "69f265ab37648": {
+            "id": "69f265ab37648",
+            "date": "2026-04-29",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/iu14Gjk1XRg",
+            "views": 0,
+            "time": 1777493420
+        },
+        "69f265ab19d4d": {
+            "id": "69f265ab19d4d",
+            "date": "2026-04-29",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/fTrpuXMwseQ",
+            "views": 0,
+            "time": 1777493419
+        },
+        "69f265a7d41ad": {
+            "id": "69f265a7d41ad",
+            "date": "2026-04-29",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "http://rewards.dicedreams.com/?handler=reward&link=CommunityStory_Trading_290426",
+            "views": 0,
+            "time": 1777493416
+        },
+        "69f265a7b2165": {
+            "id": "69f265a7b2165",
+            "date": "2026-04-29",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_290426bbb",
+            "views": 0,
+            "time": 1777493415
+        },
+        "69f265a03a6e7": {
+            "id": "69f265a03a6e7",
+            "date": "2026-04-29",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/rrCmfhuQ_WA",
+            "views": 0,
+            "time": 1777493408
+        },
         "69f22d6ae6095": {
             "id": "69f22d6ae6095",
             "date": "2026-04-29",
