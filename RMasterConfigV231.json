@@ -40,8 +40,8 @@
   "flagMessageURL": "https://apps.yartmedia.com/ios/cm/chatroom/flag-message.php",
   "maxAllowedListings": 10,
   "isMessageInTradeAvailable": true,
-  "rewardsShowAdOnClick": false,
-  "rewardsShowAdOnAppear": true,
-  "tradeShowAdOnClick": false,
-  "tradeShowAdOnAppear": true
+  "rewardsShowAdOnClick": true,
+  "rewardsShowAdOnAppear": false,
+  "tradeShowAdOnClick": true,
+  "tradeShowAdOnAppear": false
 }
