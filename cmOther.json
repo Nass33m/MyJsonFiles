@@ -1,5 +1,82 @@
 {
     "links": {
+        "69fa166aca460": {
+            "id": "69fa166aca460",
+            "date": "2026-05-05",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/o-0NA2WMfG4",
+            "views": 0,
+            "time": 1777997418
+        },
+        "69fa166764103": {
+            "id": "69fa166764103",
+            "date": "2026-05-05",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "http://rewards.dicedreams.com/?handler=reward&link=CommunityPostTrading_050526vvp",
+            "views": 0,
+            "time": 1777997415
+        },
+        "69fa16611338c": {
+            "id": "69fa16611338c",
+            "date": "2026-05-05",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/aXrY2kgc_INS",
+            "views": 0,
+            "time": 1777997409
+        },
+        "69fa165e1789d": {
+            "date": "2026-05-05",
+            "id": "69fa165e1789d",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://familyisland.onelink.me/wjlA/6q1a8fc4",
+            "views": 0,
+            "time": 1777997408
+        },
+        "69fa165dd33dc": {
+            "date": "2026-05-05",
+            "id": "69fa165dd33dc",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4vQSV7V",
+            "views": 0,
+            "time": 1777997407
+        },
+        "69fa165da61b2": {
+            "date": "2026-05-05",
+            "id": "69fa165da61b2",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4ua6m15",
+            "views": 0,
+            "time": 1777997406
+        },
+        "69fa165d8fc63": {
+            "date": "2026-05-05",
+            "id": "69fa165d8fc63",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4uccJRL",
+            "views": 0,
+            "time": 1777997405
+        },
         "69f9d4cbd0df2": {
             "id": "69f9d4cbd0df2",
             "date": "2026-05-05",
