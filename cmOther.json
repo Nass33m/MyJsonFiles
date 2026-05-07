@@ -1,5 +1,49 @@
 {
     "links": {
+        "69fcf1aa3ef2d": {
+            "id": "69fcf1aa3ef2d",
+            "date": "2026-05-07",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/l9hK3HMsWQM",
+            "views": 0,
+            "time": 1778184619
+        },
+        "69fcf1aa29b0a": {
+            "id": "69fcf1aa29b0a",
+            "date": "2026-05-07",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/fOJXhhnuws8",
+            "views": 0,
+            "time": 1778184618
+        },
+        "69fcf1a7071f3": {
+            "id": "69fcf1a7071f3",
+            "date": "2026-05-07",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_070526mpw",
+            "views": 0,
+            "time": 1778184615
+        },
+        "69fcf1a021f4a": {
+            "id": "69fcf1a021f4a",
+            "date": "2026-05-07",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/igey2SmK_WA",
+            "views": 0,
+            "time": 1778184608
+        },
         "69fcb96db1c8d": {
             "id": "69fcb96db1c8d",
             "date": "2026-05-07",
