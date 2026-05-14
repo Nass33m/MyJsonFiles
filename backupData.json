@@ -1,5 +1,16 @@
 {
     "links": {
+        "6a05a1d4b0f50": {
+            "date": "2026-05-14",
+            "id": "6a05a1d4b0f50",
+            "name": "50 Spins",
+            "game": "Coin Master",
+            "type": "spins",
+            "number": 50,
+            "url": "https:\/\/rewards.coinmaster.com\/rewards\/rewards.html?c=pe_LINEpcTaoF_20260514",
+            "views": 0,
+            "time": 1778754004
+        },
         "6a0577a3c43f8": {
             "date": "2026-05-14",
             "id": "6a0577a3c43f8",
@@ -296,17 +307,6 @@
             "url": "https:\/\/rewards.coinmaster.com\/rewards\/rewards.html?c=pe_FCBsbnPZx_20260511",
             "views": 0,
             "time": 1778488804
-        },
-        "6a016bb44b938": {
-            "date": "2026-05-11",
-            "id": "6a016bb44b938",
-            "name": "25 Spins",
-            "game": "Coin Master",
-            "type": "spins",
-            "number": 25,
-            "url": "https:\/\/rewards.coinmaster.com\/rewards\/rewards.html?c=pe_EMAILCnKgfg_20260510",
-            "views": 0,
-            "time": 1778478004
         }
     }
 }
