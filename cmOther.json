@@ -1,5 +1,60 @@
 {
     "links": {
+        "6a08cf2a323be": {
+            "id": "6a08cf2a323be",
+            "date": "2026-05-16",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/bDhkoL-qFrM",
+            "views": 0,
+            "time": 1778962219
+        },
+        "6a08cf2a193a3": {
+            "id": "6a08cf2a193a3",
+            "date": "2026-05-16",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/c7iZistjNEc",
+            "views": 0,
+            "time": 1778962218
+        },
+        "6a08cf29f18de": {
+            "id": "6a08cf29f18de",
+            "date": "2026-05-16",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/aMZ6jbnhe10",
+            "views": 0,
+            "time": 1778962217
+        },
+        "6a08cf274931f": {
+            "id": "6a08cf274931f",
+            "date": "2026-05-16",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_160526zwl",
+            "views": 0,
+            "time": 1778962215
+        },
+        "6a08cf2043543": {
+            "id": "6a08cf2043543",
+            "date": "2026-05-16",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/DwSu2zmO_WA",
+            "views": 0,
+            "time": 1778962208
+        },
         "6a0855404ce7c": {
             "id": "6a0855404ce7c",
             "date": "2026-05-16",
