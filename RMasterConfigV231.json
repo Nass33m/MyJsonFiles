@@ -8,7 +8,7 @@
   "warmAppOpenInterval": 200,
   "appOpenBackgroundThreshold": 5000,
   "interInterval": 1,
-  "interTimeDelay": 10,
+  "interTimeDelay": 15,
   "bannerAds": false,
   "customBanners": true,
   "showNativeInListings": false,
