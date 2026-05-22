@@ -1,5 +1,71 @@
 {
     "links": {
+        "6a10b832bf684": {
+            "id": "6a10b832bf684",
+            "date": "2026-05-22",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 60,
+            "url": "https://mply.io/aQQjRFM4ZbE",
+            "views": 0,
+            "time": 1779480627
+        },
+        "6a10b832a5fa2": {
+            "id": "6a10b832a5fa2",
+            "date": "2026-05-22",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/9CJzMTaMRmc",
+            "views": 0,
+            "time": 1779480626
+        },
+        "6a10b82f7ab0d": {
+            "id": "6a10b82f7ab0d",
+            "date": "2026-05-22",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/8MKo8LKB9c8",
+            "views": 0,
+            "time": 1779480623
+        },
+        "6a10b82cca2b6": {
+            "id": "6a10b82cca2b6",
+            "date": "2026-05-22",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_220526bqa",
+            "views": 0,
+            "time": 1779480620
+        },
+        "6a10b81fb7124": {
+            "id": "6a10b81fb7124",
+            "date": "2026-05-22",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/Rxdnb6ec_WA",
+            "views": 0,
+            "time": 1779480608
+        },
+        "6a10b81fa232a": {
+            "id": "6a10b81fa232a",
+            "date": "2026-05-22",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/vL2mbZ1T_WA",
+            "views": 0,
+            "time": 1779480607
+        },
         "6a107fdc9c3c2": {
             "date": "2026-05-22",
             "id": "6a107fdc9c3c2",
