@@ -1,5 +1,82 @@
 {
     "links": {
+        "6a174fb937929": {
+            "id": "6a174fb937929",
+            "date": "2026-05-27",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/X_1mURKbbHU",
+            "views": 0,
+            "time": 1779912633
+        },
+        "6a174fb614188": {
+            "id": "6a174fb614188",
+            "date": "2026-05-27",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/pIp0P9xnCu0",
+            "views": 0,
+            "time": 1779912633
+        },
+        "6a174fb5e93ec": {
+            "id": "6a174fb5e93ec",
+            "date": "2026-05-27",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/Mp0ZvgNnh0A",
+            "views": 0,
+            "time": 1779912632
+        },
+        "6a174fb5d5fa5": {
+            "id": "6a174fb5d5fa5",
+            "date": "2026-05-27",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/ee-QOCzWs-o",
+            "views": 0,
+            "time": 1779912631
+        },
+        "6a174fb5bee19": {
+            "id": "6a174fb5bee19",
+            "date": "2026-05-27",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/G--VyzUJdAM",
+            "views": 0,
+            "time": 1779912630
+        },
+        "6a174fb5aa02d": {
+            "id": "6a174fb5aa02d",
+            "date": "2026-05-27",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/qFdujpSn1eY",
+            "views": 0,
+            "time": 1779912629
+        },
+        "6a174fa675c9c": {
+            "id": "6a174fa675c9c",
+            "date": "2026-05-27",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/OpIa2OQV_WA",
+            "views": 0,
+            "time": 1779912614
+        },
         "6a1717720d616": {
             "date": "2026-05-27",
             "id": "6a1717720d616",
