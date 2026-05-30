@@ -1,5 +1,60 @@
 {
     "links": {
+        "6a1b44393bcd1": {
+            "id": "6a1b44393bcd1",
+            "date": "2026-05-30",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/iIo7U8J9_TRADING",
+            "views": 0,
+            "time": 1780171833
+        },
+        "6a1b0c238f887": {
+            "id": "6a1b0c238f887",
+            "date": "2026-05-30",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/Ujfi4T55_FCB",
+            "views": 0,
+            "time": 1780157478
+        },
+        "6a1b0c236b2e0": {
+            "id": "6a1b0c236b2e0",
+            "date": "2026-05-30",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/sg23oFCo_INS",
+            "views": 0,
+            "time": 1780157477
+        },
+        "6a1b0c2347aca": {
+            "id": "6a1b0c2347aca",
+            "date": "2026-05-30",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/zBRqIre3_TWI",
+            "views": 0,
+            "time": 1780157476
+        },
+        "6a1b0c232184b": {
+            "id": "6a1b0c232184b",
+            "date": "2026-05-30",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/f6e0VOzZ_TRADING",
+            "views": 0,
+            "time": 1780157475
+        },
         "6a1aca5669036": {
             "date": "2026-05-30",
             "id": "6a1aca5669036",
