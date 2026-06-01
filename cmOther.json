@@ -1,5 +1,60 @@
 {
     "links": {
+        "6a1d89927ebde": {
+            "id": "6a1d89927ebde",
+            "date": "2026-06-01",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/SPi6b4chxGk",
+            "views": 0,
+            "time": 1780320659
+        },
+        "6a1d89926b700": {
+            "id": "6a1d89926b700",
+            "date": "2026-06-01",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/KSB1lE6g0SU",
+            "views": 0,
+            "time": 1780320658
+        },
+        "6a1d8982bdfbf": {
+            "id": "6a1d8982bdfbf",
+            "date": "2026-06-01",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/v0N4l1Ln_FCB",
+            "views": 0,
+            "time": 1780320644
+        },
+        "6a1d8982a83ff": {
+            "id": "6a1d8982a83ff",
+            "date": "2026-06-01",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/y1G6DWAc_TWI",
+            "views": 0,
+            "time": 1780320643
+        },
+        "6a1d89828edf7": {
+            "id": "6a1d89828edf7",
+            "date": "2026-06-01",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/mxLQtmAW_INS",
+            "views": 0,
+            "time": 1780320642
+        },
         "6a1d6d4c04efe": {
             "date": "2026-06-01",
             "id": "6a1d6d4c04efe",
