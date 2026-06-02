@@ -1,5 +1,49 @@
 {
     "links": {
+        "6a1f39364250b": {
+            "id": "6a1f39364250b",
+            "date": "2026-06-02",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/OWD-8cnwbRg",
+            "views": 0,
+            "time": 1780431158
+        },
+        "6a1f391f6864d": {
+            "id": "6a1f391f6864d",
+            "date": "2026-06-02",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/lhLKppUmUJ0",
+            "views": 0,
+            "time": 1780431135
+        },
+        "6a1f391c42dd4": {
+            "id": "6a1f391c42dd4",
+            "date": "2026-06-02",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_020626DLA",
+            "views": 0,
+            "time": 1780431132
+        },
+        "6a1f38a839e31": {
+            "date": "2026-06-02",
+            "id": "6a1f38a839e31",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4aarNYk",
+            "views": 0,
+            "time": 1780431016
+        },
         "6a1edb660d2d2": {
             "id": "6a1edb660d2d2",
             "date": "2026-06-02",
