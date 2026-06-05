@@ -1,5 +1,38 @@
 {
     "links": {
+        "6a232d5fe8702": {
+            "id": "6a232d5fe8702",
+            "date": "2026-06-05",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/8XENsdZSZI0",
+            "views": 0,
+            "time": 1780690271
+        },
+        "6a232d59cac3e": {
+            "id": "6a232d59cac3e",
+            "date": "2026-06-05",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_050626POE",
+            "views": 0,
+            "time": 1780690265
+        },
+        "6a232d4a42013": {
+            "date": "2026-06-05",
+            "id": "6a232d4a42013",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4wXBELa",
+            "views": 0,
+            "time": 1780690250
+        },
         "6a22f51d7d78b": {
             "id": "6a22f51d7d78b",
             "date": "2026-06-05",
