@@ -1,5 +1,38 @@
 {
     "links": {
+        "6a29c4b766c2f": {
+            "id": "6a29c4b766c2f",
+            "date": "2026-06-10",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/i_dcMSM52do",
+            "views": 0,
+            "time": 1781122231
+        },
+        "6a29c4b019fc2": {
+            "id": "6a29c4b019fc2",
+            "date": "2026-06-10",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_100626cpo",
+            "views": 0,
+            "time": 1781122224
+        },
+        "6a29c4a230874": {
+            "id": "6a29c4a230874",
+            "date": "2026-06-10",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/bKoDCyOF_WA",
+            "views": 0,
+            "time": 1781122210
+        },
         "6a298c9981f4e": {
             "id": "6a298c9981f4e",
             "date": "2026-06-10",
