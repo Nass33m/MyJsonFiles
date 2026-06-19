@@ -1,5 +1,126 @@
 {
     "links": {
+        "6a3584992f994": {
+            "id": "6a3584992f994",
+            "date": "2026-06-19",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/DDhJ5O1f01M",
+            "views": 0,
+            "time": 1781892250
+        },
+        "6a3584990b02e": {
+            "id": "6a3584990b02e",
+            "date": "2026-06-19",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/72Gmjaypsbk",
+            "views": 0,
+            "time": 1781892249
+        },
+        "6a35848ea8bdc": {
+            "id": "6a35848ea8bdc",
+            "date": "2026-06-19",
+            "name": "Bingo Blitz Two super chargers, two instant wins, seven double daubs, and 45 credits",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=558d0f5602439273ab7687c775a661f087c65f28160be530b753e9c506dcf104",
+            "views": 0,
+            "time": 1781892244
+        },
+        "6a35848e84a92": {
+            "id": "6a35848e84a92",
+            "date": "2026-06-19",
+            "name": "Bingo Blitz 20 credits",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=35822ef6aed156032a9f8eda159fe066142ef3c05034fd033363509d57e10dee",
+            "views": 0,
+            "time": 1781892243
+        },
+        "6a35848e5fc77": {
+            "id": "6a35848e5fc77",
+            "date": "2026-06-19",
+            "name": "Bingo Blitz Two double daubs and 15 credits",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=922d8800f03455571f3015838681bb3af294e22c4fb14efe474aec4052c1323e",
+            "views": 0,
+            "time": 1781892242
+        },
+        "6a358492d21ef": {
+            "id": "6a358492d21ef",
+            "date": "2026-06-19",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_180626baw",
+            "views": 0,
+            "time": 1781892242
+        },
+        "6a35848e3aa38": {
+            "id": "6a35848e3aa38",
+            "date": "2026-06-19",
+            "name": "Bingo Blitz Two double daubs and 15 credits",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=76742f4e79b582ca9b6429eb17fd6096d410d4ef8ac6594e41a45d54d84a9dd6&desktop=fb&scene=popup&asset=inbox.PopupGiftCenter&originId=48324&gameref=FBP_180626",
+            "views": 0,
+            "time": 1781892241
+        },
+        "6a35848e16357": {
+            "id": "6a35848e16357",
+            "date": "2026-06-19",
+            "name": "Bingo Blitz Two double XP and 15 credits",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=4a97220adee179495c2a58e39665433b7b17db0b7996139af96c4506ad3707d7",
+            "views": 0,
+            "time": 1781892240
+        },
+        "6a35848dda1b6": {
+            "id": "6a35848dda1b6",
+            "date": "2026-06-19",
+            "name": "Bingo Blitz Two double XP and 20 credits",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=b72fd9a62f47b65649d2fb6e6bbc9ab3a3ded62b0bf7a61a0250fba58af92354",
+            "views": 0,
+            "time": 1781892239
+        },
+        "6a35848db46a1": {
+            "id": "6a35848db46a1",
+            "date": "2026-06-19",
+            "name": "Bingo Blitz Three super chargers, three instant wins, and 15 credits",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=5fc3c11efe17a3789d8a81eac061f581367fbcb837f082510b88e79936c31c1f",
+            "views": 0,
+            "time": 1781892238
+        },
+        "6a35848d8d27e": {
+            "id": "6a35848d8d27e",
+            "date": "2026-06-19",
+            "name": "Bingo Blitz 20 credits",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=76742f4e79b582ca9b6429eb17fd6096d410d4ef8ac6594e41a45d54d84a9dd6",
+            "views": 0,
+            "time": 1781892237
+        },
         "6a35751aa05e8": {
             "id": "6a35751aa05e8",
             "date": "2026-06-19",
