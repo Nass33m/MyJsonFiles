@@ -1,5 +1,16 @@
 {
     "links": {
+        "6a37af57b4731": {
+            "id": "6a37af57b4731",
+            "date": "2026-06-21",
+            "name": "Animals and Coins Bonus",
+            "game": "Animals and Coins",
+            "type": "energy",
+            "number": 0,
+            "url": "https://coinraid.sng.link/A0ojf/nsf5?_dl=reward&_p=c2e6333f4a5bd1cfec496ab919c88155c65371c3&_smytype=3&_force_redirect=1?ref=gamexlite.com",
+            "views": 0,
+            "time": 1782034263
+        },
         "6a36f3bbea5b9": {
             "id": "6a36f3bbea5b9",
             "date": "2026-06-20",
@@ -769,50 +780,6 @@
             "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/kKcUbH0k_WA",
             "views": 0,
             "time": 1781861418
-        },
-        "6a3450a8dc654": {
-            "id": "6a3450a8dc654",
-            "date": "2026-06-18",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 25,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/bCZJH09B_FCB",
-            "views": 0,
-            "time": 1781813418
-        },
-        "6a3450a8ba932": {
-            "id": "6a3450a8ba932",
-            "date": "2026-06-18",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 10,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/C3OfLNpz_TWI",
-            "views": 0,
-            "time": 1781813417
-        },
-        "6a3450a848267": {
-            "id": "6a3450a848267",
-            "date": "2026-06-18",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 15,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/X2ZN5HOy_INS",
-            "views": 0,
-            "time": 1781813416
-        },
-        "6a33baa7b463c": {
-            "date": "2026-06-18",
-            "id": "6a33baa7b463c",
-            "name": "Coin Tales Bonus",
-            "game": "Coin Tales",
-            "type": "other",
-            "number": 50,
-            "url": "https://cutt.ly/3t8zhUNz",
-            "views": 0,
-            "time": 1781775015
         }
     }
 }
