@@ -1,5 +1,93 @@
 {
     "links": {
+        "6a3e46e51ef01": {
+            "id": "6a3e46e51ef01",
+            "date": "2026-06-26",
+            "name": "Solitaire G.H Bonus",
+            "game": "Solitaire G.H",
+            "type": "other",
+            "number": 10,
+            "url": "https://grandharvest.onelink.me/CT7t/a2e2teti",
+            "views": 0,
+            "time": 1782466277
+        },
+        "6a3e46d664c1c": {
+            "id": "6a3e46d664c1c",
+            "date": "2026-06-26",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_190626vpl",
+            "views": 0,
+            "time": 1782466263
+        },
+        "6a3e46d63e140": {
+            "id": "6a3e46d63e140",
+            "date": "2026-06-26",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_190626bpq",
+            "views": 0,
+            "time": 1782466262
+        },
+        "6a3e46d5e6769": {
+            "id": "6a3e46d5e6769",
+            "date": "2026-06-26",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_200626bpa",
+            "views": 0,
+            "time": 1782466261
+        },
+        "6a3e46d4539f9": {
+            "id": "6a3e46d4539f9",
+            "date": "2026-06-26",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_250626bnq",
+            "views": 0,
+            "time": 1782466260
+        },
+        "6a3e46cd77ec7": {
+            "id": "6a3e46cd77ec7",
+            "date": "2026-06-26",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/zCsTxbAc_TWI",
+            "views": 0,
+            "time": 1782466254
+        },
+        "6a3e46cd4a628": {
+            "id": "6a3e46cd4a628",
+            "date": "2026-06-26",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/iIw0J9hr_FCB",
+            "views": 0,
+            "time": 1782466253
+        },
+        "6a3e46ca28da4": {
+            "date": "2026-06-26",
+            "id": "6a3e46ca28da4",
+            "name": "Coin Tales Bonus",
+            "game": "Coin Tales",
+            "type": "other",
+            "number": 50,
+            "url": "https://cutt.ly/zt7QWIL9",
+            "views": 0,
+            "time": 1782466250
+        },
         "6a3d8b3c376b3": {
             "id": "6a3d8b3c376b3",
             "date": "2026-06-25",
@@ -516,127 +604,6 @@
             "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/U3WnqWid_INS",
             "views": 0,
             "time": 1782293437
-        },
-        "6a3aaff06aed7": {
-            "id": "6a3aaff06aed7",
-            "date": "2026-06-23",
-            "name": "Monopoly Go Bonus",
-            "game": "Monopoly Go",
-            "type": "dice",
-            "number": 25,
-            "url": "https://mply.io/9qz_XL-RdEI",
-            "views": 0,
-            "time": 1782231024
-        },
-        "6a3a8a8d0a6dc": {
-            "id": "6a3a8a8d0a6dc",
-            "date": "2026-06-23",
-            "name": "Solitaire G.H Bonus",
-            "game": "Solitaire G.H",
-            "type": "other",
-            "number": 10,
-            "url": "https://grandharvest.onelink.me/CT7t/qh31ef3x",
-            "views": 0,
-            "time": 1782221453
-        },
-        "6a3a8a89aa407": {
-            "id": "6a3a8a89aa407",
-            "date": "2026-06-23",
-            "name": "Animals and Coins Bonus",
-            "game": "Animals and Coins",
-            "type": "energy",
-            "number": 0,
-            "url": "https://coinraid.sng.link/A0ojf/nsf5?_dl=reward&_p=f58ab01a9d81dcb8a5b759855ccd65769a6ba283&_smytype=3&_force_redirect=1?ref=gamexlite.com",
-            "views": 0,
-            "time": 1782221450
-        },
-        "6a3a8a898b181": {
-            "id": "6a3a8a898b181",
-            "date": "2026-06-23",
-            "name": "Animals and Coins Bonus",
-            "game": "Animals and Coins",
-            "type": "energy",
-            "number": 0,
-            "url": "https://coinraid.sng.link/A0ojf/nsf5?_dl=reward&_p=b6a27a9fa564dec8b57306b9b03b2d5f2c74c4a5&_smytype=3&_force_redirect=1?ref=gamexlite.com",
-            "views": 0,
-            "time": 1782221449
-        },
-        "6a3a6e6954b65": {
-            "id": "6a3a6e6954b65",
-            "date": "2026-06-23",
-            "name": "Bingo Blitz Bonus",
-            "game": "Bingo Blitz",
-            "type": "other",
-            "number": 10,
-            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=b5b1bc4aecf39dc31db73c31699027c1d9c4990b522c02bbb5e6b32819a22722",
-            "views": 0,
-            "time": 1782214251
-        },
-        "6a3a6e6937961": {
-            "id": "6a3a6e6937961",
-            "date": "2026-06-23",
-            "name": "Bingo Blitz Bonus",
-            "game": "Bingo Blitz",
-            "type": "other",
-            "number": 10,
-            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=8405dada45485d08b134732d12f3ec74737552ac1942c64d81733830191558ac",
-            "views": 0,
-            "time": 1782214250
-        },
-        "6a3a6e691a960": {
-            "id": "6a3a6e691a960",
-            "date": "2026-06-23",
-            "name": "Bingo Blitz Bonus",
-            "game": "Bingo Blitz",
-            "type": "other",
-            "number": 10,
-            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=23429e2f48eb57268d2402556f312b8a14b82f7564efe61933d8e6edc1876f00",
-            "views": 0,
-            "time": 1782214249
-        },
-        "6a3a5259e9cd7": {
-            "id": "6a3a5259e9cd7",
-            "date": "2026-06-23",
-            "name": "Monopoly Go Bonus",
-            "game": "Monopoly Go",
-            "type": "dice",
-            "number": 75,
-            "url": "https://mply.io/K1p8Y9mcmcs",
-            "views": 0,
-            "time": 1782207065
-        },
-        "6a3a524f3986a": {
-            "id": "6a3a524f3986a",
-            "date": "2026-06-23",
-            "name": "Bingo Blitz Bonus",
-            "game": "Bingo Blitz",
-            "type": "other",
-            "number": 10,
-            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=82dea4d2a40575840193e5a5a2255446cfeeb9e085e27a6f039119f764364fd1",
-            "views": 0,
-            "time": 1782207056
-        },
-        "6a3a524f1cda8": {
-            "id": "6a3a524f1cda8",
-            "date": "2026-06-23",
-            "name": "Bingo Blitz Bonus",
-            "game": "Bingo Blitz",
-            "type": "other",
-            "number": 10,
-            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=73d00682b53cc4d1bc0136ef9fd26a2cda7887d9d71ff699c17926e03f8fd338",
-            "views": 0,
-            "time": 1782207055
-        },
-        "6a3a5247c6e27": {
-            "date": "2026-06-23",
-            "id": "6a3a5247c6e27",
-            "name": "Coin Tales Bonus",
-            "game": "Coin Tales",
-            "type": "other",
-            "number": 50,
-            "url": "https://cutt.ly/ut4AiHNK",
-            "views": 0,
-            "time": 1782207047
         }
     }
 }
