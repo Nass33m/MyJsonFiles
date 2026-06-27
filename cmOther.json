@@ -1,5 +1,71 @@
 {
     "links": {
+        "6a3fd079e4641": {
+            "id": "6a3fd079e4641",
+            "date": "2026-06-27",
+            "name": "Solitaire G.H Bonus",
+            "game": "Solitaire G.H",
+            "type": "other",
+            "number": 10,
+            "url": "https://grandharvest.onelink.me/CT7t/zpga3b4b",
+            "views": 0,
+            "time": 1782567033
+        },
+        "6a3fd063247a7": {
+            "id": "6a3fd063247a7",
+            "date": "2026-06-27",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/5kJ5WM5C_WA",
+            "views": 0,
+            "time": 1782567013
+        },
+        "6a3fd06301d92": {
+            "id": "6a3fd06301d92",
+            "date": "2026-06-27",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/lmMh9pri_FCB",
+            "views": 0,
+            "time": 1782567012
+        },
+        "6a3fd062cda9f": {
+            "id": "6a3fd062cda9f",
+            "date": "2026-06-27",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/szlpwz7r_TWI",
+            "views": 0,
+            "time": 1782567011
+        },
+        "6a3fd061a51a4": {
+            "id": "6a3fd061a51a4",
+            "date": "2026-06-27",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/nc24RDCh_INS",
+            "views": 0,
+            "time": 1782567010
+        },
+        "6a3fd061856e7": {
+            "id": "6a3fd061856e7",
+            "date": "2026-06-27",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/tMxaMfDD_TRADING",
+            "views": 0,
+            "time": 1782567009
+        },
         "6a3f985f570a5": {
             "id": "6a3f985f570a5",
             "date": "2026-06-27",
