@@ -1,5 +1,60 @@
 {
     "links": {
+        "6a42d14c3b8b0": {
+            "id": "6a42d14c3b8b0",
+            "date": "2026-06-29",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/rfAdP3D1zGw",
+            "views": 0,
+            "time": 1782763853
+        },
+        "6a42d14c2116b": {
+            "id": "6a42d14c2116b",
+            "date": "2026-06-29",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/HJ-J2hII00s",
+            "views": 0,
+            "time": 1782763852
+        },
+        "6a42d14448c9a": {
+            "id": "6a42d14448c9a",
+            "date": "2026-06-29",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=e74eb17949dc9169c991dd6abec33e5356015117df3acc660203074d4f33e324",
+            "views": 0,
+            "time": 1782763845
+        },
+        "6a42d14427349": {
+            "id": "6a42d14427349",
+            "date": "2026-06-29",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=88f61c6b3d1c3ab3697e016f857735680e473876a3fadc21b9e67e1d8301cbee",
+            "views": 0,
+            "time": 1782763844
+        },
+        "6a42d13fc9357": {
+            "id": "6a42d13fc9357",
+            "date": "2026-06-29",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/CC2luhs2_WA",
+            "views": 0,
+            "time": 1782763839
+        },
         "6a429911cd8a6": {
             "id": "6a429911cd8a6",
             "date": "2026-06-29",
