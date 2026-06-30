@@ -1,7 +1,7 @@
 {
     "links": {
-        "6a43c50009f72": {
-            "id": "6a43c50009f72",
+        "6a43ea8704197": {
+            "id": "6a43ea8704197",
             "date": "2026-06-30",
             "name": "Dice Dreams Bonus",
             "game": "Dice Dreams",
@@ -9,10 +9,10 @@
             "number": 50,
             "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityWhatsapp_160626mp",
             "views": 0,
-            "time": 1782826261
+            "time": 1782835868
         },
-        "6a43c4ffdde8b": {
-            "id": "6a43c4ffdde8b",
+        "6a43ea86da5ec": {
+            "id": "6a43ea86da5ec",
             "date": "2026-06-30",
             "name": "Dice Dreams Bonus",
             "game": "Dice Dreams",
@@ -20,10 +20,10 @@
             "number": 50,
             "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_160626nmp",
             "views": 0,
-            "time": 1782826260
+            "time": 1782835867
         },
-        "6a43c4ffc30f2": {
-            "id": "6a43c4ffc30f2",
+        "6a43ea86b8f1a": {
+            "id": "6a43ea86b8f1a",
             "date": "2026-06-30",
             "name": "Dice Dreams Bonus",
             "game": "Dice Dreams",
@@ -31,7 +31,216 @@
             "number": 50,
             "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_160626ppx",
             "views": 0,
-            "time": 1782826259
+            "time": 1782835866
+        },
+        "6a43ea8410f54": {
+            "id": "6a43ea8410f54",
+            "date": "2026-06-30",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_260626xzq",
+            "views": 0,
+            "time": 1782835865
+        },
+        "6a43ea8354602": {
+            "id": "6a43ea8354602",
+            "date": "2026-06-30",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_290626cxq",
+            "views": 0,
+            "time": 1782835864
+        },
+        "6a43ea98d0b9f": {
+            "id": "6a43ea98d0b9f",
+            "date": "2026-06-30",
+            "name": "Solitaire G.H Bonus",
+            "game": "Solitaire G.H",
+            "type": "other",
+            "number": 10,
+            "url": "https://grandharvest.onelink.me/CT7t/a086jhus",
+            "views": 0,
+            "time": 1782835864
+        },
+        "6a43ea83383e7": {
+            "id": "6a43ea83383e7",
+            "date": "2026-06-30",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityWhatsapp_290626",
+            "views": 0,
+            "time": 1782835863
+        },
+        "6a43ea831a67c": {
+            "id": "6a43ea831a67c",
+            "date": "2026-06-30",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_290626nxw",
+            "views": 0,
+            "time": 1782835862
+        },
+        "6a43ea80090a2": {
+            "id": "6a43ea80090a2",
+            "date": "2026-06-30",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_150626bbm",
+            "views": 0,
+            "time": 1782835861
+        },
+        "6a43ea7f7e7e9": {
+            "id": "6a43ea7f7e7e9",
+            "date": "2026-06-30",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_170626bas",
+            "views": 0,
+            "time": 1782835860
+        },
+        "6a43ea7f5e8f8": {
+            "id": "6a43ea7f5e8f8",
+            "date": "2026-06-30",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_180626baw",
+            "views": 0,
+            "time": 1782835859
+        },
+        "6a43ea7f3f59b": {
+            "id": "6a43ea7f3f59b",
+            "date": "2026-06-30",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_180626cpk",
+            "views": 0,
+            "time": 1782835858
+        },
+        "6a43ea7f1f97f": {
+            "id": "6a43ea7f1f97f",
+            "date": "2026-06-30",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityWhatsapp_190626bpl",
+            "views": 0,
+            "time": 1782835857
+        },
+        "6a43ea7ef1ed1": {
+            "id": "6a43ea7ef1ed1",
+            "date": "2026-06-30",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_190626vpl",
+            "views": 0,
+            "time": 1782835856
+        },
+        "6a43ea7ed37c8": {
+            "id": "6a43ea7ed37c8",
+            "date": "2026-06-30",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_190626bpq",
+            "views": 0,
+            "time": 1782835855
+        },
+        "6a43ea7eb3244": {
+            "id": "6a43ea7eb3244",
+            "date": "2026-06-30",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_200626bpw",
+            "views": 0,
+            "time": 1782835854
+        },
+        "6a43ea7e95485": {
+            "id": "6a43ea7e95485",
+            "date": "2026-06-30",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_200626bpa",
+            "views": 0,
+            "time": 1782835853
+        },
+        "6a43ea7e738c3": {
+            "id": "6a43ea7e738c3",
+            "date": "2026-06-30",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityWhatsapp_210626",
+            "views": 0,
+            "time": 1782835852
+        },
+        "6a43ea7e56067": {
+            "id": "6a43ea7e56067",
+            "date": "2026-06-30",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_210626bpl",
+            "views": 0,
+            "time": 1782835851
+        },
+        "6a43ea7e0fc09": {
+            "id": "6a43ea7e0fc09",
+            "date": "2026-06-30",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_210626xlo",
+            "views": 0,
+            "time": 1782835850
+        },
+        "6a43ea7dde20f": {
+            "id": "6a43ea7dde20f",
+            "date": "2026-06-30",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_220626gnx",
+            "views": 0,
+            "time": 1782835849
+        },
+        "6a43ea7dbf82e": {
+            "id": "6a43ea7dbf82e",
+            "date": "2026-06-30",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_220626bnp",
+            "views": 0,
+            "time": 1782835848
         },
         "6a43c4fd0f660": {
             "id": "6a43c4fd0f660",
@@ -44,149 +253,6 @@
             "views": 0,
             "time": 1782826258
         },
-        "6a43c4fc701a8": {
-            "id": "6a43c4fc701a8",
-            "date": "2026-06-30",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_290626cxq",
-            "views": 0,
-            "time": 1782826257
-        },
-        "6a43c4fc529a8": {
-            "id": "6a43c4fc529a8",
-            "date": "2026-06-30",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityWhatsapp_290626",
-            "views": 0,
-            "time": 1782826256
-        },
-        "6a43c4fc3557a": {
-            "id": "6a43c4fc3557a",
-            "date": "2026-06-30",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_290626nxw",
-            "views": 0,
-            "time": 1782826255
-        },
-        "6a43c4f914d46": {
-            "id": "6a43c4f914d46",
-            "date": "2026-06-30",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_150626bbm",
-            "views": 0,
-            "time": 1782826254
-        },
-        "6a43c4f882e8f": {
-            "id": "6a43c4f882e8f",
-            "date": "2026-06-30",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_170626bas",
-            "views": 0,
-            "time": 1782826253
-        },
-        "6a43c4f867c35": {
-            "id": "6a43c4f867c35",
-            "date": "2026-06-30",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_180626baw",
-            "views": 0,
-            "time": 1782826252
-        },
-        "6a43c4f849610": {
-            "id": "6a43c4f849610",
-            "date": "2026-06-30",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_180626cpk",
-            "views": 0,
-            "time": 1782826251
-        },
-        "6a43c4f82e98c": {
-            "id": "6a43c4f82e98c",
-            "date": "2026-06-30",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityWhatsapp_190626bpl",
-            "views": 0,
-            "time": 1782826250
-        },
-        "6a43c4f81188e": {
-            "id": "6a43c4f81188e",
-            "date": "2026-06-30",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_190626vpl",
-            "views": 0,
-            "time": 1782826249
-        },
-        "6a43c4f7e5599": {
-            "id": "6a43c4f7e5599",
-            "date": "2026-06-30",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_190626bpq",
-            "views": 0,
-            "time": 1782826248
-        },
-        "6a43c4f7ca87a": {
-            "id": "6a43c4f7ca87a",
-            "date": "2026-06-30",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_200626bpw",
-            "views": 0,
-            "time": 1782826247
-        },
-        "6a43c4f7aa27f": {
-            "id": "6a43c4f7aa27f",
-            "date": "2026-06-30",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_200626bpa",
-            "views": 0,
-            "time": 1782826246
-        },
-        "6a43c4f78d5ea": {
-            "id": "6a43c4f78d5ea",
-            "date": "2026-06-30",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityWhatsapp_210626",
-            "views": 0,
-            "time": 1782826245
-        },
         "6a43c504d117d": {
             "id": "6a43c504d117d",
             "date": "2026-06-30",
@@ -198,17 +264,6 @@
             "views": 0,
             "time": 1782826245
         },
-        "6a43c4f771e49": {
-            "id": "6a43c4f771e49",
-            "date": "2026-06-30",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_210626bpl",
-            "views": 0,
-            "time": 1782826244
-        },
         "6a43c504b6be8": {
             "id": "6a43c504b6be8",
             "date": "2026-06-30",
@@ -219,39 +274,6 @@
             "url": "https://launch.matchmasters.com/l/p/EHtuw2mkNPg",
             "views": 0,
             "time": 1782826244
-        },
-        "6a43c4f7518ed": {
-            "id": "6a43c4f7518ed",
-            "date": "2026-06-30",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_210626xlo",
-            "views": 0,
-            "time": 1782826243
-        },
-        "6a43c4f72cb51": {
-            "id": "6a43c4f72cb51",
-            "date": "2026-06-30",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_220626gnx",
-            "views": 0,
-            "time": 1782826242
-        },
-        "6a43c4f70c823": {
-            "id": "6a43c4f70c823",
-            "date": "2026-06-30",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_220626bnp",
-            "views": 0,
-            "time": 1782826241
         },
         "6a43c4ecc1a22": {
             "id": "6a43c4ecc1a22",
