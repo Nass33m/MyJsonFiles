@@ -1,5 +1,60 @@
 {
     "links": {
+        "6a4d5d4a283a3": {
+            "id": "6a4d5d4a283a3",
+            "date": "2026-07-07",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/2LNrIt1eju0",
+            "views": 0,
+            "time": 1783455050
+        },
+        "6a4d5d43aa7ed": {
+            "id": "6a4d5d43aa7ed",
+            "date": "2026-07-07",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_070726xzw",
+            "views": 0,
+            "time": 1783455045
+        },
+        "6a4d5d4385fbc": {
+            "id": "6a4d5d4385fbc",
+            "date": "2026-07-07",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityWhatsapp_070726bna",
+            "views": 0,
+            "time": 1783455044
+        },
+        "6a4d5d4369614": {
+            "id": "6a4d5d4369614",
+            "date": "2026-07-07",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_070726bnq",
+            "views": 0,
+            "time": 1783455043
+        },
+        "6a4d5d3c13fca": {
+            "id": "6a4d5d3c13fca",
+            "date": "2026-07-07",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/obygphed_WA",
+            "views": 0,
+            "time": 1783455036
+        },
         "6a4d24f35a523": {
             "id": "6a4d24f35a523",
             "date": "2026-07-07",
