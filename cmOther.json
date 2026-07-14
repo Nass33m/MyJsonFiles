@@ -1,5 +1,82 @@
 {
     "links": {
+        "6a561df13621e": {
+            "id": "6a561df13621e",
+            "date": "2026-07-14",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=5a02bbbc504645bc3fc1bd2561a4197123cc043491389ff59778148f0bfff692",
+            "views": 0,
+            "time": 1784028659
+        },
+        "6a561df10e1cb": {
+            "id": "6a561df10e1cb",
+            "date": "2026-07-14",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=39520b60a6dba87e27dbb5857ec7b939e902ec3efee2fd4f6180e34a64c7ce75",
+            "views": 0,
+            "time": 1784028658
+        },
+        "6a561df0e3928": {
+            "id": "6a561df0e3928",
+            "date": "2026-07-14",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=a0da5ca93ac8ac462c5733dd83a49dc698ed5f29520a9ba9a976c2030afdabd7",
+            "views": 0,
+            "time": 1784028657
+        },
+        "6a561df0bce84": {
+            "id": "6a561df0bce84",
+            "date": "2026-07-14",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=1395eab8b3cffff808407056744f8f994a0b5bb267462155ebbbe3f9374ee24a",
+            "views": 0,
+            "time": 1784028656
+        },
+        "6a561deb94aca": {
+            "id": "6a561deb94aca",
+            "date": "2026-07-14",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/j3eIgcNs_FCB",
+            "views": 0,
+            "time": 1784028653
+        },
+        "6a561deb69c73": {
+            "id": "6a561deb69c73",
+            "date": "2026-07-14",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/xR7l10lw_TWI",
+            "views": 0,
+            "time": 1784028652
+        },
+        "6a561deb483db": {
+            "id": "6a561deb483db",
+            "date": "2026-07-14",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/wGnDE6Kj_TRADING",
+            "views": 0,
+            "time": 1784028651
+        },
         "6a5601e1be4cb": {
             "id": "6a5601e1be4cb",
             "date": "2026-07-14",
