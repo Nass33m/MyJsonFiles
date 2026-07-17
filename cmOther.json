@@ -1,5 +1,93 @@
 {
     "links": {
+        "6a5a1264d4b2b": {
+            "id": "6a5a1264d4b2b",
+            "date": "2026-07-17",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=PXTRGQ97&channel=4",
+            "views": 0,
+            "time": 1784287845
+        },
+        "6a5a1264b9948": {
+            "id": "6a5a1264b9948",
+            "date": "2026-07-17",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=BK9RWJ54&channel=4",
+            "views": 0,
+            "time": 1784287844
+        },
+        "6a5a125234de1": {
+            "id": "6a5a125234de1",
+            "date": "2026-07-17",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/UYN3TJUA_WA",
+            "views": 0,
+            "time": 1784287827
+        },
+        "6a5a125211f88": {
+            "id": "6a5a125211f88",
+            "date": "2026-07-17",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/gUtJfDte_WA",
+            "views": 0,
+            "time": 1784287826
+        },
+        "6a5a1251ddbbc": {
+            "id": "6a5a1251ddbbc",
+            "date": "2026-07-17",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/F5ElZOFA_INS",
+            "views": 0,
+            "time": 1784287825
+        },
+        "6a5a124f02df3": {
+            "date": "2026-07-17",
+            "id": "6a5a124f02df3",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4y6PnzC",
+            "views": 0,
+            "time": 1784287824
+        },
+        "6a5a124ecf50e": {
+            "date": "2026-07-17",
+            "id": "6a5a124ecf50e",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4aGxDBg",
+            "views": 0,
+            "time": 1784287823
+        },
+        "6a5a124e43c23": {
+            "date": "2026-07-17",
+            "id": "6a5a124e43c23",
+            "name": "Coin Dragon Bonus",
+            "game": "Coin Dragon",
+            "type": "other",
+            "number": 20,
+            "url": "https://www.game-ease.com/reward.html?dc=qd63pg2k",
+            "views": 0,
+            "time": 1784287822
+        },
         "6a59f65daa602": {
             "id": "6a59f65daa602",
             "date": "2026-07-17",
