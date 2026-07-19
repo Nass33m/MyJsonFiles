@@ -1,5 +1,60 @@
 {
     "links": {
+        "6a5d2f63298c5": {
+            "id": "6a5d2f63298c5",
+            "date": "2026-07-19",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=4YG0ZZLP&channel=4",
+            "views": 0,
+            "time": 1784491876
+        },
+        "6a5d2f63087f6": {
+            "id": "6a5d2f63087f6",
+            "date": "2026-07-19",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=ROO7NUSK&channel=4",
+            "views": 0,
+            "time": 1784491875
+        },
+        "6a5d2f5667390": {
+            "id": "6a5d2f5667390",
+            "date": "2026-07-19",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_190726baz",
+            "views": 0,
+            "time": 1784491863
+        },
+        "6a5d2f564c0a4": {
+            "id": "6a5d2f564c0a4",
+            "date": "2026-07-19",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_190726bnm",
+            "views": 0,
+            "time": 1784491862
+        },
+        "6a5d2f4ee6aa4": {
+            "id": "6a5d2f4ee6aa4",
+            "date": "2026-07-19",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/PXVSY6KQ_WA",
+            "views": 0,
+            "time": 1784491854
+        },
         "6a5cf39a68a72": {
             "id": "6a5cf39a68a72",
             "date": "2026-07-19",
