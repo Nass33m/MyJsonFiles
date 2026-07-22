@@ -1,5 +1,27 @@
 {
     "links": {
+        "6a6123d1ca7b9": {
+            "id": "6a6123d1ca7b9",
+            "date": "2026-07-22",
+            "name": "Coin Master Board Adventure Bonus",
+            "game": "Coin Master Board Adventure",
+            "type": "energy",
+            "number": 0,
+            "url": "https://coin-master.co/4wWcQCn",
+            "views": 0,
+            "time": 1784751057
+        },
+        "6a6123ba4a44e": {
+            "id": "6a6123ba4a44e",
+            "date": "2026-07-22",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/jNNdpBHp_WA",
+            "views": 0,
+            "time": 1784751034
+        },
         "6a60eb77b654c": {
             "id": "6a60eb77b654c",
             "date": "2026-07-22",
