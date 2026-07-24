@@ -1,5 +1,27 @@
 {
     "links": {
+        "6a6369080d880": {
+            "id": "6a6369080d880",
+            "date": "2026-07-24",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 60,
+            "url": "https://mply.io/vGgceBBhiC8",
+            "views": 0,
+            "time": 1784899848
+        },
+        "6a6368fdbef04": {
+            "id": "6a6368fdbef04",
+            "date": "2026-07-24",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 25,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/ks6FVMmt_INS",
+            "views": 0,
+            "time": 1784899837
+        },
         "6a634ce05860d": {
             "id": "6a634ce05860d",
             "date": "2026-07-24",
