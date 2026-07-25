@@ -1,5 +1,60 @@
 {
     "links": {
+        "6a65183ab390a": {
+            "id": "6a65183ab390a",
+            "date": "2026-07-25",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=EAX5IJE2&channel=4",
+            "views": 0,
+            "time": 1785010234
+        },
+        "6a651835677f0": {
+            "id": "6a651835677f0",
+            "date": "2026-07-25",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/gj_eyaAZSc0",
+            "views": 0,
+            "time": 1785010229
+        },
+        "6a651832ef348": {
+            "id": "6a651832ef348",
+            "date": "2026-07-25",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_250726baz",
+            "views": 0,
+            "time": 1785010226
+        },
+        "6a651830656fe": {
+            "id": "6a651830656fe",
+            "date": "2026-07-25",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=89f5b20ce694290629e19979d402d6c75a78acf0763923516104dfbbf0f12468",
+            "views": 0,
+            "time": 1785010224
+        },
+        "6a65182e06bf0": {
+            "id": "6a65182e06bf0",
+            "date": "2026-07-25",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/QMxJsq2N_WA",
+            "views": 0,
+            "time": 1785010222
+        },
         "6a64ba7a9b129": {
             "id": "6a64ba7a9b129",
             "date": "2026-07-25",
