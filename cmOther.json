@@ -1,5 +1,49 @@
 {
     "links": {
+        "6a6669d6682d0": {
+            "id": "6a6669d6682d0",
+            "date": "2026-07-26",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/K7vyeOOq2IE",
+            "views": 0,
+            "time": 1785096662
+        },
+        "6a6669d3e19bb": {
+            "id": "6a6669d3e19bb",
+            "date": "2026-07-26",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityStory_260726stc",
+            "views": 0,
+            "time": 1785096659
+        },
+        "6a6669d1714a1": {
+            "id": "6a6669d1714a1",
+            "date": "2026-07-26",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=01a1f62eabf4b1212ac67d72f69f4df3190034414ad80634b877a62410eb42da",
+            "views": 0,
+            "time": 1785096657
+        },
+        "6a6669cf04a45": {
+            "id": "6a6669cf04a45",
+            "date": "2026-07-26",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/BdknW52r_TWI",
+            "views": 0,
+            "time": 1785096655
+        },
         "6a660c217bdb1": {
             "id": "6a660c217bdb1",
             "date": "2026-07-26",
