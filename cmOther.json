@@ -1,5 +1,27 @@
 {
     "links": {
+        "6a674168ee83d": {
+            "id": "6a674168ee83d",
+            "date": "2026-07-27",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityBroadcast_260726bnm",
+            "views": 0,
+            "time": 1785151848
+        },
+        "6a674163979cf": {
+            "id": "6a674163979cf",
+            "date": "2026-07-27",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/JqXDzx5O_TWI",
+            "views": 0,
+            "time": 1785151843
+        },
         "6a67255b4fbfe": {
             "id": "6a67255b4fbfe",
             "date": "2026-07-27",
