@@ -1,5 +1,38 @@
 {
     "links": {
+        "6a6e1a8dcb33b": {
+            "id": "6a6e1a8dcb33b",
+            "date": "2026-08-01",
+            "name": "Solitaire G.H Bonus",
+            "game": "Solitaire G.H",
+            "type": "other",
+            "number": 10,
+            "url": "https://grandharvest.onelink.me/CT7t/fxxtq64n",
+            "views": 0,
+            "time": 1785600653
+        },
+        "6a6e1a7cc1ea0": {
+            "id": "6a6e1a7cc1ea0",
+            "date": "2026-08-01",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=d55089805ad5557e8e7da09f3141221a68988a99fea4ff110a2d81e1f315c063",
+            "views": 0,
+            "time": 1785600636
+        },
+        "6a6e1a7a60f00": {
+            "id": "6a6e1a7a60f00",
+            "date": "2026-08-01",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/A2m8nseG_TRADING",
+            "views": 0,
+            "time": 1785600634
+        },
         "6a6df50ff19f9": {
             "id": "6a6df50ff19f9",
             "date": "2026-08-01",
