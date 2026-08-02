@@ -1,5 +1,27 @@
 {
     "links": {
+        "6a6f2a50aedf9": {
+            "id": "6a6f2a50aedf9",
+            "date": "2026-08-02",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/FfxfWfOV_WA",
+            "views": 0,
+            "time": 1785670224
+        },
+        "6a6f2a4ddb818": {
+            "date": "2026-08-02",
+            "id": "6a6f2a4ddb818",
+            "name": "Coin Dragon Bonus",
+            "game": "Coin Dragon",
+            "type": "coins",
+            "number": 20,
+            "url": "https://www.game-ease.com/reward.html?dc=1py9assz",
+            "views": 0,
+            "time": 1785670221
+        },
         "6a6f0e490a116": {
             "id": "6a6f0e490a116",
             "date": "2026-08-02",
