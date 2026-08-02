@@ -1,5 +1,27 @@
 {
     "links": {
+        "6a6f0e490a116": {
+            "id": "6a6f0e490a116",
+            "date": "2026-08-02",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/56A5TXuH_TRADING",
+            "views": 0,
+            "time": 1785663049
+        },
+        "6a6f0e464a3ef": {
+            "date": "2026-08-02",
+            "id": "6a6f0e464a3ef",
+            "name": "Coin Tales Bonus",
+            "game": "Coin Tales",
+            "type": "other",
+            "number": 50,
+            "url": "https://cutt.ly/dyiIUelJ",
+            "views": 0,
+            "time": 1785663046
+        },
         "6a6e52b28ef22": {
             "id": "6a6e52b28ef22",
             "date": "2026-08-01",
@@ -197,171 +219,6 @@
             "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/lB44J6Ah_TWI",
             "views": 0,
             "time": 1785497410
-        },
-        "6a6bafc7b4e1e": {
-            "id": "6a6bafc7b4e1e",
-            "date": "2026-07-30",
-            "name": "Piggy Go Bonus",
-            "game": "Piggy Go",
-            "type": "dice",
-            "number": 10,
-            "url": "https://piggygo-jy.forevernine.com/fanpage?code=HK96P7FX&channel=4",
-            "views": 0,
-            "time": 1785442247
-        },
-        "6a6bafc2478ce": {
-            "id": "6a6bafc2478ce",
-            "date": "2026-07-30",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/H330DmH8NUU",
-            "views": 0,
-            "time": 1785442242
-        },
-        "6a6bafbfc145f": {
-            "id": "6a6bafbfc145f",
-            "date": "2026-07-30",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_300726cxa",
-            "views": 0,
-            "time": 1785442239
-        },
-        "6a6b778a351d6": {
-            "id": "6a6b778a351d6",
-            "date": "2026-07-30",
-            "name": "Solitaire G.H Bonus",
-            "game": "Solitaire G.H",
-            "type": "other",
-            "number": 10,
-            "url": "https://grandharvest.onelink.me/CT7t/7k6ko6yr",
-            "views": 0,
-            "time": 1785427850
-        },
-        "6a6b7782425c8": {
-            "id": "6a6b7782425c8",
-            "date": "2026-07-30",
-            "name": "Monopoly Go Bonus",
-            "game": "Monopoly Go",
-            "type": "dice",
-            "number": 25,
-            "url": "https://mply.io/DQ6VFy217xE",
-            "views": 0,
-            "time": 1785427842
-        },
-        "6a6b5218e4902": {
-            "id": "6a6b5218e4902",
-            "date": "2026-07-30",
-            "name": "Solitaire G.H Bonus",
-            "game": "Solitaire G.H",
-            "type": "other",
-            "number": 10,
-            "url": "https://grandharvest.onelink.me/CT7t/yh77oprj",
-            "views": 0,
-            "time": 1785418264
-        },
-        "6a6b521623548": {
-            "id": "6a6b521623548",
-            "date": "2026-07-30",
-            "name": "Animals and Coins Bonus",
-            "game": "Animals and Coins",
-            "type": "energy",
-            "number": 0,
-            "url": "https://coinraid.sng.link/A0ojf/nsf5?_dl=reward&_p=90a193a79bdb41ef7687426470c352b9af8767d8&_smytype=3&_force_redirect=1?ref=gamexlite.com",
-            "views": 0,
-            "time": 1785418262
-        },
-        "6a6b5213093e3": {
-            "id": "6a6b5213093e3",
-            "date": "2026-07-30",
-            "name": "Piggy Go Bonus",
-            "game": "Piggy Go",
-            "type": "dice",
-            "number": 10,
-            "url": "https://piggygo-jy.forevernine.com/fanpage?code=KIEKL5VG&channel=4",
-            "views": 0,
-            "time": 1785418259
-        },
-        "6a6b5206067af": {
-            "id": "6a6b5206067af",
-            "date": "2026-07-30",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 15,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/1iQiSi2g_INS",
-            "views": 0,
-            "time": 1785418246
-        },
-        "6a6b35e85abe8": {
-            "id": "6a6b35e85abe8",
-            "date": "2026-07-30",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityGroup_290726bnm",
-            "views": 0,
-            "time": 1785411048
-        },
-        "6a6b35e0a192d": {
-            "date": "2026-07-30",
-            "id": "6a6b35e0a192d",
-            "name": "Coin Dragon Bonus",
-            "game": "Coin Dragon",
-            "type": "coins",
-            "number": 20,
-            "url": "https://www.game-ease.com/reward.html?dc=ba994m3y",
-            "views": 0,
-            "time": 1785411040
-        },
-        "6a6b19d26c6a2": {
-            "id": "6a6b19d26c6a2",
-            "date": "2026-07-30",
-            "name": "Animals and Coins Bonus",
-            "game": "Animals and Coins",
-            "type": "energy",
-            "number": 0,
-            "url": "https://coinraid.sng.link/A0ojf/nsf5?_dl=reward&_p=c60e6928d01215a197f58da112a375924bbdc83d&_smytype=3&_force_redirect=1&_force_redirect=1?ref=gamexlite.com",
-            "views": 0,
-            "time": 1785403858
-        },
-        "6a6b19cd2b620": {
-            "id": "6a6b19cd2b620",
-            "date": "2026-07-30",
-            "name": "Monopoly Go Bonus",
-            "game": "Monopoly Go",
-            "type": "dice",
-            "number": 25,
-            "url": "https://mply.io/Ai2qNgnabXc",
-            "views": 0,
-            "time": 1785403853
-        },
-        "6a6b19c21f81e": {
-            "id": "6a6b19c21f81e",
-            "date": "2026-07-30",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 10,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/RKqssf3h_TWI",
-            "views": 0,
-            "time": 1785403842
-        },
-        "6a6b19bf981a1": {
-            "date": "2026-07-30",
-            "id": "6a6b19bf981a1",
-            "name": "Coin Tales Bonus",
-            "game": "Coin Tales",
-            "type": "other",
-            "number": 50,
-            "url": "https://cutt.ly/qyuzDx0v",
-            "views": 0,
-            "time": 1785403839
         }
     }
 }
