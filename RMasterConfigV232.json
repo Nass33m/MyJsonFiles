@@ -6,7 +6,7 @@
   "admobAppOpen": "ca-app-pub-3676542281302128/4260072227",
   "appOpenAds": true,
   "warmAppOpenInterval": 1,
-  "appOpenBackgroundThreshold": 30,
+  "appOpenBackgroundThreshold": 60,
   "interInterval": 2,
   "interTimeDelay": 30,
   "bannerAds": false,
