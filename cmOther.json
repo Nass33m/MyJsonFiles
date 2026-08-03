@@ -1,5 +1,38 @@
 {
     "links": {
+        "6a70f5c901cb4": {
+            "id": "6a70f5c901cb4",
+            "date": "2026-08-03",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/ouXnd6b8xXo",
+            "views": 0,
+            "time": 1785787849
+        },
+        "6a70f5c654d6e": {
+            "id": "6a70f5c654d6e",
+            "date": "2026-08-03",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_030826bnm",
+            "views": 0,
+            "time": 1785787846
+        },
+        "6a70f5bf3169c": {
+            "id": "6a70f5bf3169c",
+            "date": "2026-08-03",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/qh1oR2D9_TRADING",
+            "views": 0,
+            "time": 1785787839
+        },
         "6a70bd8636fc4": {
             "id": "6a70bd8636fc4",
             "date": "2026-08-03",
