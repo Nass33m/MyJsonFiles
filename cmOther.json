@@ -1,5 +1,60 @@
 {
     "links": {
+        "6a74ea57b7a21": {
+            "id": "6a74ea57b7a21",
+            "date": "2026-08-06",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=RC64SCP2&channel=4",
+            "views": 0,
+            "time": 1786047063
+        },
+        "6a74ea554a23c": {
+            "id": "6a74ea554a23c",
+            "date": "2026-08-06",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/4IT3nJxsYbI",
+            "views": 0,
+            "time": 1786047061
+        },
+        "6a74ea52cbcd9": {
+            "id": "6a74ea52cbcd9",
+            "date": "2026-08-06",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/JNvausRc-zU",
+            "views": 0,
+            "time": 1786047058
+        },
+        "6a74ea50613e1": {
+            "id": "6a74ea50613e1",
+            "date": "2026-08-06",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_060826cxz",
+            "views": 0,
+            "time": 1786047056
+        },
+        "6a74ea4b4e625": {
+            "id": "6a74ea4b4e625",
+            "date": "2026-08-06",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/MUs8TelL_TWI",
+            "views": 0,
+            "time": 1786047051
+        },
         "6a74b21a32d6c": {
             "id": "6a74b21a32d6c",
             "date": "2026-08-06",
