@@ -1,5 +1,27 @@
 {
     "links": {
+        "6a748c782f5e3": {
+            "id": "6a748c782f5e3",
+            "date": "2026-08-06",
+            "name": "Solitaire G.H Bonus",
+            "game": "Solitaire G.H",
+            "type": "other",
+            "number": 10,
+            "url": "https://grandharvest.onelink.me/CT7t/s8hjw4gb",
+            "views": 0,
+            "time": 1786023032
+        },
+        "6a748c6660cc4": {
+            "id": "6a748c6660cc4",
+            "date": "2026-08-06",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/HxsNPGfk_INS",
+            "views": 0,
+            "time": 1786023014
+        },
         "6a7470706e4b3": {
             "id": "6a7470706e4b3",
             "date": "2026-08-06",
