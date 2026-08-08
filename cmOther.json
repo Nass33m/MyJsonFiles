@@ -1,5 +1,27 @@
 {
     "links": {
+        "6a7754e48fe01": {
+            "id": "6a7754e48fe01",
+            "date": "2026-08-08",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=83b36106746a2f3da039901184b008bced8ec6eacd6da87d7f7e8bdcd21aaabc",
+            "views": 0,
+            "time": 1786205412
+        },
+        "6a7754e232ef6": {
+            "id": "6a7754e232ef6",
+            "date": "2026-08-08",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/Tb2H4pdl_WA",
+            "views": 0,
+            "time": 1786205410
+        },
         "6a772f8a181dd": {
             "id": "6a772f8a181dd",
             "date": "2026-08-08",
