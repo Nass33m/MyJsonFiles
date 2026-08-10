@@ -1,5 +1,38 @@
 {
     "links": {
+        "6a79f8031d511": {
+            "id": "6a79f8031d511",
+            "date": "2026-08-10",
+            "name": "Solitaire G.H Bonus",
+            "game": "Solitaire G.H",
+            "type": "other",
+            "number": 10,
+            "url": "https://grandharvest.onelink.me/CT7t/zmuovs7n",
+            "views": 0,
+            "time": 1786378243
+        },
+        "6a79f7fb2f6e3": {
+            "id": "6a79f7fb2f6e3",
+            "date": "2026-08-10",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 75,
+            "url": "https://mply.io/wKOsqkmFF-4",
+            "views": 0,
+            "time": 1786378235
+        },
+        "6a79f7eff03cb": {
+            "id": "6a79f7eff03cb",
+            "date": "2026-08-10",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/rx4iQYlj_WA",
+            "views": 0,
+            "time": 1786378223
+        },
         "6a799a3b41b3b": {
             "id": "6a799a3b41b3b",
             "date": "2026-08-10",
