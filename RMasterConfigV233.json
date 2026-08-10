@@ -19,7 +19,7 @@
   "isMarketAvailable": true,
   "isCfoxAvailable": true,
   "isOtherAvailable": false,
-  "mixCFandOther": true,
+  "mixCFandOther": false,
   "loadingDelay": 1.1,
   "paywallInterval": 5,
   "autoPaywall": true,
