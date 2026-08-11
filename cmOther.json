@@ -1,5 +1,27 @@
 {
     "links": {
+        "6a7b07c7da526": {
+            "id": "6a7b07c7da526",
+            "date": "2026-08-11",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=c5e5f5dbdcbd6730af8925580d7feeaa3c89c93ac6cc46d406914d6e86acb0f3",
+            "views": 0,
+            "time": 1786447815
+        },
+        "6a7b07c2ac0f1": {
+            "date": "2026-08-11",
+            "id": "6a7b07c2ac0f1",
+            "name": "Coin Dragon Bonus",
+            "game": "Coin Dragon",
+            "type": "coins",
+            "number": 20,
+            "url": "https://www.game-ease.com/reward.html?dc=rqd1y5b5",
+            "views": 0,
+            "time": 1786447810
+        },
         "6a7aebcfc8283": {
             "id": "6a7aebcfc8283",
             "date": "2026-08-11",
