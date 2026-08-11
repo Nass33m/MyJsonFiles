@@ -1,5 +1,38 @@
 {
     "links": {
+        "6a7b23fe5aee8": {
+            "id": "6a7b23fe5aee8",
+            "date": "2026-08-11",
+            "name": "Solitaire G.H Bonus",
+            "game": "Solitaire G.H",
+            "type": "other",
+            "number": 10,
+            "url": "https://grandharvest.onelink.me/CT7t/pqvyywv8",
+            "views": 0,
+            "time": 1786455038
+        },
+        "6a7b23f308ccb": {
+            "id": "6a7b23f308ccb",
+            "date": "2026-08-11",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/u2OFu4_2o7I",
+            "views": 0,
+            "time": 1786455027
+        },
+        "6a7b23eb99ec3": {
+            "id": "6a7b23eb99ec3",
+            "date": "2026-08-11",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/oRs3SxBS_WA",
+            "views": 0,
+            "time": 1786455019
+        },
         "6a7b07c7da526": {
             "id": "6a7b07c7da526",
             "date": "2026-08-11",
