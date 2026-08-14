@@ -1,5 +1,16 @@
 {
     "links": {
+        "6a7e6c552360a": {
+            "date": "2026-08-14",
+            "id": "6a7e6c552360a",
+            "name": "50 Spins",
+            "game": "Coin Master",
+            "type": "spins",
+            "number": 50,
+            "url": "https:\/\/rewards.coinmaster.com\/rewards\/rewards.html?c=pe_HELPJjfIJe_20260814",
+            "views": 0,
+            "time": 1786670165
+        },
         "sd0ge5sd345rts60r9": {
             "date": "2026-08-13",
             "id": "sd0ge5sd345rts60r9",
@@ -296,50 +307,6 @@
             "url": "https:\/\/rewards.coinmaster.com\/rewards\/rewards.html?c=pe_FCBnEKKdN_20260810",
             "views": 0,
             "time": 1786351249
-        },
-        "6a7985122ba4b": {
-            "date": "2026-08-10",
-            "id": "6a7985122ba4b",
-            "name": "50 Spins",
-            "game": "Coin Master",
-            "type": "spins",
-            "number": 50,
-            "url": "https:\/\/rewards.coinmaster.com\/rewards\/rewards.html?c=pe_INSBTNnpF_20260810",
-            "views": 0,
-            "time": 1786348818
-        },
-        "6a797baea59ad": {
-            "date": "2026-08-10",
-            "id": "6a797baea59ad",
-            "name": "50 Spins",
-            "game": "Coin Master",
-            "type": "spins",
-            "number": 50,
-            "url": "https:\/\/rewards.coinmaster.com\/rewards\/rewards.html?c=pe_TWILZZmly_20260810",
-            "views": 0,
-            "time": 1786346415
-        },
-        "6a7922c50e88d": {
-            "date": "2026-08-10",
-            "id": "6a7922c50e88d",
-            "name": "50 Spins",
-            "game": "Coin Master",
-            "type": "spins",
-            "number": 50,
-            "url": "https:\/\/rewards.coinmaster.com\/rewards\/rewards.html?c=pe_FCBWuAdBo_20260809",
-            "views": 0,
-            "time": 1786323653
-        },
-        "6a791df75a4fa": {
-            "date": "2026-08-10",
-            "id": "6a791df75a4fa",
-            "name": "50 Spins",
-            "game": "Coin Master",
-            "type": "spins",
-            "number": 50,
-            "url": "https:\/\/rewards.coinmaster.com\/rewards\/rewards.html?c=pe_HELPXbCeTE_20260810",
-            "views": 0,
-            "time": 1786322423
         }
     }
 }
