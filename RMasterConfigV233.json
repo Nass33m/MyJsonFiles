@@ -14,7 +14,7 @@
   "showNativeInListings": false,
   "linesBeforeNative": 8,
   "delayToShowTradeInter": 30,
-  "intervalTradeInter": 2,
+  "intervalTradeInter": 3,
   "isCommunityAvailable": true,
   "isMarketAvailable": true,
   "isCfoxAvailable": false,
