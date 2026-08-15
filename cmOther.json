@@ -1,5 +1,49 @@
 {
     "links": {
+        "6a808f7fe9a32": {
+            "id": "6a808f7fe9a32",
+            "date": "2026-08-15",
+            "name": "Solitaire G.H Bonus",
+            "game": "Solitaire G.H",
+            "type": "other",
+            "number": 10,
+            "url": "https://grandharvest.onelink.me/CT7t/p90p1r7x",
+            "views": 0,
+            "time": 1786810239
+        },
+        "6a808f7a891f4": {
+            "id": "6a808f7a891f4",
+            "date": "2026-08-15",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=PLNDP5UN&channel=4",
+            "views": 0,
+            "time": 1786810234
+        },
+        "6a808f75aff82": {
+            "id": "6a808f75aff82",
+            "date": "2026-08-15",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/Qs5rqvRknhU",
+            "views": 0,
+            "time": 1786810229
+        },
+        "6a808f6e71322": {
+            "id": "6a808f6e71322",
+            "date": "2026-08-15",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/jPiAMMs2_WA",
+            "views": 0,
+            "time": 1786810222
+        },
         "6a806262d4531": {
             "id": "6a806262d4531",
             "date": "2026-08-15",
