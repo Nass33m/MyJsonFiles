@@ -1,5 +1,82 @@
 {
     "links": {
+        "6a8593d37f36e": {
+            "id": "6a8593d37f36e",
+            "date": "2026-08-19",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=c5eb6d12b115a74404d76dda6302293edaa416d0b4cf638b7f270a105a4201b3",
+            "views": 0,
+            "time": 1787139027
+        },
+        "6a8593d136a8e": {
+            "id": "6a8593d136a8e",
+            "date": "2026-08-19",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/5hTy26eL_INS",
+            "views": 0,
+            "time": 1787139025
+        },
+        "6a858127f1f1a5.35248981": {
+            "id": "6a858127f1f1a5.35248981",
+            "date": "2026-08-19",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/3TWtweE",
+            "views": 0,
+            "time": 1787134250
+        },
+        "6a858127979456.17941952": {
+            "id": "6a858127979456.17941952",
+            "date": "2026-08-19",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4fSHcih",
+            "views": 0,
+            "time": 1787134249
+        },
+        "6a858127524f96.10394729": {
+            "id": "6a858127524f96.10394729",
+            "date": "2026-08-19",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4gbM8jv",
+            "views": 0,
+            "time": 1787134248
+        },
+        "6a858127055c43.84410530": {
+            "id": "6a858127055c43.84410530",
+            "date": "2026-08-19",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4bzPREW",
+            "views": 0,
+            "time": 1787134247
+        },
+        "6a858126b18d98.00703629": {
+            "id": "6a858126b18d98.00703629",
+            "date": "2026-08-19",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/45b6EKR",
+            "views": 0,
+            "time": 1787134246
+        },
         "6a8577ab4d8ec": {
             "id": "6a8577ab4d8ec",
             "date": "2026-08-19",
