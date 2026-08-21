@@ -1,5 +1,38 @@
 {
     "links": {
+        "6a8836c38b2fb": {
+            "id": "6a8836c38b2fb",
+            "date": "2026-08-21",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/EJ3rxNvQ_WA",
+            "views": 0,
+            "time": 1787311811
+        },
+        "6a8824014d4ed4.05148183": {
+            "id": "6a8824014d4ed4.05148183",
+            "date": "2026-08-21",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4ggFKHC",
+            "views": 0,
+            "time": 1787307010
+        },
+        "6a8824010a4cd6.65888527": {
+            "id": "6a8824010a4cd6.65888527",
+            "date": "2026-08-21",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4wDduos",
+            "views": 0,
+            "time": 1787307009
+        },
         "6a881ab4a1665": {
             "id": "6a881ab4a1665",
             "date": "2026-08-21",
