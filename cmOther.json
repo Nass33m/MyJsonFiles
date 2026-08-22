@@ -1,5 +1,38 @@
 {
     "links": {
+        "6a8a0239e23c5": {
+            "id": "6a8a0239e23c5",
+            "date": "2026-08-22",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=AJJC1EOB&channel=4",
+            "views": 0,
+            "time": 1787429433
+        },
+        "6a8a0234b0b13": {
+            "id": "6a8a0234b0b13",
+            "date": "2026-08-22",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/8lrGNEpWYWA",
+            "views": 0,
+            "time": 1787429428
+        },
+        "6a8a023242162": {
+            "id": "6a8a023242162",
+            "date": "2026-08-22",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_220826cca",
+            "views": 0,
+            "time": 1787429426
+        },
         "6a89ca0d3aa39": {
             "id": "6a89ca0d3aa39",
             "date": "2026-08-22",
