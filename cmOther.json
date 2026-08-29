@@ -1,5 +1,38 @@
 {
     "links": {
+        "6a92def4d9981": {
+            "id": "6a92def4d9981",
+            "date": "2026-08-29",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=6QG3VAW7&channel=4",
+            "views": 0,
+            "time": 1788010228
+        },
+        "6a92deefc2e1b": {
+            "id": "6a92deefc2e1b",
+            "date": "2026-08-29",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/16i-cOQI5aY",
+            "views": 0,
+            "time": 1788010223
+        },
+        "6a92dee88b4eb": {
+            "id": "6a92dee88b4eb",
+            "date": "2026-08-29",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/FvcHeFGQ_WA",
+            "views": 0,
+            "time": 1788010216
+        },
         "6a92b029495008.75564625": {
             "id": "6a92b029495008.75564625",
             "date": "2026-08-29",
