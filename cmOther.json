@@ -1,5 +1,38 @@
 {
     "links": {
+        "6a98253ab5149": {
+            "id": "6a98253ab5149",
+            "date": "2026-09-02",
+            "name": "CM Board Adventure Bonus",
+            "game": "CM Board Adventure",
+            "type": "energy",
+            "number": 0,
+            "url": "https://cmboard.co/aAuDMo",
+            "views": 0,
+            "time": 1788355898
+        },
+        "6a9824efc0536": {
+            "id": "6a9824efc0536",
+            "date": "2026-09-02",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/mW3fYcOofHE",
+            "views": 0,
+            "time": 1788355823
+        },
+        "6a9824e7d1c5b": {
+            "id": "6a9824e7d1c5b",
+            "date": "2026-09-02",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/VSrJBR8n_WA",
+            "views": 0,
+            "time": 1788355815
+        },
         "6a9808e95072d": {
             "id": "6a9808e95072d",
             "date": "2026-09-02",
