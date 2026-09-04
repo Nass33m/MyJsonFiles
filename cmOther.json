@@ -1,5 +1,27 @@
 {
     "links": {
+        "6a9aedaba0353": {
+            "id": "6a9aedaba0353",
+            "date": "2026-09-04",
+            "name": "CM Board Adventure Bonus",
+            "game": "CM Board Adventure",
+            "type": "energy",
+            "number": 0,
+            "url": "https://cmboard.co/afZczc",
+            "views": 0,
+            "time": 1788538283
+        },
+        "6a9aed66b9ad1": {
+            "id": "6a9aed66b9ad1",
+            "date": "2026-09-04",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=61eaa0269e7707fb6f7a7061805bad94b60a407eb67a004e994b949dc17f1781",
+            "views": 0,
+            "time": 1788538214
+        },
         "6a9ac82748943": {
             "id": "6a9ac82748943",
             "date": "2026-09-04",
