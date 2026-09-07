@@ -1,5 +1,49 @@
 {
     "links": {
+        "6a9f1a3c8a53f": {
+            "id": "6a9f1a3c8a53f",
+            "date": "2026-09-07",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/9Mp_nQMDAOw",
+            "views": 0,
+            "time": 1788811836
+        },
+        "6a9f1a3a05791": {
+            "id": "6a9f1a3a05791",
+            "date": "2026-09-07",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/2b-j3iukYqs",
+            "views": 0,
+            "time": 1788811834
+        },
+        "6a9f1a3785fef": {
+            "id": "6a9f1a3785fef",
+            "date": "2026-09-07",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityWhatsapp_070926",
+            "views": 0,
+            "time": 1788811831
+        },
+        "6a9f1a3268985": {
+            "id": "6a9f1a3268985",
+            "date": "2026-09-07",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/uf4wt05x_TRADING",
+            "views": 0,
+            "time": 1788811826
+        },
         "6a9ee235cfac1": {
             "id": "6a9ee235cfac1",
             "date": "2026-09-07",
