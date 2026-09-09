@@ -1,5 +1,60 @@
 {
     "links": {
+        "6aa1bd4e518ad": {
+            "id": "6aa1bd4e518ad",
+            "date": "2026-09-09",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=R01OVJNM&channel=4",
+            "views": 0,
+            "time": 1788984654
+        },
+        "6aa1bd4bb69f4": {
+            "id": "6aa1bd4bb69f4",
+            "date": "2026-09-09",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/qc8VLtHNnYA",
+            "views": 0,
+            "time": 1788984651
+        },
+        "6aa1bd492b975": {
+            "id": "6aa1bd492b975",
+            "date": "2026-09-09",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/CF8wU0ZWBts",
+            "views": 0,
+            "time": 1788984649
+        },
+        "6aa1bd469601a": {
+            "id": "6aa1bd469601a",
+            "date": "2026-09-09",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_090926bpp",
+            "views": 0,
+            "time": 1788984646
+        },
+        "6aa1bd419788e": {
+            "id": "6aa1bd419788e",
+            "date": "2026-09-09",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/v3l8Mutr_WA",
+            "views": 0,
+            "time": 1788984641
+        },
         "6aa15fb0ae755": {
             "id": "6aa15fb0ae755",
             "date": "2026-09-09",
