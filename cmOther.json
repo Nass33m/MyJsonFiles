@@ -1,5 +1,27 @@
 {
     "links": {
+        "6aa7f6dfd11b6": {
+            "id": "6aa7f6dfd11b6",
+            "date": "2026-09-14",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/sGdmmU1w_WA",
+            "views": 0,
+            "time": 1789392607
+        },
+        "6aa7f6dcbd46e": {
+            "date": "2026-09-14",
+            "id": "6aa7f6dcbd46e",
+            "name": "Coin Tales Bonus",
+            "game": "Coin Tales",
+            "type": "other",
+            "number": 50,
+            "url": "https://cutt.ly/Syz8dcTx",
+            "views": 0,
+            "time": 1789392604
+        },
         "6aa7dae184fa4": {
             "id": "6aa7dae184fa4",
             "date": "2026-09-14",
