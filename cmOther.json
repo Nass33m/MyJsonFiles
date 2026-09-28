@@ -1,5 +1,16 @@
 {
     "links": {
+        "6aba6c0b30fa2": {
+            "id": "6aba6c0b30fa2",
+            "date": "2026-09-28",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/BVfOgD5D_INS",
+            "views": 0,
+            "time": 1790602251
+        },
         "6aba4fef6757e": {
             "id": "6aba4fef6757e",
             "date": "2026-09-28",
