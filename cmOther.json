@@ -1,5 +1,49 @@
 {
     "links": {
+        "6ac4f804e6263": {
+            "id": "6ac4f804e6263",
+            "date": "2026-10-06",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=WU18QAGO&channel=1",
+            "views": 0,
+            "time": 1791293444
+        },
+        "6ac4f7fda5e44": {
+            "id": "6ac4f7fda5e44",
+            "date": "2026-10-06",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/BmggX8pMn9U",
+            "views": 0,
+            "time": 1791293437
+        },
+        "6ac4f7f8b0dbe": {
+            "id": "6ac4f7f8b0dbe",
+            "date": "2026-10-06",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=959290f59aa9cdb1681bf225f658694e19d49388af4fcc8d3b68a156a6475837",
+            "views": 0,
+            "time": 1791293432
+        },
+        "6ac4f7f6585b7": {
+            "id": "6ac4f7f6585b7",
+            "date": "2026-10-06",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/EctXT3PP_TWI",
+            "views": 0,
+            "time": 1791293430
+        },
         "6ac4dbdca4579": {
             "id": "6ac4dbdca4579",
             "date": "2026-10-06",
