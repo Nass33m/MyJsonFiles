@@ -1,5 +1,49 @@
 {
     "links": {
+        "6ad20ae993a2a": {
+            "id": "6ad20ae993a2a",
+            "date": "2026-10-16",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=43KZ45A6&channel=1",
+            "views": 0,
+            "time": 1792150249
+        },
+        "6ad20ae38a9b5": {
+            "id": "6ad20ae38a9b5",
+            "date": "2026-10-16",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/lvh13EZyP-g",
+            "views": 0,
+            "time": 1792150243
+        },
+        "6ad20ada6b2bf": {
+            "id": "6ad20ada6b2bf",
+            "date": "2026-10-16",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/4tpW3MmV_TRADING",
+            "views": 0,
+            "time": 1792150234
+        },
+        "6ad1f821ad2b10.45919958": {
+            "id": "6ad1f821ad2b10.45919958",
+            "date": "2026-10-16",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4rzuwSI",
+            "views": 0,
+            "time": 1792145441
+        },
         "6ad1eee6e755d": {
             "id": "6ad1eee6e755d",
             "date": "2026-10-16",
