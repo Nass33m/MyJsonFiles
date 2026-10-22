@@ -1,5 +1,60 @@
 {
     "links": {
+        "6ada6dd2c1806": {
+            "id": "6ada6dd2c1806",
+            "date": "2026-10-22",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=W7O17PTM&channel=4",
+            "views": 0,
+            "time": 1792699858
+        },
+        "6ada6dcf7021d": {
+            "id": "6ada6dcf7021d",
+            "date": "2026-10-22",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/-HO6Sx0HhbY",
+            "views": 0,
+            "time": 1792699855
+        },
+        "6ada6dcc86e7e": {
+            "id": "6ada6dcc86e7e",
+            "date": "2026-10-22",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/yBbD20pO9p0",
+            "views": 0,
+            "time": 1792699852
+        },
+        "6ada6dc97de6b": {
+            "id": "6ada6dc97de6b",
+            "date": "2026-10-22",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_221026czt",
+            "views": 0,
+            "time": 1792699849
+        },
+        "6ada6dc38ad14": {
+            "id": "6ada6dc38ad14",
+            "date": "2026-10-22",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/DpHRRdi6_WA",
+            "views": 0,
+            "time": 1792699843
+        },
         "6ada35828695a": {
             "id": "6ada35828695a",
             "date": "2026-10-22",
