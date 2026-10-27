@@ -1,5 +1,38 @@
 {
     "links": {
+        "6ae0a7909de71": {
+            "id": "6ae0a7909de71",
+            "date": "2026-10-27",
+            "name": "CM Board Adventure Bonus",
+            "game": "CM Board Adventure",
+            "type": "energy",
+            "number": 0,
+            "url": "https://d10xl.com/boardadventure/ZBh2jAJBE2610",
+            "views": 0,
+            "time": 1793107856
+        },
+        "6ae0a77d84085": {
+            "id": "6ae0a77d84085",
+            "date": "2026-10-27",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=3ca260741abf60a4c8ad9bcc9651a6ac02e73a4b5926a5fd75eca6cdbe3765b3",
+            "views": 0,
+            "time": 1793107837
+        },
+        "6ae0a77a8906a": {
+            "id": "6ae0a77a8906a",
+            "date": "2026-10-27",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 10,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/Q5lQhYN6_TWI",
+            "views": 0,
+            "time": 1793107834
+        },
         "6ae08b789a0de": {
             "id": "6ae08b789a0de",
             "date": "2026-10-27",
