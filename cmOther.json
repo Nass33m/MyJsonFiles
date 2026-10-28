@@ -1,5 +1,38 @@
 {
     "links": {
+        "6ae1f8fee5846": {
+            "id": "6ae1f8fee5846",
+            "date": "2026-10-28",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/1wg_JMNXE2g",
+            "views": 0,
+            "time": 1793194238
+        },
+        "6ae1f8f96519e": {
+            "id": "6ae1f8f96519e",
+            "date": "2026-10-28",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=da3c4d34bd77520bd700b0fb2bb4ee96990fdce37cb1bd864c79c931d19c1e99",
+            "views": 0,
+            "time": 1793194233
+        },
+        "6ae1f8f68e1e7": {
+            "id": "6ae1f8f68e1e7",
+            "date": "2026-10-28",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/3CSeRCJO_WA",
+            "views": 0,
+            "time": 1793194230
+        },
         "6ae1dcdc4e2a4": {
             "id": "6ae1dcdc4e2a4",
             "date": "2026-10-28",
