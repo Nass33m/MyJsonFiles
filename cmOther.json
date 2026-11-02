@@ -1,5 +1,27 @@
 {
     "links": {
+        "6ae8826e1c32a": {
+            "id": "6ae8826e1c32a",
+            "date": "2026-11-02",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=0997af56b04fbe747341a7072b5acce846bebb5f56e0253ffe6e001a264412a0",
+            "views": 0,
+            "time": 1793622638
+        },
+        "6ae86f908f0294.86638868": {
+            "id": "6ae86f908f0294.86638868",
+            "date": "2026-11-02",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4zdObdR",
+            "views": 0,
+            "time": 1793617808
+        },
         "6ae7aad1e5489": {
             "id": "6ae7aad1e5489",
             "date": "2026-11-01",
@@ -450,215 +472,6 @@
             "url": "https://familyisland.onelink.me/wjlA/3lo3uu0x",
             "views": 0,
             "time": 1793441423
-        },
-        "6ae4f9dc14301": {
-            "id": "6ae4f9dc14301",
-            "date": "2026-10-30",
-            "name": "CM Board Adventure Bonus",
-            "game": "CM Board Adventure",
-            "type": "energy",
-            "number": 0,
-            "url": "https://cmboard.co/QBrdpa",
-            "views": 0,
-            "time": 1793391068
-        },
-        "6ae4f9d5d5299": {
-            "id": "6ae4f9d5d5299",
-            "date": "2026-10-30",
-            "name": "Piggy Go Bonus",
-            "game": "Piggy Go",
-            "type": "dice",
-            "number": 10,
-            "url": "https://piggygo-jy.forevernine.com/fanpage?code=OVUGF94D&channel=1",
-            "views": 0,
-            "time": 1793391061
-        },
-        "6ae4f9ce7c30b": {
-            "id": "6ae4f9ce7c30b",
-            "date": "2026-10-30",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/kIFLaOIhp4w",
-            "views": 0,
-            "time": 1793391054
-        },
-        "6ae4f9cb801a4": {
-            "id": "6ae4f9cb801a4",
-            "date": "2026-10-30",
-            "name": "Dice Dreams Bonus",
-            "game": "Dice Dreams",
-            "type": "dice",
-            "number": 50,
-            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_301026cxz",
-            "views": 0,
-            "time": 1793391051
-        },
-        "6ae4f9c8b8d83": {
-            "id": "6ae4f9c8b8d83",
-            "date": "2026-10-30",
-            "name": "Bingo Blitz Bonus",
-            "game": "Bingo Blitz",
-            "type": "other",
-            "number": 10,
-            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=788d2394fb83fcb1933ea1729d738557cd2f715d11fa4272b7bbe3a079b375b5",
-            "views": 0,
-            "time": 1793391048
-        },
-        "6ae4f9c5f3252": {
-            "id": "6ae4f9c5f3252",
-            "date": "2026-10-30",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 20,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/8MqO657Y_WA",
-            "views": 0,
-            "time": 1793391045
-        },
-        "6ae4c197f0f63": {
-            "id": "6ae4c197f0f63",
-            "date": "2026-10-30",
-            "name": "Animals and Coins Bonus",
-            "game": "Animals and Coins",
-            "type": "energy",
-            "number": 0,
-            "url": "https://coinraid.sng.link/A0ojf/nsf5?_dl=reward&_p=e77d3ed6a0311711c263e7346998ace06721e100&_smtype=3&_force_redirect=1?ref=gamexlite.com",
-            "views": 0,
-            "time": 1793376663
-        },
-        "6ae4c191c60f2": {
-            "id": "6ae4c191c60f2",
-            "date": "2026-10-30",
-            "name": "Monopoly Go Bonus",
-            "game": "Monopoly Go",
-            "type": "dice",
-            "number": 25,
-            "url": "https://mply.io/0CeIVGML4IY",
-            "views": 0,
-            "time": 1793376657
-        },
-        "6ae4b364e56d05.00228610": {
-            "id": "6ae4b364e56d05.00228610",
-            "date": "2026-10-30",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 0,
-            "url": "https://familyisland.onelink.me/wjlA/txcc1h4k",
-            "views": 0,
-            "time": 1793373028
-        },
-        "6ae49bf2cd97e": {
-            "id": "6ae49bf2cd97e",
-            "date": "2026-10-30",
-            "name": "Match Masters Bonus",
-            "game": "Match Masters",
-            "type": "mat masters",
-            "number": 0,
-            "url": "https://launch.matchmasters.com/l/p/c2DkJ0YsZJs",
-            "views": 0,
-            "time": 1793367026
-        },
-        "6ae49be92da45": {
-            "id": "6ae49be92da45",
-            "date": "2026-10-30",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 15,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/zRGpnPwg_INS",
-            "views": 0,
-            "time": 1793367017
-        },
-        "6ae47fe8c7a96": {
-            "id": "6ae47fe8c7a96",
-            "date": "2026-10-30",
-            "name": "Piggy Go Bonus",
-            "game": "Piggy Go",
-            "type": "dice",
-            "number": 10,
-            "url": "https://piggygo-jy.forevernine.com/fanpage?code=EU46O019&channel=4",
-            "views": 0,
-            "time": 1793359848
-        },
-        "6ae46d1980eaa3.40679348": {
-            "id": "6ae46d1980eaa3.40679348",
-            "date": "2026-10-30",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 0,
-            "url": "https://thefamilyisland.com/3TODVtl",
-            "views": 0,
-            "time": 1793355034
-        },
-        "6ae46d18ab5d02.05653413": {
-            "id": "6ae46d18ab5d02.05653413",
-            "date": "2026-10-30",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 0,
-            "url": "https://thefamilyisland.com/4jRQm1Z",
-            "views": 0,
-            "time": 1793355033
-        },
-        "6ae46d17bd8443.59205386": {
-            "id": "6ae46d17bd8443.59205386",
-            "date": "2026-10-30",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 0,
-            "url": "https://thefamilyisland.com/4hTlQlD",
-            "views": 0,
-            "time": 1793355032
-        },
-        "6ae46d16ee33d5.51786895": {
-            "id": "6ae46d16ee33d5.51786895",
-            "date": "2026-10-30",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 0,
-            "url": "https://thefamilyisland.com/3TOEbsj",
-            "views": 0,
-            "time": 1793355031
-        },
-        "6ae46d16094d92.56073754": {
-            "id": "6ae46d16094d92.56073754",
-            "date": "2026-10-30",
-            "name": "Family Island Bonus",
-            "game": "Family Island",
-            "type": "energy",
-            "number": 0,
-            "url": "https://thefamilyisland.com/4icIHtT",
-            "views": 0,
-            "time": 1793355030
-        },
-        "6ae463cf36cf6": {
-            "id": "6ae463cf36cf6",
-            "date": "2026-10-30",
-            "name": "Travel Town Bonus",
-            "game": "Travel Town",
-            "type": "energy",
-            "number": 20,
-            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/PUMvYfhA_FCB",
-            "views": 0,
-            "time": 1793352655
-        },
-        "6ae463cbf2675": {
-            "date": "2026-10-30",
-            "id": "6ae463cbf2675",
-            "name": "Coin Tales Bonus",
-            "game": "Coin Tales",
-            "type": "other",
-            "number": 50,
-            "url": "https://cutt.ly/9yYFDpiQ",
-            "views": 0,
-            "time": 1793352651
         }
     }
 }
