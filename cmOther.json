@@ -1,5 +1,27 @@
 {
     "links": {
+        "6aede4a88892d": {
+            "id": "6aede4a88892d",
+            "date": "2026-11-06",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/sCXH4uGImoY",
+            "views": 0,
+            "time": 1793975464
+        },
+        "6aede49d77e06": {
+            "id": "6aede49d77e06",
+            "date": "2026-11-06",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/bwbwrGV6_INS",
+            "views": 0,
+            "time": 1793975453
+        },
         "6aedc8911e7ad": {
             "id": "6aedc8911e7ad",
             "date": "2026-11-06",
