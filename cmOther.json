@@ -1,5 +1,27 @@
 {
     "links": {
+        "6af47c138d510": {
+            "id": "6af47c138d510",
+            "date": "2026-11-11",
+            "name": "CM Board Adventure Bonus",
+            "game": "CM Board Adventure",
+            "type": "energy",
+            "number": 0,
+            "url": "https://d10xl.com/boardadventure/yULdF",
+            "views": 0,
+            "time": 1794407443
+        },
+        "6af47bfa85be1": {
+            "id": "6af47bfa85be1",
+            "date": "2026-11-11",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/DkBDiZn4_TRADING",
+            "views": 0,
+            "time": 1794407418
+        },
         "6af45fff8b2ed": {
             "id": "6af45fff8b2ed",
             "date": "2026-11-11",
