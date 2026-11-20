@@ -1,5 +1,71 @@
 {
     "links": {
+        "6b00b770d48e4": {
+            "id": "6b00b770d48e4",
+            "date": "2026-11-20",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=WDRQ0GCU&channel=4",
+            "views": 0,
+            "time": 1795209072
+        },
+        "6b00b76e0b71e": {
+            "id": "6b00b76e0b71e",
+            "date": "2026-11-20",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/V2Nl1T8xAhc",
+            "views": 0,
+            "time": 1795209070
+        },
+        "6b00b75413c68": {
+            "id": "6b00b75413c68",
+            "date": "2026-11-20",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/A-BY3Hxz4KQ",
+            "views": 0,
+            "time": 1795209044
+        },
+        "6b00b751399ca": {
+            "id": "6b00b751399ca",
+            "date": "2026-11-20",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_201126czz",
+            "views": 0,
+            "time": 1795209041
+        },
+        "6b00b74e6bbb3": {
+            "id": "6b00b74e6bbb3",
+            "date": "2026-11-20",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=7a89a45e687b0d9b56afd7cb20fda93673619c9986a85ed3bb524bb12db84ae8",
+            "views": 0,
+            "time": 1795209038
+        },
+        "6b00b74b67623": {
+            "id": "6b00b74b67623",
+            "date": "2026-11-20",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/ZVpKOcNS_WA",
+            "views": 0,
+            "time": 1795209035
+        },
         "6b007f6ee1604": {
             "id": "6b007f6ee1604",
             "date": "2026-11-20",
