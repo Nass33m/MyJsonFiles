@@ -1,5 +1,49 @@
 {
     "links": {
+        "6b05fd51ccf7e": {
+            "id": "6b05fd51ccf7e",
+            "date": "2026-11-24",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=1T6B3L27&channel=4",
+            "views": 0,
+            "time": 1795554641
+        },
+        "6b05fd3919e25": {
+            "id": "6b05fd3919e25",
+            "date": "2026-11-24",
+            "name": "Match Masters Bonus",
+            "game": "Match Masters",
+            "type": "mat masters",
+            "number": 0,
+            "url": "https://launch.matchmasters.com/l/p/1vak_6Tbdtw",
+            "views": 0,
+            "time": 1795554617
+        },
+        "6b05fd369866a": {
+            "id": "6b05fd369866a",
+            "date": "2026-11-24",
+            "name": "Dice Dreams Bonus",
+            "game": "Dice Dreams",
+            "type": "dice",
+            "number": 50,
+            "url": "https://rewards.dicedreams.com/?handler=reward&link=CommunityPost_241126bpl",
+            "views": 0,
+            "time": 1795554614
+        },
+        "6b05fd3141ac9": {
+            "id": "6b05fd3141ac9",
+            "date": "2026-11-24",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/pL7CXt7b_FCB",
+            "views": 0,
+            "time": 1795554609
+        },
         "6b059fb915e8a": {
             "id": "6b059fb915e8a",
             "date": "2026-11-24",
