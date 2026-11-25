@@ -1,5 +1,60 @@
 {
     "links": {
+        "6b06d4ffbf75f": {
+            "id": "6b06d4ffbf75f",
+            "date": "2026-11-25",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=WXIK9IFQ&channel=1",
+            "views": 0,
+            "time": 1795609855
+        },
+        "6b06d4e203a73": {
+            "id": "6b06d4e203a73",
+            "date": "2026-11-25",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 15,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/NMEMyPvg_INS",
+            "views": 0,
+            "time": 1795609826
+        },
+        "6b06c21a5e1c76.84079153": {
+            "id": "6b06c21a5e1c76.84079153",
+            "date": "2026-11-25",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4iw3N6N",
+            "views": 0,
+            "time": 1795605019
+        },
+        "6b06c21a1b1817.38320106": {
+            "id": "6b06c21a1b1817.38320106",
+            "date": "2026-11-25",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4sOLsFD",
+            "views": 0,
+            "time": 1795605018
+        },
+        "6b06c219c4b0a4.15920021": {
+            "id": "6b06c219c4b0a4.15920021",
+            "date": "2026-11-25",
+            "name": "Family Island Bonus",
+            "game": "Family Island",
+            "type": "energy",
+            "number": 0,
+            "url": "https://thefamilyisland.com/4sPj8CO",
+            "views": 0,
+            "time": 1795605017
+        },
         "6b06b8f09894a": {
             "id": "6b06b8f09894a",
             "date": "2026-11-25",
