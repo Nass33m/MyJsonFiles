@@ -1,5 +1,16 @@
 {
     "links": {
+        "6b0672850462b": {
+            "date": "2026-11-25",
+            "id": "6b0672850462b",
+            "name": "Collect Your Random Bonus Rewards",
+            "game": "Coin Master",
+            "type": "spins",
+            "number": 1,
+            "url": "coinmaster:\/\/linkhub-v2\/?lt=eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJjaWQiOiI1NDllYzE5MC04MDY5LTRhNmYtOTFkNi1hNDY1YTU0M2RmZmYiLCJleHAiOm51bGx9.B8KHpGYsUrluLHE3AOwrNQBI2akihrtCg9i2K7yU5__HR6imUVqjIme-dh9_TEmh_KHn_kWgC25yFsyjti0DAA",
+            "views": 0,
+            "time": 1795584647
+        },
         "6b067284815a5": {
             "date": "2026-11-25",
             "id": "6b067284815a5",
@@ -296,17 +307,6 @@
             "url": "https:\/\/coinmaster.onelink.me\/2792196939?af_xp=social&pid=Reward%20link&deep_link_value=coinmaster%3A%2F%2F&deep_link_sub1=promotions&af_dp=coinmaster%3A%2F%2Fpromotions&af_force_deeplink=true&c=pe_TWIgZZWZe_20261122&af_web_dp=https%3A%2F%2Frewards.coinmaster.com%2Frewards%2Fplayonmobile.png&af_adset=TWI&af_ad=t.co",
             "views": 0,
             "time": 1795332649
-        },
-        "6b029a2804d14": {
-            "date": "2026-11-22",
-            "id": "6b029a2804d14",
-            "name": "50 Spins",
-            "game": "Coin Master",
-            "type": "spins",
-            "number": 50,
-            "url": "https:\/\/coinmaster.onelink.me\/2792196939?af_xp=social&pid=Reward%20link&deep_link_value=coinmaster%3A%2F%2F&deep_link_sub1=promotions&af_dp=coinmaster%3A%2F%2Fpromotions&af_force_deeplink=true&c=pe_FCBaiATNp_20261122&af_web_dp=https%3A%2F%2Frewards.coinmaster.com%2Frewards%2Fplayonmobile.png&af_adset=FCB&af_ad=lm.facebook.com",
-            "views": 0,
-            "time": 1795332648
         }
     }
 }
