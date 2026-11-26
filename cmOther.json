@@ -1,5 +1,49 @@
 {
     "links": {
+        "6b08a068f341c": {
+            "id": "6b08a068f341c",
+            "date": "2026-11-26",
+            "name": "Piggy Go Bonus",
+            "game": "Piggy Go",
+            "type": "dice",
+            "number": 10,
+            "url": "https://piggygo-jy.forevernine.com/fanpage?code=HWVU5KFA&channel=4",
+            "views": 0,
+            "time": 1795727464
+        },
+        "6b08a06688000": {
+            "id": "6b08a06688000",
+            "date": "2026-11-26",
+            "name": "Monopoly Go Bonus",
+            "game": "Monopoly Go",
+            "type": "dice",
+            "number": 25,
+            "url": "https://mply.io/bSfoe-4YWRY",
+            "views": 0,
+            "time": 1795727462
+        },
+        "6b08a04f935bf": {
+            "id": "6b08a04f935bf",
+            "date": "2026-11-26",
+            "name": "Bingo Blitz Bonus",
+            "game": "Bingo Blitz",
+            "type": "other",
+            "number": 10,
+            "url": "https://bingo-app-dsa.playtika.com/bingo2-v2-bingoblitz/incentive/?incentive=98debca7bb8d7f84ec7d7b38d1c75c81c8ea06e13208f5dc5d83892be62e3ad2",
+            "views": 0,
+            "time": 1795727439
+        },
+        "6b08a04d1f256": {
+            "id": "6b08a04d1f256",
+            "date": "2026-11-26",
+            "name": "Travel Town Bonus",
+            "game": "Travel Town",
+            "type": "energy",
+            "number": 20,
+            "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/XRkZ6LCV_WA",
+            "views": 0,
+            "time": 1795727437
+        },
         "6b08681dee68d": {
             "id": "6b08681dee68d",
             "date": "2026-11-26",
