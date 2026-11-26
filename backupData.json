@@ -1,5 +1,16 @@
 {
     "links": {
+        "6b07f53a0d4fd": {
+            "date": "2026-11-26",
+            "id": "6b07f53a0d4fd",
+            "name": "Random Bonus Rewards",
+            "game": "Coin Master",
+            "type": "spins",
+            "number": 0,
+            "url": "https:\/\/rewardsmasterapp.com\/rewards.php\/reward=eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJjaWQiOiIyMmEzNjg4Ny1mNTU3LTRmMTQtYmRlOC1iY2I4MTE4MGUyYWYiLCJleHAiOm51bGx9.RUlB30dprkapmfE_ndJBMUYITlNemRNUf7Fp-f92JHYSCq7I6vygEy36Q8QWxENLvs40aQRkAFk8Vjy3nvDqBQ",
+            "views": 0,
+            "time": 1795683642
+        },
         "6b07e0227de36": {
             "date": "2026-11-26",
             "id": "6b07e0227de36",
@@ -494,17 +505,6 @@
             "url": "https:\/\/coinmaster.onelink.me\/2792196939?af_xp=social&pid=Reward%20link&deep_link_value=coinmaster%3A%2F%2F&deep_link_sub1=promotions&af_dp=coinmaster%3A%2F%2Fpromotions&af_force_deeplink=true&c=pe_EMAILNCWShR_20261121&af_web_dp=https%3A%2F%2Frewards.coinmaster.com%2Frewards%2Fplayonmobile.png&af_adset=EMAIL&af_ad=levvvel.com",
             "views": 0,
             "time": 1795442455
-        },
-        "6b03f2ae4c1d8": {
-            "date": "2026-11-23",
-            "id": "6b03f2ae4c1d8",
-            "name": "50 spins",
-            "game": "Coin Master",
-            "type": "spins",
-            "number": 50,
-            "url": "https:\/\/coinmaster.onelink.me\/2792196939?af_xp=social&pid=Reward%20link&deep_link_value=coinmaster%3A%2F%2F&deep_link_sub1=promotions&af_dp=coinmaster%3A%2F%2Fpromotions&af_force_deeplink=true&c=pe_TWItIZikB_20261123&af_web_dp=https%3A%2F%2Frewards.coinmaster.com%2Frewards%2Fplayonmobile.png&af_adset=TWI&af_ad=t.co",
-            "views": 0,
-            "time": 1795420846
         }
     }
 }
